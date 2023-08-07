@@ -101,9 +101,17 @@ export default function Header ( props ) {
                 </div>
             </div>
 
-            <div className={ `header-bottom ${ router.pathname === '/' ? '' : 'pb-0' }` }>
+            <div className="header-bottom has-center sticky-header fix-top sticky-content d-lg-show">
                 <div className="container">
+                    <div className="inner-wrap">
+                        <div className="header-left"></div>
+
+                        <div className="header-center">
                     <MainMenu />
+                        </div>
+
+                        <div className="header-right"></div>
+                    </div>
                 </div>
             </div>
         </header >

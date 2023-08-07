@@ -1,11 +1,7 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
 
-import { useQuery } from "@apollo/react-hooks";
-
-// Import Apollo Server and Query
-import withApollo from '../server/apollo';
-import { GET_HOME_DATA } from '../server/queries';
+import productos from '../pages/api/demo-market1.json'; // Ruta correcta hacia el archivo JSON
 
 // import Home Components
 import NewsletterModal from '~/components/features/modals/newsletter-modal';
@@ -26,21 +22,14 @@ import BrandSection from '~/components/partials/home/brand-section';
 import BlogSection from '~/components/partials/home/blog-section';
 import RecentCollection from '~/components/partials/home/recent-collection';
 import IntroSectionV2 from "~/components/partials/home/intro-section-v2";
+import IntroSectionTopBanner from "~/components/partials/home/intro-section-top-banner";
 
 function HomePage () {
-    const { data, loading, error } = useQuery( GET_HOME_DATA, { variables: { productsCount: 9 } } );
-    //console.log( data && data.specialProducts.onSale);
-    //Ofertas del dia
-    const onSale = data && data.specialProducts.onSale;
 
-    //Más Vendido
-    const bestSelling = data && data.specialProducts.bestSelling;
-
-    // const latest = data && data.specialProducts.latest;
-    // const electronics = data && data.electronics.data;
-    // const clothings = data && data.clothings.data;
-    // const foods = data && data.foods.data;
-    // const posts = data && data.posts.data;
+    const bestSelling = productos.bestSelling;
+    const productCollection = productos.productCollection;
+    const featured = productos.featured;
+    const latest = productos.latest;
 
     return (
         <div className="main home">
@@ -54,13 +43,15 @@ function HomePage () {
             <div className="page-content">
                 <div className="intro-section">
                     <div className="container">
+                        <IntroSectionTopBanner />
+
                         <IntroSection />
 
                         <ServiceBox />
                     </div>
                 </div>
 
-                <DealCollection products={ onSale } loading={ loading } />
+                <DealCollection products={ latest } loading={false} />
 
                 <CategorySection />
 
@@ -81,7 +72,7 @@ function HomePage () {
 
                 {/*<FoodCollection products={ foods } loading={ loading } />*/}
 
-                <BestCollection products={ bestSelling } loading={ loading } />
+                <BestCollection products={ bestSelling } loading={false} />
 
 
 
@@ -104,4 +95,4 @@ function HomePage () {
     )
 }
 
-export default withApollo( { ssr: typeof window === 'undefined' } )( HomePage );
+export default ( HomePage );

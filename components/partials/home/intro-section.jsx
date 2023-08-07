@@ -17,7 +17,7 @@ function IntroSection ( props ) {
                     <div className="banner banner-fixed content-middle intro-slide intro-slide1 banner-radius" style={ { backgroundColor: "#f8f8f8" } }>
                         <figure>
                             <LazyLoadImage
-                                src="images/home/slides/1.jpg"
+                                src="images/home/slides/catalogo-celulares.jpg"
                                 alt="Banner"
                                 width="1030"
                                 height="450"
@@ -25,20 +25,20 @@ function IntroSection ( props ) {
                         </figure>
                         <div className="banner-content">
                             <Reveal keyframes={ fadeInLeftShorter } duration={ 1000 }>
-                                <h5 className="banner-subtitle text-capitalize font-weight-normal">Samsung </h5>
-                                <h3 className="banner-title text-uppercase font-weight-bold ls-m"> Galaxy A54</h3>
+                                <h5 className="banner-subtitle text-capitalize font-weight-normal">Tu distribuidor</h5>
+                                <h3 className="banner-title text-uppercase font-weight-bold ls-m"> MAYORISTA</h3>
                                 <div className="banner-price-info font-weight-semi-bold text-body text-uppercase ls-m">
-                                    Simplicidad inspirada
+                                    de confianza.
                                 </div>
                                 <ALink href="../product/default/samsung-a24-black/" className="btn btn-dark btn-outline btn-rounded">
-                                    Ver Aquí<i className="d-icon-arrow-right"></i></ALink>
+                                    Ver Catálogo<i className="d-icon-arrow-right"></i></ALink>
                             </Reveal>
                         </div>
                     </div>
                     <div className="banner banner-fixed content-middle intro-slide intro-slide2 banner-radius" style={ { backgroundColor: "#e2e2e3" } }>
                         <figure>
                             <LazyLoadImage
-                                src="images/home/slides/2.jpg"
+                                src="images/home/slides/tvs.jpg"
                                 alt="Banner"
                                 width="1030"
                                 height="450"
@@ -57,27 +57,27 @@ function IntroSection ( props ) {
                             </Reveal>
                         </div>
                     </div>
-                    <div className="banner banner-fixed content-middle intro-slide intro-slide3 banner-radius" style={ { backgroundColor: "#d8dee4" } }>
-                        <figure>
-                            <LazyLoadImage
-                                src="images/home/slides/3.jpg"
-                                alt="Banner"
-                                width="1030"
-                                height="450"
-                            />
-                        </figure>
-                        <div className="banner-content">
-                            <Reveal keyframes={ fadeInLeftShorter } duration={ 1000 }>
-                                <h5 className="banner-subtitle text-capitalize font-weight-normal mb-1">Tu TV ideal</h5>
-                                <h3 className="banner-title text-uppercase font-weight-bold ls-m">Smart TV</h3>
-                                <div className="banner-price-info font-weight-semi-bold text-dark text-uppercase ls-m">
-                                    Brillante y colorido, <span className="text-primary">QLED 4k</span>
-                                </div>
-                                <p className="text-dark font-weight-normal">Explora cual de nuestras TVs, se adapta más a ti</p>
-                                <ALink href="/shop" className="btn btn-dark btn-outline btn-rounded">Comprar<i className="d-icon-arrow-right"></i></ALink>
-                            </Reveal>
-                        </div>
-                    </div>
+                    {/*<div className="banner banner-fixed content-middle intro-slide intro-slide3 banner-radius" style={ { backgroundColor: "#d8dee4" } }>*/}
+                    {/*    <figure>*/}
+                    {/*        <LazyLoadImage*/}
+                    {/*            src="images/home/slides/3.jpg"*/}
+                    {/*            alt="Banner"*/}
+                    {/*            width="1030"*/}
+                    {/*            height="450"*/}
+                    {/*        />*/}
+                    {/*    </figure>*/}
+                    {/*    <div className="banner-content">*/}
+                    {/*        <Reveal keyframes={ fadeInLeftShorter } duration={ 1000 }>*/}
+                    {/*            <h5 className="banner-subtitle text-capitalize font-weight-normal mb-1">Tu TV ideal</h5>*/}
+                    {/*            <h3 className="banner-title text-uppercase font-weight-bold ls-m">Smart TV</h3>*/}
+                    {/*            <div className="banner-price-info font-weight-semi-bold text-dark text-uppercase ls-m">*/}
+                    {/*                Brillante y colorido, <span className="text-primary">QLED 4k</span>*/}
+                    {/*            </div>*/}
+                    {/*            <p className="text-dark font-weight-normal">Explora cual de nuestras TVs, se adapta más a ti</p>*/}
+                    {/*            <ALink href="/shop" className="btn btn-dark btn-outline btn-rounded">Comprar<i className="d-icon-arrow-right"></i></ALink>*/}
+                    {/*        </Reveal>*/}
+                    {/*    </div>*/}
+                    {/*</div>*/}
                 </OwlCarousel >
             </div>
             <div className="col-lg-3">

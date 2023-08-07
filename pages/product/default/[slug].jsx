@@ -1,12 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useRouter } from 'next/router';
-import { useQuery } from '@apollo/react-hooks';
 import Helmet from 'react-helmet';
 import imagesLoaded from 'imagesloaded';
-
-import withApollo from '~/server/apollo';
-import { GET_PRODUCT } from '~/server/queries';
-
 import ALink from '~/components/features/custom-link';
 import OwlCarousel from '~/components/features/owl-carousel';
 
@@ -16,18 +11,44 @@ import DescOne from '~/components/partials/product/desc/desc-one';
 import RelatedProducts from '~/components/partials/product/related-products';
 import ProductSidebar from '~/components/partials/product/product-sidebar';
 import ProductNav from '~/components/partials/product/product-nav';
-
 import { mainSlider17 } from '~/utils/data/carousel';
+import jsonData from "~/pages/api/demo-market1.json";
 
 function ProductRightSidebar () {
-    const slug = useRouter().query.slug;
+    const router = useRouter();
+    const { slug } = router.query;
 
-    if ( !slug ) return '';
+    if (!slug) return '';
 
-    const { data, loading, error } = useQuery( GET_PRODUCT, { variables: { slug } } );
-    const [ loaded, setLoadingState ] = useState( false );
-    const product = data && data.product.data;
-    const related = data && data.product.related;
+    console.log("slug: "+ slug);
+
+    const foundInBestSelling = jsonData.bestSelling.find(item => item.slug === slug);
+    const foundInFeatured = jsonData.featured.find(item => item.slug === slug);
+    const foundInCollection = jsonData.productCollection.find(item => item.slug === slug);
+    const foundInLatest = jsonData.latest.find(item => item.slug === slug);
+
+    let product = null;
+
+    if (foundInFeatured) {
+        product = foundInFeatured;
+        console.log(product);
+    } else if (foundInBestSelling) {
+        product = foundInBestSelling;
+        console.log(product);
+    } else if (foundInLatest) {
+        product = foundInLatest;
+        console.log(product);
+    }else if (foundInCollection) {
+        product = foundInCollection;
+        console.log(product);
+    }
+
+
+    //const { data, loading, error } = useQuery(GET_PRODUCT, { variables: { slug } });
+    const [loaded, setLoadingState] = useState(false);
+    const [loading, setLoading] = useState(false);
+    //const product = data && data.product.data;
+    //const related = data && data.product.related;
 
     useEffect( () => {
         if ( !loading && product )
@@ -59,7 +80,7 @@ function ProductRightSidebar () {
                                     <li>Detail</li>
                                 </ul>
 
-                                <ProductNav product={ data && data.product } adClass="mb-0" />
+                                <ProductNav product={ product } adClass="mb-0" />
                             </nav>
 
                             <div className="page-content mb-10 pb-6">
@@ -72,13 +93,13 @@ function ProductRightSidebar () {
                                         </div>
 
                                         <div className="col-md-6">
-                                            <DetailThree data={ data } isNav={ false } />
+                                            <DetailThree data={ product } isNav={ false } />
                                         </div>
                                     </div>
 
-                                    <DescOne product={ product } isDivider={ false } />
+                                    {/*<DescOne product={ product } isDivider={ false } />*/}
 
-                                    <RelatedProducts products={ related } />
+                                    {/*<RelatedProducts products={ related } />*/}
                                 </div>
                             </div>
                         </div>
@@ -125,4 +146,4 @@ function ProductRightSidebar () {
     )
 }
 
-export default withApollo( { ssr: typeof window === 'undefined' } )( ProductRightSidebar );
+export default ( ProductRightSidebar );

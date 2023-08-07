@@ -2,32 +2,32 @@ export const mainMenu = {
     "shop": {
         "variation1": [
             {
-                "title": "Banner With Sidebar",
+                "title": "Samsung",
                 "url": "shop/banner-sidebar"
             },
             {
-                "title": "Boxed Banner",
+                "title": "Infinix",
                 "url": "shop/boxed-banner"
             },
             {
-                "title": "Infinite Ajaxscroll",
+                "title": "Xiaomi",
                 "url": "shop/infinite-scroll"
             },
             {
-                "title": "Horizontal Filter",
+                "title": "Honor",
                 "url": "shop/horizontal-filter"
             },
             {
-                "title": "Navigation Filter",
+                "title": "Nokia",
                 "url": "shop/navigation-filter",
                 "hot": true
             },
             {
-                "title": "Off-Canvas Filter",
+                "title": "Blu",
                 "url": "shop/off-canvas-filter"
             },
             {
-                "title": "Right Toggle Sidebar",
+                "title": "TCL",
                 "url": "shop/right-sidebar"
             }
         ],
@@ -66,37 +66,8 @@ export const mainMenu = {
     "product": {
         "pages": [
             {
-                "title": "Simple Product",
+                "title": "Samsung",
                 "url": "product/default/fashionable-overnight-bag"
-            },
-            {
-                "title": "Variable Product",
-                "url": "product/default/cavin-fashion-suede-handbag"
-            },
-            {
-                "title": "Sale Product",
-                "url": "product/default/mackintosh-poket-backpack"
-            },
-            {
-                "title": "Feature & On Sale",
-                "url": "product/default/cavin-klein-fashion-sheepskin-handbag"
-            },
-            {
-                "title": "With Left Sidebar",
-                "url": "product/left-sidebar/fashionable-leather-satchel"
-            },
-            {
-                "title": "With Right Sidebar",
-                "url": "product/right-sidebar/fashionable-leather-satchel"
-            },
-            {
-                "title": "Add Cart Sticky",
-                "url": "product/sticky-cart/fashionable-leather-satchel",
-                "hot": true
-            },
-            {
-                "title": "Tab Inside",
-                "url": "product/tab-inside/fashionable-leather-satchel"
             }
         ],
         "layout": [
@@ -137,99 +108,32 @@ export const mainMenu = {
     },
     "other": [
         {
-            "title": "About",
+            "title": "Samsung",
             "url": "pages/about-us"
         },
         {
-            "title": "Contact Us",
+            "title": "Nokia",
             "url": "pages/contact-us"
-        },
-        {
-            "title": "My Account",
-            "url": "pages/account"
-        },
-        {
-            "title": "FAQs",
-            "url": "pages/faqs"
-        },
-        {
-            "title": "Error 404",
-            "url": "pages/404"
-        },
-        {
-            "title": "Coming Soon",
-            "url": "pages/coming-soon"
         }
     ],
     "blog": [
         {
-            "title": "Classic",
+            "title": "SmartWatch",
             "url": "blog/classic"
         },
         {
-            "title": "Listing",
+            "title": "Buds",
             "url": "blog/listing"
         },
+
+
         {
-            "title": "Grid",
-            "url": "blog/grid/2cols",
-            "subPages": [
-                {
-                    "title": "Grid 2 columns",
-                    "url": "blog/grid/2cols"
-                },
-                {
-                    "title": "Grid 3 columns",
-                    "url": "blog/grid/3cols"
-                },
-                {
-                    "title": "Grid 4 columns",
-                    "url": "blog/grid/4cols"
-                },
-                {
-                    "title": "Grid sidebar",
-                    "url": "blog/grid/sidebar"
-                }
-            ]
-        },
-        {
-            "title": "Masonry",
-            "url": "blog/masonry/2cols",
-            "subPages": [
-                {
-                    "title": "Masonry 2 columns",
-                    "url": "blog/masonry/2cols"
-                },
-                {
-                    "title": "Masonry 3 columns",
-                    "url": "blog/masonry/3cols"
-                },
-                {
-                    "title": "Masonry 4 columns",
-                    "url": "blog/masonry/4cols"
-                },
-                {
-                    "title": "Masonry sidebar",
-                    "url": "blog/masonry/sidebar"
-                }
-            ]
-        },
-        {
-            "title": "Mask",
+            "title": "Cargadores",
             "url": "blog/mask/grid",
-            "subPages": [
-                {
-                    "title": "Blog mask grid",
-                    "url": "blog/mask/grid"
-                },
-                {
-                    "title": "Blog mask masonry",
-                    "url": "blog/mask/masonry"
-                }
-            ]
+
         },
         {
-            "title": "Single Post",
+            "title": "Case",
             "url": "blog/single/pellentesque-fusce-suscipit"
         }
     ],

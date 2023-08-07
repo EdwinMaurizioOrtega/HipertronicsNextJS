@@ -81,32 +81,32 @@ export default function MediaFive( props ) {
                 }
             </div>
 
-            <OwlCarousel adClass="product-single-carousel owl-theme owl-nav-inner"
-                options={ mainSlider3 }
-                onChangeIndex={ setIndexHandler }
-                onChangeRef={ changeRefHandler }
-                events={ events }
-            >
-                {
-                    lgImages.map( ( image, index ) =>
-                        <div key={ image + '-' + index }>
-                            <Magnifier
-                                imageSrc={ process.env.NEXT_PUBLIC_ASSET_URI + image.url }
-                                imageAlt="magnifier"
-                                largeImageSrc={ process.env.NEXT_PUBLIC_ASSET_URI + image.url }
-                                dragToMove={ false }
-                                mouseActivation="hover"
-                                cursorStyleActive="crosshair"
-                                className="product-image large-image"
+            {/*<OwlCarousel adClass="product-single-carousel owl-theme owl-nav-inner"*/}
+            {/*    options={ mainSlider3 }*/}
+            {/*    onChangeIndex={ setIndexHandler }*/}
+            {/*    onChangeRef={ changeRefHandler }*/}
+            {/*    events={ events }*/}
+            {/*>*/}
+            {/*    {*/}
+            {/*        lgImages.map( ( image, index ) =>*/}
+            {/*            <div key={ image + '-' + index }>*/}
+            {/*                <Magnifier*/}
+            {/*                    imageSrc={ process.env.NEXT_PUBLIC_ASSET_URI + image.url }*/}
+            {/*                    imageAlt="magnifier"*/}
+            {/*                    largeImageSrc={ process.env.NEXT_PUBLIC_ASSET_URI + image.url }*/}
+            {/*                    dragToMove={ false }*/}
+            {/*                    mouseActivation="hover"*/}
+            {/*                    cursorStyleActive="crosshair"*/}
+            {/*                    className="product-image large-image"*/}
 
-                            />
-                        </div>
-                    ) }
-            </OwlCarousel>
+            {/*                />*/}
+            {/*            </div>*/}
+            {/*        ) }*/}
+            {/*</OwlCarousel>*/}
 
-            <ALink href="#" className="product-image-full" onClick={ openLightBox }><i className="d-icon-zoom"></i></ALink>
+            {/*<ALink href="#" className="product-image-full" onClick={ openLightBox }><i className="d-icon-zoom"></i></ALink>*/}
 
-            <ThumbTwo product={ product } index={ index } onChangeIndex={ setIndexHandler } />
+            {/*<ThumbTwo product={ product } index={ index } onChangeIndex={ setIndexHandler } />*/}
 
             <MediaLightBox images={ lgImages } isOpen={ isOpen } changeOpenState={ changeOpenState } index={ index } product={ product } />
         </div>
