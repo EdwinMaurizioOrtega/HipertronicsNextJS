@@ -30,7 +30,7 @@
     }
     letter-spacing: 0;
     line-height: 1.2;
-    text-transform: uppercase;
+    //text-transform: uppercase;
     text-align: center;
     transition: color .3s, border-color .3s, background-color .3s, box-shadow .3s;
     white-space: nowrap;
@@ -382,7 +382,9 @@
     padding: 0;
     @include only-for-ie() {
         overflow: visible;
+      
     }
+    
 }
 
 
@@ -432,7 +434,7 @@
     }
     &.btn-link {
         color: #fff;
-        background-color: transparent;
+        background-color: #E9650D;
         &:hover,
         &:active,
         &:focus {

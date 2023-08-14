@@ -24,8 +24,8 @@
     }
     &.btn-outline {
         color: $color;
-        border-color: $color;
-        background-color: transparent;
+        border-color: #E9650D;
+        background-color: #E9650D;
         &:hover,
         &:active,
         &:focus {
@@ -34,7 +34,7 @@
         }
     }
     &.btn-link {
-        background-color: transparent;
+        background-color: #E9650D;
         color: $color;
         &:hover,
         &:active,

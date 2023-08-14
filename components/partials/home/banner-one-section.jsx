@@ -24,7 +24,7 @@ function BannerOneSection () {
                             <h4 className="banner-subtitle font-weight-semi-bold text-uppercase ls-s">Garantia 12 Meses</h4>
                             <h3 className="banner-title font-weight-normal ls-m">Pídelo <strong className=" text-uppercase">Ya!</strong></h3>
                             <span className="divider bg-dark"></span>
-                            <ALink href="/shop" className="btn btn-dark btn-link btn-underline">Comprar Ahora<i className="d-icon-arrow-right"></i></ALink>
+                            <ALink href="/shop" className="btn btn-dark btn-link btn-underline" style={{ color: 'white' }}>Comprar Ahora<i className="d-icon-arrow-right"></i></ALink>
                         </div>
                     </div>
                     <div className="banner banner-fixed category-banner2 content-middle banner-radius" style={ { backgroundColor: "#373a3e" } }>
@@ -40,7 +40,7 @@ function BannerOneSection () {
                             <h4 className="banner-subtitle text-white font-weight-semi-bold text-uppercase ls-s">Distribuidores</h4>
                             <h3 className="banner-title text-white font-weight-normal ls-m">Autorizados de <strong className="text-uppercase">INFINIX</strong></h3>
                             <span className="divider bg-white"></span>
-                            <ALink href="/shop" className="btn btn-white btn-link btn-underline">Comprar ahora<i className="d-icon-arrow-right"></i></ALink>
+                            <ALink href="/shop" className="btn btn-white btn-link btn-underline" style={{ color: 'white' }}>Comprar ahora<i className="d-icon-arrow-right"></i></ALink>
                         </div>
                     </div>
                     <div className="banner banner-fixed category-banner1 content-middle banner-radius" style={ { backgroundColor: "#d7d6d3" } }>
@@ -56,7 +56,7 @@ function BannerOneSection () {
                             <h4 className="banner-subtitle font-weight-semi-bold text-uppercase ls-s">Ya llegó</h4>
                             <h3 className="banner-title font-weight-normal ls-m">Consultar <strong className="text-uppercase">Modelos</strong></h3>
                             <span className="divider bg-dark"></span>
-                            <ALink href="/shop" className="btn btn-dark btn-link btn-underline">Comprar ahora<i className="d-icon-arrow-right"></i></ALink>
+                            <ALink href="/shop" className="btn btn-dark btn-link btn-underline" style={{ color: 'white' }}>Comprar ahora<i className="d-icon-arrow-right"></i></ALink>
                         </div>
                     </div>
                 </OwlCarousel>

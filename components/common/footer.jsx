@@ -140,16 +140,6 @@ export default function Footer () {
                                         </ALink>
                                     </div>
                                     <div className="col-3">
-                                        <ALink href="https://www.tiktok.com/tag/hipertronics/">
-                                        <LazyLoadImage
-                                            src="images/instagram/02.jpg"
-                                            alt="instagram 2"
-                                            width="64"
-                                            height="64"
-                                        />
-                                        </ALink>
-                                    </div>
-                                    <div className="col-3">
                                         <ALink href="https://www.instagram.com/hipertronics/?hl=es">
                                         <LazyLoadImage
                                             src="images/instagram/03.jpg"

@@ -7,7 +7,7 @@ function BannerTwoSection () {
             <div className="container">
                 <div className="row cols-md-2 cols-1">
                     <div className="banner-wrap mb-4">
-                        <div className="banner banner-fixed content-middle text-right banner-radius" style={ { backgroundColor: "#e1e2e2" } }>
+                        <div className="banner banner-fixed content-middle text-right banner-radius" style={ { backgroundColor: "#000000" } }>
                             <figure>
                                 <LazyLoadImage
                                     src="images/home/category/14.jpg"

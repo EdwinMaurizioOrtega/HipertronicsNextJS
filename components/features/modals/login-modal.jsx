@@ -36,7 +36,7 @@ function LoginModal () {
     return (
         <>
             <a className="login-link" href="#" onClick={ openModal }>
-                <i className="d-icon-user"></i>Iniciar sesión</a>
+                {/*<i className="d-icon-user"></i>*/}Iniciar sesión</a>
             <span className="delimiter">/</span>
             <a className="register-link ml-0" onClick={ ( e ) => openModal( e, 1 ) } href="#">Registrarse</a>
 

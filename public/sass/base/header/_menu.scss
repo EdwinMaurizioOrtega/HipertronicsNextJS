@@ -233,7 +233,7 @@
             margin-right: 0;
         }
         > a {
-            position: relative;
+            position: initial;
             @include print_css( menu, ancestor );
             &::after { 
                 margin-left: .8rem;

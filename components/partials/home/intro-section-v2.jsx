@@ -27,10 +27,10 @@ function IntroSectionV2 ( props ) {
                             <Reveal keyframes={ fadeInLeftShorter } duration={ 1000 }>
                                 <h5 className="banner-subtitle text-capitalize font-weight-normal">Conoce más sobre la emisión de obligaciones</h5>
                                 <h3 className="banner-title text-uppercase font-weight-bold ls-m">Resolución No.</h3>
-                                <div className="banner-price-info font-weight-semi-bold text-body text-uppercase ls-m">
+                                <div className="banner-price-info font-weight-semi-bold text-body text-uppercase ls-m" >
                                     SCVS-INMV-DNAR-2022-00003181
                                 </div>
-                                <ALink href="https://apollo.hipertronics.us/uploads/files/RESOLUCION_3189_I_EOLP_LIDENAR_SA.pdf" className="btn btn-dark btn-outline btn-rounded">
+                                <ALink href="https://apollo.hipertronics.us/uploads/files/RESOLUCION_3189_I_EOLP_LIDENAR_SA.pdf" className="btn btn-dark btn-outline btn-rounded" style={{ color: 'white' }}>
                                     Descargar Aquí<i className="d-icon-arrow-right"></i></ALink>
                             </Reveal>
                         </div>

@@ -53,10 +53,11 @@ export default function Header ( props ) {
                         {/*        </li>*/}
                         {/*    </ul>*/}
                         {/*</div>*/}
+                        {/* */}
 
                         <span className="divider"></span>
-                        <ALink href="/vendor" className="contact d-lg-show"><i className="d-icon-map"></i>Locales</ALink>
-                        <ALink href="/pages/account" className="help d-lg-show"><i className="d-icon-info"></i> Mi cuenta</ALink>
+                        <ALink href="/vendor" className="contact d-lg-show">{/*<i className="d-icon-map"></i>*/}Locales</ALink>
+                        <ALink href="/pages/account" className="help d-lg-show">{/*<i className="d-icon-info"></i>*/} Mi cuenta</ALink>
                         <LoginModal />
                     </div>
                 </div>
@@ -87,6 +88,7 @@ export default function Header ( props ) {
                                 <p><ALink href="tel:#">093 999 1111</ALink></p>
                             </div>
                         </div>
+                    {/*
                         <span className="divider mr-4"></span>
                         <ALink href="#" className="compare">
                             <i className="d-icon-compare"></i>
@@ -95,7 +97,7 @@ export default function Header ( props ) {
                             <i className="d-icon-heart"></i>
                         </ALink>
                         <span className="divider"></span>
-
+                    */}
                         <CartMenu />
                     </div>
                 </div>

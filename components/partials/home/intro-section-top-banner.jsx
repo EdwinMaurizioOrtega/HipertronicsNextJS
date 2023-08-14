@@ -15,7 +15,7 @@ function IntroSectionTopBanner ( props ) {
             <div className="col-lg-12 mb-4">
                 <div >
                     <LazyLoadImage
-                        src="images/home/slides/banner-multimarca.jpg"
+                        src="images/home/slides/banner varias marcas.jpg"
                         alt="Banner"
 
                     />

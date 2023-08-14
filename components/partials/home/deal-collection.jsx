@@ -14,7 +14,7 @@ function BestCollection ( props ) {
             <div className="container">
                 <h2 className="title title-line title-underline with-link">
                     Ofertas del día
-                    <ALink href="/shop" className="btn btn-dark btn-link text-capitalize font-weight-semi-bold btn-more">
+                    <ALink href="/shop" className=" text-capitalize font-weight-semi-bold btn-more">
                         Más productos<i className="d-icon-arrow-right"></i>
                     </ALink>
                 </h2>

@@ -11,11 +11,11 @@ function MainMenu() {
         <nav className="main-nav">
             <ul className="menu">
                 <li id="menu-home" className={ pathname === '/' ? 'active' : '' }>
-                    <ALink href='/'>Home</ALink>
+                    <ALink href='/'style={{ color: 'white' }}>Home </ALink>
                 </li>
 
                 <li className={ `submenu  ${ pathname.includes( '/shop' ) ? 'active' : '' }` }>
-                    <ALink href='/shop'>Celulares</ALink>
+                    <ALink href='/shop' style={{ color: 'white' }}>Celulares</ALink>
 
                     <div className="megamenu">
                         <div className="row">
@@ -67,7 +67,7 @@ function MainMenu() {
                 </li>
 
                 <li className={ `submenu  ${ pathname.includes( '/product' ) && !pathname.includes( '/elements' ) ? 'active' : '' }` }>
-                    <ALink href="/product/default/man-s-grey-wrist-watch">Televisores</ALink>
+                    <ALink href="/product/default/man-s-grey-wrist-watch" style={{ color: 'white' }}>Televisores</ALink>
 
                     <div className="megamenu">
                         <div className="row">
@@ -117,7 +117,7 @@ function MainMenu() {
                 </li>
 
                 <li className={ `submenu  ${ pathname.includes( '/pages' ) ? 'active' : '' }` }>
-                    <ALink href="#">Tablets</ALink>
+                    <ALink href="#" style={{ color: 'white' }}>Tablets</ALink>
 
                     <ul>
                         {
@@ -134,7 +134,7 @@ function MainMenu() {
                 </li>
 
                 <li className={ `submenu  ${ pathname.includes( '/blog' ) && !pathname.includes( '/elements' ) ? 'active' : '' }` }>
-                    <ALink href={ `/blog/classic` }>Accesorios</ALink>
+                    <ALink href={ `/blog/classic` } style={{ color: 'white' }}>Accesorios</ALink>
 
                     <ul>
                         {
@@ -189,7 +189,7 @@ function MainMenu() {
                 {/*</li>*/}
 
                 <li>
-                    <a href="https://d-themes.com/buynow/riodereact">Sistema</a>
+                    <a href="https://d-themes.com/buynow/riodereact" style={{ color: 'white' }}>Sistema</a>
                 </li>
             </ul>
         </nav>

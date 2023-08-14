@@ -93,7 +93,9 @@
 				padding-top: false,
 				padding-bottom: 1.5rem,
 				color: $dark-color,
-				background: #fff,
+                //aqui
+				background: transparent,
+                //
 				border-top: false,
 				border-bottom: false,
                 font-family: false,
@@ -211,6 +213,7 @@
     .inner-wrap {
         @include print_css( header, inner-wrap );
         width: 100%;
+        background-color: #E9650E;
     }
 }
 .header-transparent {
@@ -264,7 +267,9 @@
 }
 
 .header-top {
+    
     @include print_css(header, top);
+    background: #000000;
     .header-right {
         > * {
             @include css( margin-left, header, top, _links-gap );
