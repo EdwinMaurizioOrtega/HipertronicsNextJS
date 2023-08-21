@@ -16,15 +16,15 @@ function BrandSection () {
                     <div className="banner banner-fixed category-banner1 content-middle banner-radius" style={ { backgroundColor: "#e2e2e2" } }>
                         <figure>
                             <LazyLoadImage
-                                src="images/home/category/11.png"
+                                src="images/home/category/categoria-honor.jpg"
                                 alt="Category Banner"
                                 width="446"
                                 height="180"
                             />
                         </figure>
                         <div className="banner-content">
-                            <h4 className="banner-subtitle font-weight-semi-bold text-uppercase ls-s">Garantia 12 Meses</h4>
-                            <h3 className="banner-title font-weight-normal ls-m">Pídelo <strong className=" text-uppercase">Ya!</strong></h3>
+                        <h4 className="banner-subtitle text-white font-weight-semi-bold text-uppercase ls-s">DISTRIBUIDORES</h4>
+                            <h3 className="banner-title text-white font-weight-normal ls-m"><strong className="text-uppercase">AUTORIZADOS</strong></h3>
                             <span className="divider bg-dark"></span>
                             <ALink href="/shop" className="btn btn-dark btn-link btn-underline" style={{ color: 'white' }} >Comprar Ahora<i className="d-icon-arrow-right"></i></ALink>
                         </div>
@@ -32,15 +32,15 @@ function BrandSection () {
                     <div className="banner banner-fixed category-banner2 content-middle banner-radius" style={ { backgroundColor: "#373a3e" } }>
                         <figure>
                             <LazyLoadImage
-                                src="images/home/category/12.png"
+                                src="images/home/category/categoria-tcl.jpg"
                                 alt="Category Banner"
                                 width="446"
                                 height="180"
                             />
                         </figure>
                         <div className="banner-content">
-                            <h4 className="banner-subtitle text-white font-weight-semi-bold text-uppercase ls-s">Distribuidores</h4>
-                            <h3 className="banner-title text-white font-weight-normal ls-m">Autorizados de <strong className="text-uppercase">INFINIX</strong></h3>
+                            <h4 className="banner-subtitle text-black font-weight-semi-bold text-uppercase ls-s">DISTRIBUIDORES</h4>
+                            <h3 className="banner-title text-black font-weight-normal ls-m"><strong className="text-uppercase">AUTORIZADOS</strong></h3>
                             <span className="divider bg-white"></span>
                             <ALink href="/shop" className="btn btn-white btn-link btn-underline" style={{ color: 'white' }}>Comprar ahora<i className="d-icon-arrow-right"></i></ALink>
                         </div>
@@ -48,15 +48,15 @@ function BrandSection () {
                     <div className="banner banner-fixed category-banner1 content-middle banner-radius" style={ { backgroundColor: "#d7d6d3" } }>
                         <figure>
                             <LazyLoadImage
-                                src="images/home/category/13.png"
+                                src="images/home/category/categoria-nokia.jpg"
                                 alt="Category Banner"
                                 width="446"
                                 height="180"
                             />
                         </figure>
                         <div className="banner-content">
-                            <h4 className="banner-subtitle font-weight-semi-bold text-uppercase ls-s">Ya llegó</h4>
-                            <h3 className="banner-title font-weight-normal ls-m">Consultar <strong className="text-uppercase">Modelos</strong></h3>
+                        <h4 className="banner-subtitle text-white font-weight-semi-bold text-uppercase ls-s">DISTRIBUIDORES</h4>
+                            <h3 className="banner-title text-white font-weight-normal ls-m"><strong className="text-uppercase">AUTORIZADOS</strong></h3>
                             <span className="divider bg-dark"></span>
                             <ALink href="/shop" className="btn btn-dark btn-link btn-underline" style={{ color: 'white' }} >Comprar ahora<i className="d-icon-arrow-right"></i></ALink>
                         </div>
@@ -127,6 +127,45 @@ function BrandSection () {
                             <ALink href="#">
                                 <LazyLoadImage
                                     src="images/home/brand/5.jpg"
+                                    alt="Brand"
+                                    width="228"
+                                    height="100"
+                                    effect="opacity"
+                                />
+                            </ALink>
+                        </figure>
+                    </div>
+                    <div className="image-wrap">
+                        <figure>
+                            <ALink href="#">
+                                <LazyLoadImage
+                                    src="images/home/brand/2.jpg"
+                                    alt="Brand"
+                                    width="228"
+                                    height="100"
+                                    effect="opacity"
+                                />
+                            </ALink>
+                        </figure>
+                    </div>
+                    <div className="image-wrap">
+                        <figure>
+                            <ALink href="#">
+                                <LazyLoadImage
+                                    src="images/home/brand/honor-loogo.png"
+                                    alt="Brand"
+                                    width="228"
+                                    height="100"
+                                    effect="opacity"
+                                />
+                            </ALink>
+                        </figure>
+                    </div>
+                    <div className="image-wrap">
+                        <figure>
+                            <ALink href="#">
+                                <LazyLoadImage
+                                    src="images/home/brand/8.jpg"
                                     alt="Brand"
                                     width="228"
                                     height="100"

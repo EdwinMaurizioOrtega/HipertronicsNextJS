@@ -17,7 +17,7 @@ function IntroSectionV2 ( props ) {
                     <div className="banner banner-fixed content-middle intro-slide intro-slide1 banner-radius" style={ { backgroundColor: "#f8f8f8" } }>
                         <figure>
                             <LazyLoadImage
-                                src="images/home/slides/1_backup.jpg"
+                                src="images/home/slides/banner-resolucion.jpg"
                                 alt="Banner"
                                 width="1030"
                                 height="450"
@@ -86,15 +86,15 @@ function IntroSectionV2 ( props ) {
                         <div className="banner banner-fixed content-middle banner-radius overlay-zoom" style={ { backgroundColor: "#232323" } }>
                             <figure>
                                 <LazyLoadImage
-                                    src="images/home/banner/1.jpg"
+                                    src="images/home/banner/subcategoria-tvs.jpg"
                                     alt="Intro Banner"
                                     width="330"
                                     height="215"
                                 />
                             </figure>
                             <div className="banner-content">
-                                <h3 className="banner-title font-weight-bold text-white ls-m">Productos</h3>
-                                <div className="product-count text-uppercase text-white font-weight-semi-bold">HT</div>
+                                <h3 className="banner-title font-weight-bold text-white ls-m">SMART TV</h3>
+                                <div className="product-count text-uppercase text-white font-weight-semi-bold">HIPERTRONICS</div>
                                 <span className="divider bg-white"></span>
                                 <ALink href={ { pathname: "/shop" } } className="btn btn-white btn-link btn-underline ls-m">
                                     Ver Catálogo<i className="d-icon-arrow-right"></i></ALink>
@@ -105,15 +105,15 @@ function IntroSectionV2 ( props ) {
                         <div className="banner banner-fixed content-middle banner-radius overlay-zoom" style={ { backgroundColor: "#eca5a9" } }>
                             <figure>
                                 <LazyLoadImage
-                                    src="images/home/banner/2.jpg"
+                                    src="images/home/banner/subcategoria-tablets.jpg"
                                     alt="Intro Banner"
                                     width="330"
                                     height="215"
                                 />
                             </figure>
                             <div className="banner-content">
-                                <h3 className="banner-title font-weight-bold text-white ls-m">Sistema</h3>
-                                <div className="product-count text-uppercase text-white font-weight-semi-bold">Hipertronics</div>
+                                <h3 className="banner-title font-weight-bold text-white ls-m">TABLETS</h3>
+                                <div className="product-count text-uppercase text-white font-weight-semi-bold">HIPERTRONICS</div>
                                 <span className="divider bg-white"></span>
                                 <ALink href="https://app.hipertronics.us/clientes/" className="btn btn-white btn-link btn-underline ls-m">
                                     Ingresar<i className="d-icon-arrow-right"></i></ALink>

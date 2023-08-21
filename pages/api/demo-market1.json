@@ -20,14 +20,14 @@
       "variants": [],
       "large_pictures": [
           {
-              "url": "/uploads/images/demo-market1/products/10.43.56-1.jpg",
+              "url": "/uploads/images/hipertronics/products/10.43.56-1.jpg",
               "width": 800,
               "height": 900
           }
       ],
       "pictures": [
           {
-              "url": "/uploads/images/demo-market1/products/10.43.56.jpg",
+              "url": "/uploads/images/hipertronics/products/10.43.56.jpg",
               "width": 300,
               "height": 338
           }
@@ -51,59 +51,59 @@
           }
       ]
   },
-    {
-      "id": 2,
-            "name": "INFINIX HOT 30i MIRROR BLACK",
-            "slug": "infinix-hot-30i-mirror-black",
-            "price": 2,
-            "sale_price": 1,
-            "short_description": "\"Pantalla: 6.56″, 720 x 1612 pixels\nProcesador: Unisoc T606\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 8MP\nBatería: 5000 mAh\nOS: Android 12\"",
-            "long_description": "\"Pantalla: 6.56″, 720 x 1612 pixels\nProcesador: Unisoc T606\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 8MP\nBatería: 5000 mAh\nOS: Android 12\"",
-            "stock": 50,
-            "ratings": 4,
-            "reviews": 1,
-            "sale_count": 98,
-            "sku": "10.43.48",
-            "is_new": null,
-            "is_featured": null,
-            "is_top": null,
-            "until": null,
-            "variants": [],
-            "large_pictures": [
-                {
-                    "url": "/uploads/images/hipertronics/products/10.43.48-1.jpg",
-                    "width": 800,
-                    "height": 900
-                }
-            ],
-            "pictures": [
-                {
-                    "url": "/uploads/images/hipertronics/products/10.43.48.jpg",
-                    "width": 300,
-                    "height": 338
-                }
-            ],
-            "categories": [
-                {
-                    "name": "Celulares",
-                    "slug": "celulares"
-                }
-            ],
-            "tags": [
-                {
-                    "name": "Celulares Infinix",
-                    "slug": "celulares-infinix"
-                }
-            ],
-            "brands": [
-                {
-                    "name": "Infinix",
-                    "slug": "infinix"
-                }
-            ]
-        },
+  {
+    "id": 2,
+    "name": "INFINIX NOTE 30 INTERSTELLAR BLUE",
+    "slug": "infinix-note-30-interstellar-blue",
+    "price": 2,
+    "sale_price": 1,
+    "short_description": "\"Pantalla: 6.78″, 1080 x 2460 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 64MP\nCámara Frontal: 16MP\nBatería: 5000 mAh\nOS: Android 13\"",
+    "long_description": "\"Pantalla: 6.78″, 1080 x 2460 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 64MP\nCámara Frontal: 16MP\nBatería: 5000 mAh\nOS: Android 13\"",
+    "stock": 50,
+    "ratings": 4,
+    "reviews": 1,
+    "sale_count": 98,
+    "sku": "10.43.57",
+    "is_new": null,
+    "is_featured": null,
+    "is_top": null,
+    "until": null,
+    "variants": [],
+    "large_pictures": [
         {
-          "id": 3,
+            "url": "/uploads/images/hipertronics/products/10.43.57-1.jpg",
+            "width": 800,
+            "height": 900
+        }
+    ],
+    "pictures": [
+        {
+            "url": "/uploads/images/hipertronics/products/10.43.57.jpg",
+            "width": 300,
+            "height": 338
+        }
+    ],
+    "categories": [
+        {
+            "name": "Celulares",
+            "slug": "celulares"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Celulares Infinix",
+            "slug": "celulares-infinix"
+        }
+    ],
+    "brands": [
+        {
+            "name": "Infinix",
+            "slug": "infinix"
+        }
+    ]
+},
+    {
+      "id":3,
           "name": "INFINIX HOT 30i GLACIER BLUE",
           "slug": "infinix-hot-30i-glacier-blue",
           "price": 2,
@@ -173,14 +173,14 @@
         "variants": [],
         "large_pictures": [
             {
-                "url": "/uploads/images/demo-market1/products/10.43.50-1.jpg",
+                "url": "/uploads/images/hipertronics/products/10.43.50-1.jpg",
                 "width": 800,
                 "height": 900
             }
         ],
         "pictures": [
             {
-                "url": "/uploads/images/demo-market1/products/10.43.50.jpg",
+                "url": "/uploads/images/hipertronics/products/10.43.50.jpg",
                 "width": 300,
                 "height": 338
             }
@@ -206,17 +206,17 @@
     },
     {
       "id": 5,
-      "name": "INFINIX NOTE 30 PRO MAGIC BLACK",
-      "slug": "infinix-note-30-pro-magic-black",
+      "name": "INFINIX HOT 30 PLAY BLADE WHITE",
+      "slug": "infinix-hot-30-play-blade-white",
       "price": 2,
       "sale_price": 1,
-      "short_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 108MP+2MP+2MP\nCámara Frontal: 32MP\nBatería: 5000 mAh\nOS: Android 13\"",
-      "long_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 108MP+2MP+2MP\nCámara Frontal: 32MP\nBatería: 5000 mAh\nOS: Android 13\"",
+      "short_description": "\"Pantalla: 6.82″, 720 x 1640 pixels\nProcesador: Media Tek Helio G37\nRAM: 8GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 16MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 13\"",
+      "long_description": "\"Pantalla: 6.82″, 720 x 1640 pixels\nProcesador: Media Tek Helio G37\nRAM: 8GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 16MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 13\"",
       "stock": 50,
       "ratings": 4,
       "reviews": 1,
       "sale_count": 98,
-      "sku": "10.43.51",
+      "sku": "10.43.54",
       "is_new": null,
       "is_featured": null,
       "is_top": null,
@@ -224,14 +224,14 @@
       "variants": [],
       "large_pictures": [
           {
-              "url": "/uploads/images/demo-market1/products/10.43.51-1.jpg",
+              "url": "/uploads/images/hipertronics/products/10.43.54-1.jpg",
               "width": 800,
               "height": 900
           }
       ],
       "pictures": [
           {
-              "url": "/uploads/images/demo-market1/products/10.43.51.jpg",
+              "url": "/uploads/images/hipertronics/products/10.43.54.jpg",
               "width": 300,
               "height": 338
           }
@@ -257,17 +257,17 @@
   },
   {
     "id": 6,
-    "name": "INFINIX NOTE 30 PRO VARIABLE GOLD",
-    "slug": "infinix-note-30-pro-variable-gold",
+    "name": "INFINIX HOT 30 PLAY BORA PURPLE",
+    "slug": "infinix-hot-30-play-bora-purple",
     "price": 2,
     "sale_price": 1,
-    "short_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 108MP\nCámara Frontal: 32MP\nBatería: 5000 mAh\nOS: Android 13\"",
-    "long_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 108MP\nCámara Frontal: 32MP\nBatería: 5000 mAh\nOS: Android 13\"",
+    "short_description": "\"Pantalla: 6.82″, 720 x 1640 pixels\nProcesador: Media Tek Helio G37\nRAM: 8GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 16MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 13\"",
+    "long_description": "\"Pantalla: 6.82″, 720 x 1640 pixels\nProcesador: Media Tek Helio G37\nRAM: 8GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 16MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 13\"",
     "stock": 50,
     "ratings": 4,
     "reviews": 1,
     "sale_count": 98,
-    "sku": "10.43.52",
+    "sku": "10.43.55",
     "is_new": null,
     "is_featured": null,
     "is_top": null,
@@ -275,14 +275,14 @@
     "variants": [],
     "large_pictures": [
         {
-            "url": "/uploads/images/demo-market1/products/10.43.52-1.jpg",
+            "url": "/uploads/images/hipertronics/products/10.43.55-1.jpg",
             "width": 800,
             "height": 900
         }
     ],
     "pictures": [
         {
-            "url": "/uploads/images/demo-market1/products/10.43.52.jpg",
+            "url": "/uploads/images/hipertronics/products/10.43.55.jpg",
             "width": 300,
             "height": 338
         }
@@ -308,6 +308,312 @@
 },
 {
   "id": 7,
+  "name": "INFINIX HOT 30 PLAY MIRAGE BLACK",
+  "slug": "infinix-hot-30-play-mirage-black",
+  "price": 2,
+  "sale_price": 1,
+  "short_description": "\"Pantalla: 6.82″, 720 x 1640 pixels\nProcesador: Media Tek Helio G37\nRAM: 8GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 16MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 13\"",
+  "long_description": "\"Pantalla: 6.82″, 720 x 1640 pixels\nProcesador: Media Tek Helio G37\nRAM: 8GB\nAlmacenamiento: 128GB\nExpansión: no\nCámara: Principal, 16MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 13\"",
+  "stock": 50,
+  "ratings": 4,
+  "reviews": 1,
+  "sale_count": 98,
+  "sku": "10.43.53",
+  "is_new": null,
+  "is_featured": null,
+  "is_top": null,
+  "until": null,
+  "variants": [],
+  "large_pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.43.53-1.jpg",
+          "width": 800,
+          "height": 900
+      }
+  ],
+  "pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.43.53.jpg",
+          "width": 300,
+          "height": 338
+      }
+  ],
+  "categories": [
+      {
+          "name": "Celulares",
+          "slug": "celulares"
+      }
+  ],
+  "tags": [
+      {
+          "name": "Celulares Infinix",
+          "slug": "celulares-infinix"
+      }
+  ],
+  "brands": [
+      {
+          "name": "Infinix",
+          "slug": "infinix"
+      }
+  ]
+},
+    {
+      "id": 8,
+      "name": "INFINIX NOTE 30 PRO MAGIC BLACK",
+      "slug": "infinix-note-30-pro-magic-black",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 108MP+2MP+2MP\nCámara Frontal: 32MP\nBatería: 5000 mAh\nOS: Android 13\"",
+      "long_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Media Tek Helio G99\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: hasta 2TB\nCámara: Principal, 108MP+2MP+2MP\nCámara Frontal: 32MP\nBatería: 5000 mAh\nOS: Android 13\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "10.43.51",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+          {
+              "url": "/uploads/images/hipertronics/products/10.43.51-1.jpg",
+              "width": 800,
+              "height": 900
+          }
+      ],
+      "pictures": [
+          {
+              "url": "/uploads/images/hipertronics/products/10.43.51.jpg",
+              "width": 300,
+              "height": 338
+          }
+      ],
+      "categories": [
+          {
+              "name": "Celulares",
+              "slug": "celulares"
+          }
+      ],
+      "tags": [
+          {
+              "name": "Celulares Infinix",
+              "slug": "celulares-infinix"
+          }
+      ],
+      "brands": [
+          {
+              "name": "Infinix",
+              "slug": "infinix"
+          }
+      ]
+  },
+  {
+    "id": 9,
+    "name": "INFINIX SMART 7 ICELAND WHITE",
+    "slug": "infinix-smart-7-iceland-white",
+    "price": 2,
+    "sale_price": 1,
+    "short_description": "\"Pantalla: 6.6″, 720 x 1612 px pixels\nProcesador: Helio A22\nRAM: 4GB\nAlmacenamiento: 64GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+    "long_description": "\"Pantalla: 6.6″, 720 x 1612 px pixels\nProcesador: Helio A22\nRAM: 4GB\nAlmacenamiento: 64GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+    "stock": 50,
+    "ratings": 4,
+    "reviews": 1,
+    "sale_count": 98,
+    "sku": "10.43.37",
+    "is_new": null,
+    "is_featured": null,
+    "is_top": null,
+    "until": null,
+    "variants": [],
+    "large_pictures": [
+        {
+            "url": "/uploads/images/hipertronics/products/10.43.37-1.jpg",
+            "width": 800,
+            "height": 900
+        }
+    ],
+    "pictures": [
+        {
+            "url": "/uploads/images/hipertronics/products/10.43.37.jpg",
+            "width": 300,
+            "height": 338
+        }
+    ],
+    "categories": [
+        {
+            "name": "Celulares",
+            "slug": "celulares"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Celulares Infinix",
+            "slug": "celulares-infinix"
+        }
+    ],
+    "brands": [
+        {
+            "name": "Infinix",
+            "slug": "infinix"
+        }
+    ]
+},
+{
+  "id": 10,
+  "name": "INFINIX SMART 7 COASTAL GREEN",
+  "slug": "infinix-smart-7-coastal-green",
+  "price": 2,
+  "sale_price": 1,
+  "short_description": "\"Pantalla: 6.6″, 720 x 1612 px pixels\nProcesador: Helio A22\nRAM: 4GB\nAlmacenamiento: 64GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+  "long_description": "\"Pantalla: 6.6″, 720 x 1612 px pixels\nProcesador: Helio A22\nRAM: 4GB\nAlmacenamiento: 64GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+  "stock": 50,
+  "ratings": 4,
+  "reviews": 1,
+  "sale_count": 98,
+  "sku": "10.43.36",
+  "is_new": null,
+  "is_featured": null,
+  "is_top": null,
+  "until": null,
+  "variants": [],
+  "large_pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.43.36-1.jpg",
+          "width": 800,
+          "height": 900
+      }
+  ],
+  "pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.43.36.jpg",
+          "width": 300,
+          "height": 338
+      }
+  ],
+  "categories": [
+      {
+          "name": "Celulares",
+          "slug": "celulares"
+      }
+  ],
+  "tags": [
+      {
+          "name": "Celulares Infinix",
+          "slug": "celulares-infinix"
+      }
+  ],
+  "brands": [
+      {
+          "name": "Infinix",
+          "slug": "infinix"
+      }
+  ]
+},
+{
+  "id": 11,
+  "name": "INFINIX SMART 7 PEACOCK BLUE",
+  "slug": "infinix-smart-7-peacock-blue",
+  "price": 2,
+  "sale_price": 1,
+  "short_description": "\"Pantalla: 6.6″, 720 x 1612 px pixels\nProcesador: Helio A22\nRAM: 4GB\nAlmacenamiento: 64GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+  "long_description": "\"Pantalla: 6.6″, 720 x 1612 px pixels\nProcesador: Helio A22\nRAM: 4GB\nAlmacenamiento: 64GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+  "stock": 50,
+  "ratings": 4,
+  "reviews": 1,
+  "sale_count": 98,
+  "sku": "10.43.35",
+  "is_new": null,
+  "is_featured": null,
+  "is_top": null,
+  "until": null,
+  "variants": [],
+  "large_pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.43.35-1.jpg",
+          "width": 800,
+          "height": 900
+      }
+  ],
+  "pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.43.35.jpg",
+          "width": 300,
+          "height": 338
+      }
+  ],
+  "categories": [
+      {
+          "name": "Celulares",
+          "slug": "celulares"
+      }
+  ],
+  "tags": [
+      {
+          "name": "Celulares Infinix",
+          "slug": "celulares-infinix"
+      }
+  ],
+  "brands": [
+      {
+          "name": "Infinix",
+          "slug": "infinix"
+      }
+  ]
+},
+{
+  "id": 12,
+  "name": "INFINIX SMART 7 POLAR BLACK",
+  "slug": "infinix-smart-7-polar-black",
+  "price": 2,
+  "sale_price": 1,
+  "short_description": "\"Pantalla: 6.6″, 720 x 1612 px pixels\nProcesador: Helio A22\nRAM: 4GB\nAlmacenamiento: 64GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+  "long_description": "\"Pantalla: 6.6″, 720 x 1612 px pixels\nProcesador: Helio A22\nRAM: 4GB\nAlmacenamiento: 64GB\nExpansión: no\nCámara: Principal, 13MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+  "stock": 50,
+  "ratings": 4,
+  "reviews": 1,
+  "sale_count": 98,
+  "sku": "10.43.34",
+  "is_new": null,
+  "is_featured": null,
+  "is_top": null,
+  "until": null,
+  "variants": [],
+  "large_pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.43.34-1.jpg",
+          "width": 800,
+          "height": 900
+      }
+  ],
+  "pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.43.34.jpg",
+          "width": 300,
+          "height": 338
+      }
+  ],
+  "categories": [
+      {
+          "name": "Celulares",
+          "slug": "celulares"
+      }
+  ],
+  "tags": [
+      {
+          "name": "Celulares Infinix",
+          "slug": "celulares-infinix"
+      }
+  ],
+  "brands": [
+      {
+          "name": "Infinix",
+          "slug": "infinix"
+      }
+  ]
+},
+{
+  "id": 13,
   "name": "XIAOMI REDMI 12C BLUE",
   "slug": "xiaomi-redmi-12c-blue",
   "price": 2,
@@ -358,18 +664,18 @@
   ]
 },
 {
-  "id": 8,
-  "name": "XIAOMI REDMI NOTE 12S ICE BLUE",
-  "slug": "xiaomi-redmi-note-12s-ice-blue",
+  "id": 14,
+  "name": "XIAOMI REDMI 12C MINT GREEN",
+  "slug": "xiaomi-redmi-12c-mint-green",
   "price": 2,
   "sale_price": 1,
-  "short_description": "\"Pantalla: 6.43″, 1080 x 2400 pixels\nProcesador: Mediatek Helio G96 2.05GHz\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: microSD\nCámara Principal: Triple, 108MP+8MP+2MP\nCámara Frontal: 16MP\nBatería: 5000 mAh\nOS: Android 13\"",
-  "long_description": "\"Pantalla: 6.43″, 1080 x 2400 pixels\nProcesador: Mediatek Helio G96 2.05GHz\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: microSD\nCámara Principal: Triple, 108MP+8MP+2MP\nCámara Frontal: 16MP\nBatería: 5000 mAh\nOS: Android 13\"",
+  "short_description": "\"Pantalla: 6.71″, 720 x 1650 pixels\nProcesador: Mediatek Helio G85\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Principal, 50MP+2MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+  "long_description": "\"Pantalla: 6.71″, 720 x 1650 pixels\nProcesador: Mediatek Helio G85\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Principal, 50MP+2MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
   "stock": 50,
   "ratings": 4,
   "reviews": 1,
   "sale_count": 98,
-  "sku": "10.19.137",
+  "sku": "10.19.135",
   "is_new": null,
   "is_featured": null,
   "is_top": null,
@@ -377,14 +683,14 @@
   "variants": [],
   "large_pictures": [
       {
-          "url": "/uploads/images/hipertronics/products/10.19.137-1.jpg",
+          "url": "/uploads/images/hipertronics/products/10.19.135-1.jpg",
           "width": 800,
           "height": 900
       }
   ],
   "pictures": [
       {
-          "url": "/uploads/images/hipertronics/products/10.19.137.jpg",
+          "url": "/uploads/images/hipertronics/products/10.19.135.jpg",
           "width": 300,
           "height": 338
       }
@@ -409,7 +715,364 @@
   ]
 },
 {
-  "id": 9,
+  "id": 14,
+  "name": "XIAOMI REDMI 12C LAVANDER PURPLE",
+  "slug": "xiaomi-redmi-12c-lavander-purple",
+  "price": 2,
+  "sale_price": 1,
+  "short_description": "\"Pantalla: 6.71″, 720 x 1650 pixels\nProcesador: Mediatek Helio G85\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Principal, 50MP+2MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+  "long_description": "\"Pantalla: 6.71″, 720 x 1650 pixels\nProcesador: Mediatek Helio G85\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Principal, 50MP+2MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+  "stock": 50,
+  "ratings": 4,
+  "reviews": 1,
+  "sale_count": 98,
+  "sku": "10.19.134",
+  "is_new": null,
+  "is_featured": null,
+  "is_top": null,
+  "until": null,
+  "variants": [],
+  "large_pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.19.134-1.jpg",
+          "width": 800,
+          "height": 900
+      }
+  ],
+  "pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.19.134.jpg",
+          "width": 300,
+          "height": 338
+      }
+  ],
+  "categories": [
+      {
+          "name": "Celulares",
+          "slug": "celulares"
+      }
+  ],
+  "tags": [
+      {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+      }
+  ],
+  "brands": [
+      {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+      }
+  ]
+},
+{
+  "id": 14,
+  "name": "XIAOMI REDMI 12C GRAPHITE GRAY ",
+  "slug": "xiaomi-redmi-12c-graphite-gray",
+  "price": 2,
+  "sale_price": 1,
+  "short_description": "\"Pantalla: 6.71″, 720 x 1650 pixels\nProcesador: Mediatek Helio G85\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Principal, 50MP+2MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+  "long_description": "\"Pantalla: 6.71″, 720 x 1650 pixels\nProcesador: Mediatek Helio G85\nRAM: 4GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara: Principal, 50MP+2MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+  "stock": 50,
+  "ratings": 4,
+  "reviews": 1,
+  "sale_count": 98,
+  "sku": "10.19.131",
+  "is_new": null,
+  "is_featured": null,
+  "is_top": null,
+  "until": null,
+  "variants": [],
+  "large_pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.19.131-1.jpg",
+          "width": 800,
+          "height": 900
+      }
+  ],
+  "pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.19.131.jpg",
+          "width": 300,
+          "height": 338
+      }
+  ],
+  "categories": [
+      {
+          "name": "Celulares",
+          "slug": "celulares"
+      }
+  ],
+  "tags": [
+      {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+      }
+  ],
+  "brands": [
+      {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+      }
+  ]
+},
+{
+  "id": 15,
+  "name": "XIAOMI REDMI NOTE 12S PEARL GREEN",
+  "slug": "xiaomi-redmi-note-12s-pearl-green",
+  "price": 2,
+  "sale_price": 1,
+  "short_description": "\"Pantalla: 6.43″, 1080 x 2400 pixels\nProcesador: Mediatek Helio G96 2.05GHz\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: microSD\nCámara Principal: Triple, 108MP+8MP+2MP\nCámara Frontal: 16MP\nBatería: 5000 mAh\nOS: Android 13\"",
+  "long_description": "\"Pantalla: 6.43″, 1080 x 2400 pixels\nProcesador: Mediatek Helio G96 2.05GHz\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: microSD\nCámara Principal: Triple, 108MP+8MP+2MP\nCámara Frontal: 16MP\nBatería: 5000 mAh\nOS: Android 13\"",
+  "stock": 50,
+  "ratings": 4,
+  "reviews": 1,
+  "sale_count": 98,
+  "sku": "10.19.138",
+  "is_new": null,
+  "is_featured": null,
+  "is_top": null,
+  "until": null,
+  "variants": [],
+  "large_pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.19.138-1.jpg",
+          "width": 800,
+          "height": 900
+      }
+  ],
+  "pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.19.138.jpg",
+          "width": 300,
+          "height": 338
+      }
+  ],
+  "categories": [
+      {
+          "name": "Celulares",
+          "slug": "celulares"
+      }
+  ],
+  "tags": [
+      {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+      }
+  ],
+  "brands": [
+      {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+      }
+  ]
+},
+{
+  "id": 16,
+  "name": "XIAOMI REDMI A2 BLACK",
+  "slug": "xiaomi-redmi-a2-black",
+  "price": 2,
+  "sale_price": 1,
+  "short_description": "\"Pantalla: 6.52″, 720 x 1600 pixels\nProcesador: Mediatek Helio G36.\nRAM: 2GB\nAlmacenamiento: 32GB\nExpansión: microSD\nCámara Principal: Doble, 8MP+2MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+  "long_description": "\"Pantalla: 6.52″, 720 x 1600 pixels\nProcesador: Mediatek Helio G36.\nRAM: 2GB\nAlmacenamiento: 32GB\nExpansión: microSD\nCámara Principal: Doble, 8MP+2MP\nCámara Frontal: 5MP\nBatería: 5000 mAh\nOS: Android 12\"",
+  "stock": 50,
+  "ratings": 4,
+  "reviews": 1,
+  "sale_count": 98,
+  "sku": "10.19.130",
+  "is_new": null,
+  "is_featured": null,
+  "is_top": null,
+  "until": null,
+  "variants": [],
+  "large_pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.19.130-1.jpg",
+          "width": 800,
+          "height": 900
+      }
+  ],
+  "pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.19.130.jpg",
+          "width": 300,
+          "height": 338
+      }
+  ],
+  "categories": [
+      {
+          "name": "Celulares",
+          "slug": "celulares"
+      }
+  ],
+  "tags": [
+      {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+      }
+  ],
+  "brands": [
+      {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+      }
+  ]
+},
+{
+  "id": 17,
+  "name": "XIAOMI 12 5G BLUE",
+  "slug": "xiaomi-12-5g-blue",
+  "price": 2,
+  "sale_price": 1,
+  "short_description": "\"Pantalla: 6.28″, 1080 x 2400 pixels\nProcesador: Snapdragon 8 Gen 1 3GHz\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: sin microSD\nCámara Principal: Triple, 50MP+13MP+5MP\nCámara Frontal: 32MP\nBatería: 4500 mAh\nOS: Android 12\"",
+  "long_description": "\"Pantalla: 6.28″, 1080 x 2400 pixels\nProcesador: Snapdragon 8 Gen 1 3GHz.\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: sin microSD\nCámara Principal: Triple, 50MP+13MP+5MP\nCámara Frontal: 32MP\nBatería: 4500 mAh\nOS: Android 12\"",
+  "stock": 50,
+  "ratings": 4,
+  "reviews": 1,
+  "sale_count": 98,
+  "sku": "10.19.133",
+  "is_new": null,
+  "is_featured": null,
+  "is_top": null,
+  "until": null,
+  "variants": [],
+  "large_pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.19.133-1.jpg",
+          "width": 800,
+          "height": 900
+      }
+  ],
+  "pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.19.133.jpg",
+          "width": 300,
+          "height": 338
+      }
+  ],
+  "categories": [
+      {
+          "name": "Celulares",
+          "slug": "celulares"
+      }
+  ],
+  "tags": [
+      {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+      }
+  ],
+  "brands": [
+      {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+      }
+  ]
+},
+{
+  "id": 18,
+  "name": "XIAOMI 12 5G PURPLE",
+  "slug": "xiaomi-12-5g-purple",
+  "price": 2,
+  "sale_price": 1,
+  "short_description": "\"Pantalla: 6.28″, 1080 x 2400 pixels\nProcesador: Snapdragon 8 Gen 1 3GHz\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: sin microSD\nCámara Principal: Triple, 50MP+13MP+5MP\nCámara Frontal: 32MP\nBatería: 4500 mAh\nOS: Android 12\"",
+  "long_description": "\"Pantalla: 6.28″, 1080 x 2400 pixels\nProcesador: Snapdragon 8 Gen 1 3GHz.\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: sin microSD\nCámara Principal: Triple, 50MP+13MP+5MP\nCámara Frontal: 32MP\nBatería: 4500 mAh\nOS: Android 12\"",
+  "stock": 50,
+  "ratings": 4,
+  "reviews": 1,
+  "sale_count": 98,
+  "sku": "10.19.129",
+  "is_new": null,
+  "is_featured": null,
+  "is_top": null,
+  "until": null,
+  "variants": [],
+  "large_pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.19.129-1.jpg",
+          "width": 800,
+          "height": 900
+      }
+  ],
+  "pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.19.129.jpg",
+          "width": 300,
+          "height": 338
+      }
+  ],
+  "categories": [
+      {
+          "name": "Celulares",
+          "slug": "celulares"
+      }
+  ],
+  "tags": [
+      {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+      }
+  ],
+  "brands": [
+      {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+      }
+  ]
+},
+{
+  "id": 19,
+  "name": "XIAOMI 12 5G BLACK",
+  "slug": "xiaomi-12-5g-black",
+  "price": 2,
+  "sale_price": 1,
+  "short_description": "\"Pantalla: 6.28″, 1080 x 2400 pixels\nProcesador: Snapdragon 8 Gen 1 3GHz\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: sin microSD\nCámara Principal: Triple, 50MP+13MP+5MP\nCámara Frontal: 32MP\nBatería: 4500 mAh\nOS: Android 12\"",
+  "long_description": "\"Pantalla: 6.28″, 1080 x 2400 pixels\nProcesador: Snapdragon 8 Gen 1 3GHz.\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: sin microSD\nCámara Principal: Triple, 50MP+13MP+5MP\nCámara Frontal: 32MP\nBatería: 4500 mAh\nOS: Android 12\"",
+  "stock": 50,
+  "ratings": 4,
+  "reviews": 1,
+  "sale_count": 98,
+  "sku": "10.19.128",
+  "is_new": null,
+  "is_featured": null,
+  "is_top": null,
+  "until": null,
+  "variants": [],
+  "large_pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.19.128-1.jpg",
+          "width": 800,
+          "height": 900
+      }
+  ],
+  "pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.19.128.jpg",
+          "width": 300,
+          "height": 338
+      }
+  ],
+  "categories": [
+      {
+          "name": "Celulares",
+          "slug": "celulares"
+      }
+  ],
+  "tags": [
+      {
+          "name": "Celulares Xiaomi",
+          "slug": "celulares-xiaomi"
+      }
+  ],
+  "brands": [
+      {
+          "name": "Xiaomi",
+          "slug": "xiaomi"
+      }
+  ]
+},
+{
+  "id": 20,
   "name": "HONOR X7A SILVER",
   "slug": "honor-x7a-silver",
   "price": 2,
@@ -460,18 +1123,18 @@
   ]
 },
 {
-  "id": 10,
-  "name": "HONOR X8A CYAN",
-  "slug": "honor-x8a-cyan",
+  "id": 21,
+  "name": "HONOR X7A BLUE",
+  "slug": "honor-x7a-blue",
   "price": 2,
   "sale_price": 1,
-  "short_description": "\"Pantalla: 6.7″, 1080 x 2388 pixels\nProcesador: Mediatek Helio G88 2.3 GHz\nRAM: 6GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara Principal: Cuadruple, 50MP+5MP+2MP+2MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 12\"",
+  "short_description": "\"Pantalla: 6.74″, 720 x 1600 pixels\nProcesador: Mediatek Helio G37 2.3GHz\nRAM: 6GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara Principal: Cuadruple, 50MP+5MP+2MP+2MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 12\"",
   "long_description": "\"Pantalla: 6.74″, 720 x 1600 pixels\nProcesador: Mediatek Helio G37 2.3GHz\nRAM: 6GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara Principal: Cuadruple, 50MP+5MP+2MP+2MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 12\"",
   "stock": 50,
   "ratings": 4,
   "reviews": 1,
   "sale_count": 98,
-  "sku": "10.22.06",
+  "sku": "10.22.09",
   "is_new": null,
   "is_featured": null,
   "is_top": null,
@@ -479,14 +1142,14 @@
   "variants": [],
   "large_pictures": [
       {
-          "url": "/uploads/images/hipertronics/products/10.22.06-1.jpg",
+          "url": "/uploads/images/hipertronics/products/10.22.09-1.jpg",
           "width": 800,
           "height": 900
       }
   ],
   "pictures": [
       {
-          "url": "/uploads/images/hipertronics/products/10.22.06.jpg",
+          "url": "/uploads/images/hipertronics/products/10.22.09.jpg",
           "width": 300,
           "height": 338
       }
@@ -507,6 +1170,516 @@
       {
           "name": "Honor",
           "slug": "honor"
+      }
+  ]
+},
+{
+  "id": 22,
+  "name": "HONOR X7A BLACK",
+  "slug": "honor-x7a-black",
+  "price": 2,
+  "sale_price": 1,
+  "short_description": "\"Pantalla: 6.74″, 720 x 1600 pixels\nProcesador: Mediatek Helio G37 2.3GHz\nRAM: 6GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara Principal: Cuadruple, 50MP+5MP+2MP+2MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 12\"",
+  "long_description": "\"Pantalla: 6.74″, 720 x 1600 pixels\nProcesador: Mediatek Helio G37 2.3GHz\nRAM: 6GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara Principal: Cuadruple, 50MP+5MP+2MP+2MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 12\"",
+  "stock": 50,
+  "ratings": 4,
+  "reviews": 1,
+  "sale_count": 98,
+  "sku": "10.22.10",
+  "is_new": null,
+  "is_featured": null,
+  "is_top": null,
+  "until": null,
+  "variants": [],
+  "large_pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.22.10-1.jpg",
+          "width": 800,
+          "height": 900
+      }
+  ],
+  "pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.22.10.jpg",
+          "width": 300,
+          "height": 338
+      }
+  ],
+  "categories": [
+      {
+          "name": "Celulares",
+          "slug": "celulares"
+      }
+  ],
+  "tags": [
+      {
+          "name": "Celulares Honor",
+          "slug": "celulares-honor"
+      }
+  ],
+  "brands": [
+      {
+          "name": "Honor",
+          "slug": "honor"
+      }
+  ]
+},
+{
+  "id": 23,
+  "name": "HONOR X8A BLACK",
+  "slug": "honor-x8a-blaCK",
+  "price": 2,
+  "sale_price": 1,
+  "short_description": "\"Pantalla: 6.7″, 2.388 x 1.080 pixels\nProcesador: Mediatek Helio G88\nRAM: 6GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara Principal: Triple, 100MP+5MP+2MP\nCámara Frontal: 16MP\nBatería: 4500 mAh\nOS: Android 12\"",
+  "long_description": "\"Pantalla: 6.7″, 2.388 x 1.080p pixels\nProcesador: Mediatek Helio G88\nRAM: 6GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara Principal: Triple, 100MP+5MP+2MP\nCámara Frontal: 16MP\nBatería: 4500 mAh\nOS: Android 12\"",
+  "stock": 50,
+  "ratings": 4,
+  "reviews": 1,
+  "sale_count": 98,
+  "sku": "10.22.07",
+  "is_new": null,
+  "is_featured": null,
+  "is_top": null,
+  "until": null,
+  "variants": [],
+  "large_pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.22.07-1.jpg",
+          "width": 800,
+          "height": 900
+      }
+  ],
+  "pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.22.07.jpg",
+          "width": 300,
+          "height": 338
+      }
+  ],
+  "categories": [
+      {
+          "name": "Celulares",
+          "slug": "celulares"
+      }
+  ],
+  "tags": [
+      {
+          "name": "Celulares Honor",
+          "slug": "celulares-honor"
+      }
+  ],
+  "brands": [
+      {
+          "name": "Honor",
+          "slug": "honor"
+      }
+  ]
+},
+{
+  "id": 24,
+  "name": "HONOR X8A SILVER",
+  "slug": "honor-x8a-silver",
+  "price": 2,
+  "sale_price": 1,
+  "short_description": "\"Pantalla: 6.7″, 2.388 x 1.080 pixels\nProcesador: Mediatek Helio G88\nRAM: 6GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara Principal: Triple, 100MP+5MP+2MP\nCámara Frontal: 16MP\nBatería: 4500 mAh\nOS: Android 12\"",
+  "long_description": "\"Pantalla: 6.7″, 2.388 x 1.080p pixels\nProcesador: Mediatek Helio G88\nRAM: 6GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara Principal: Triple, 100MP+5MP+2MP\nCámara Frontal: 16MP\nBatería: 4500 mAh\nOS: Android 12\"",
+  "stock": 50,
+  "ratings": 4,
+  "reviews": 1,
+  "sale_count": 98,
+  "sku": "10.22.08",
+  "is_new": null,
+  "is_featured": null,
+  "is_top": null,
+  "until": null,
+  "variants": [],
+  "large_pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.22.08-1.jpg",
+          "width": 800,
+          "height": 900
+      }
+  ],
+  "pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.22.08.jpg",
+          "width": 300,
+          "height": 338
+      }
+  ],
+  "categories": [
+      {
+          "name": "Celulares",
+          "slug": "celulares"
+      }
+  ],
+  "tags": [
+      {
+          "name": "Celulares Honor",
+          "slug": "celulares-honor"
+      }
+  ],
+  "brands": [
+      {
+          "name": "Honor",
+          "slug": "honor"
+      }
+  ]
+},
+{
+  "id": 25,
+  "name": "HONOR MAGIC SILVER",
+  "slug": "honor-magic-verde",
+  "price": 2,
+  "sale_price": 1,
+  "short_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Qualcomm Snapdragon 695\nRAM: 6GB\nAlmacenamiento: 128GB\nCámara Principal: Triple, 64MP+5MP+2MP\nCámara Frontal: 16MP\nBatería: 5100 mAh\nOS: Android 12\"",
+  "long_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Qualcomm Snapdragon 695\nRAM: 6GB\nAlmacenamiento: 128GB\nCámara Principal: Triple, 64MP+5MP+2MP\nCámara Frontal: 16MP\nBatería: 5100 mAh\nOS: Android 12\"",
+  "stock": 50,
+  "ratings": 4,
+  "reviews": 1,
+  "sale_count": 98,
+  "sku": "10.22.15",
+  "is_new": null,
+  "is_featured": null,
+  "is_top": null,
+  "until": null,
+  "variants": [],
+  "large_pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.22.15-1.jpg",
+          "width": 800,
+          "height": 900
+      }
+  ],
+  "pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.22.15.jpg",
+          "width": 300,
+          "height": 338
+      }
+  ],
+  "categories": [
+      {
+          "name": "Celulares",
+          "slug": "celulares"
+      }
+  ],
+  "tags": [
+      {
+          "name": "Celulares Honor",
+          "slug": "celulares-honor"
+      }
+  ],
+  "brands": [
+      {
+          "name": "Honor",
+          "slug": "honor"
+      }
+  ]
+},
+{
+  "id": 26,
+  "name": "HONOR MAGIC TITANIUM SILVER",
+  "slug": "honor-magic-titanium-silver",
+  "price": 2,
+  "sale_price": 1,
+  "short_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Qualcomm Snapdragon 695\nRAM: 6GB\nAlmacenamiento: 128GB\nCámara Principal: Triple, 64MP+5MP+2MP\nCámara Frontal: 16MP\nBatería: 5100 mAh\nOS: Android 12\"",
+  "long_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Qualcomm Snapdragon 695\nRAM: 6GB\nAlmacenamiento: 128GB\nCámara Principal: Triple, 64MP+5MP+2MP\nCámara Frontal: 16MP\nBatería: 5100 mAh\nOS: Android 12\"",
+  "stock": 50,
+  "ratings": 4,
+  "reviews": 1,
+  "sale_count": 98,
+  "sku": "10.22.12",
+  "is_new": null,
+  "is_featured": null,
+  "is_top": null,
+  "until": null,
+  "variants": [],
+  "large_pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.22.12-1.jpg",
+          "width": 800,
+          "height": 900
+      }
+  ],
+  "pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.22.12.jpg",
+          "width": 300,
+          "height": 338
+      }
+  ],
+  "categories": [
+      {
+          "name": "Celulares",
+          "slug": "celulares"
+      }
+  ],
+  "tags": [
+      {
+          "name": "Celulares Honor",
+          "slug": "celulares-honor"
+      }
+  ],
+  "brands": [
+      {
+          "name": "Honor",
+          "slug": "honor"
+      }
+  ]
+},
+{
+  "id": 27,
+  "name": "NOKIA 105 LTAU BLUE",
+  "slug": "honor-magic-ltau-blue",
+  "price": 2,
+  "sale_price": 1,
+  "short_description": "\"Pantalla: 1.8″, 160x120 pixels\nRAM: 4GB\nAlmacenamiento: 4GB\nCámara Principal: 0.3MP\nBatería: 800 mAh\"",
+  "long_description": "\"Pantalla: 1.8″, 160x120 pixels\nRAM: 4GB\nAlmacenamiento: 4GB\nCámara Principal: 0,3MP\nBatería: 800 mAh\"",
+  "stock": 50,
+  "ratings": 4,
+  "reviews": 1,
+  "sale_count": 98,
+  "sku": "10.04.03",
+  "is_new": null,
+  "is_featured": null,
+  "is_top": null,
+  "until": null,
+  "variants": [],
+  "large_pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.04.03-1.jpg",
+          "width": 800,
+          "height": 900
+      }
+  ],
+  "pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.04.03.jpg",
+          "width": 300,
+          "height": 338
+      }
+  ],
+  "categories": [
+      {
+          "name": "Celulares",
+          "slug": "celulares"
+      }
+  ],
+  "tags": [
+      {
+          "name": "Celulares Nokia",
+          "slug": "celulares-nokia"
+      }
+  ],
+  "brands": [
+      {
+          "name": "Nokia",
+          "slug": "nokia"
+      }
+  ]
+},
+{
+  "id": 28,
+  "name": "NOKIA C2 2E BLUE",
+  "slug": "nokia-c2-2e-blue",
+  "price": 2,
+  "sale_price": 1,
+  "short_description": "\"Pantalla: 5.7″, 480 x 960 pixels\nProcesador: Quad-core 1.5GHz\nRAM: 2GB\nAlmacenamiento: 32GB\nCámara Principal: 5MP\nCámara Frontal: 2MP\nBatería: 2400 mAh\nOS: Android 11\"",
+  "long_description": "\"Pantalla: 5.7″, 480 x 960 pixels\nProcesador:Quad-core 1.5GHz\nRAM: 2GB\nAlmacenamiento: 32GB\nCámara Principal: 5MP\nCámara Frontal: 2MP\nBatería: 2400 mAh\nOS: Android 11\"",
+  "stock": 50,
+  "ratings": 4,
+  "reviews": 1,
+  "sale_count": 98,
+  "sku": "10.04.04",
+  "is_new": null,
+  "is_featured": null,
+  "is_top": null,
+  "until": null,
+  "variants": [],
+  "large_pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.04.04-1.jpg",
+          "width": 800,
+          "height": 900
+      }
+  ],
+  "pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.04.04.jpg",
+          "width": 300,
+          "height": 338
+      }
+  ],
+  "categories": [
+      {
+          "name": "Celulares",
+          "slug": "celulares"
+      }
+  ],
+  "tags": [
+      {
+          "name": "Celulares Nokia",
+          "slug": "celulares-nokia"
+      }
+  ],
+  "brands": [
+      {
+          "name": "Nokia",
+          "slug": "nokia"
+      }
+  ]
+},
+{
+  "id": 28,
+  "name": "NOKIA G11 PLUS GRAY",
+  "slug": "nokia-g11-plus-gray",
+  "price": 2,
+  "sale_price": 1,
+  "short_description": "\"Pantalla: 6.52″, 720 x 1600 pixels\nProcesador: Unisoc T606 1.6GHz\nRAM: 3GB\nAlmacenamiento: 64GB\nCámara Principal: Dual 50MP+2MP\nCámara Frontal: 8MP\nBatería: 5000 mAh\nOS: Android 12\"",
+  "long_description": "\"Pantalla: 6.52″, 720 x 1600 pixels\nProcesador:Unisoc T606 1.6GHz\nRAM: 3GB\nAlmacenamiento: 64GB\nCámara Principal: Dual 50MP+2MP\nCámara Frontal: 8MP\nBatería: 5000 mAh\nOS: Android 12\"",
+  "stock": 50,
+  "ratings": 4,
+  "reviews": 1,
+  "sale_count": 98,
+  "sku": "10.04.05",
+  "is_new": null,
+  "is_featured": null,
+  "is_top": null,
+  "until": null,
+  "variants": [],
+  "large_pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.04.05-1.jpg",
+          "width": 800,
+          "height": 900
+      }
+  ],
+  "pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/10.04.05.jpg",
+          "width": 300,
+          "height": 338
+      }
+  ],
+  "categories": [
+      {
+          "name": "Celulares",
+          "slug": "celulares"
+      }
+  ],
+  "tags": [
+      {
+          "name": "Celulares Nokia",
+          "slug": "celulares-nokia"
+      }
+  ],
+  "brands": [
+      {
+          "name": "Nokia",
+          "slug": "nokia"
+      }
+  ]
+},
+{
+  "id": 29,
+  "name": "NOKIA TAB T20 BLUE",
+  "slug": "nokia-tab-T20-blue",
+  "price": 2,
+  "sale_price": 1,
+  "short_description": "\"Pantalla: 10.4″, 1200 x 2000 pixels\nProcesador: Unisoc T610 1.8GHz\nRAM: 4GB\nAlmacenamiento: 64GB\nCámara Principal: 8MP\nBatería: 8200  mAh\nOS: Android 11\"",
+  "long_description": "\"Pantalla: 10.4″, 1200 x 2000 pixels\nProcesador:Unisoc T610 1.8GHz\nRAM: 4GB\nAlmacenamiento: 64GB\nCámara Principal: 8MP\nBatería: 8200  mAh\nOS: Android 11\"",
+  "stock": 50,
+  "ratings": 4,
+  "reviews": 1,
+  "sale_count": 98,
+  "sku": "13.04.01",
+  "is_new": null,
+  "is_featured": null,
+  "is_top": null,
+  "until": null,
+  "variants": [],
+  "large_pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/13.04.01-1.jpg",
+          "width": 800,
+          "height": 900
+      }
+  ],
+  "pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/13.04.01.jpg",
+          "width": 300,
+          "height": 338
+      }
+  ],
+  "categories": [
+      {
+          "name": "Celulares",
+          "slug": "celulares"
+      }
+  ],
+  "tags": [
+      {
+          "name": "Celulares Nokia",
+          "slug": "celulares-nokia"
+      }
+  ],
+  "brands": [
+      {
+          "name": "Nokia",
+          "slug": "nokia"
+      }
+  ]
+},
+{
+  "id": 30,
+  "name": "NOKIA TAB T20 BLUE",
+  "slug": "nokia-tab-T20-blue",
+  "price": 2,
+  "sale_price": 1,
+  "short_description": "\"Pantalla: 10.4″, 1200 x 2000 pixels\nProcesador: Unisoc T610 1.8GHz\nRAM: 4GB\nAlmacenamiento: 64GB\nCámara Principal: 8MP\nBatería: 8200  mAh\nOS: Android 11\"",
+  "long_description": "\"Pantalla: 10.4″, 1200 x 2000 pixels\nProcesador:Unisoc T610 1.8GHz\nRAM: 4GB\nAlmacenamiento: 64GB\nCámara Principal: 8MP\nBatería: 8200  mAh\nOS: Android 11\"",
+  "stock": 50,
+  "ratings": 4,
+  "reviews": 1,
+  "sale_count": 98,
+  "sku": "13.04.01",
+  "is_new": null,
+  "is_featured": null,
+  "is_top": null,
+  "until": null,
+  "variants": [],
+  "large_pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/13.04.01-1.jpg",
+          "width": 800,
+          "height": 900
+      }
+  ],
+  "pictures": [
+      {
+          "url": "/uploads/images/hipertronics/products/13.04.01.jpg",
+          "width": 300,
+          "height": 338
+      }
+  ],
+  "categories": [
+      {
+          "name": "Celulares",
+          "slug": "celulares"
+      }
+  ],
+  "tags": [
+      {
+          "name": "Celulares BLU",
+          "slug": "celulares-blu"
+      }
+  ],
+  "brands": [
+      {
+          "name": "Nokia",
+          "slug": "nokia"
       }
   ]
 },
@@ -973,8 +2146,10 @@
       "id": 308,
       "name": "Samsung ZFLIP5 LIGHT GREEN",
       "slug": "samsung-zflip5-light-green",
-      "price": 1200.00,
-      "sale_price": 1100.00,
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla externa: Panel Super AMOLED 3.4″, 748 x 720 pixels\nPantalla interna: Panel Dynamic AMOLED 6.7″,  2640 x 1080 pixels\nProcesador: Sanpdragon 8 Gen 2 for Galaxy\nRAM: 8GB\nAlmacenamiento: 256GB\nCámara Principal: 12MPX+Gran angular 12MPX\nCámara Frontal: 10MPX\nBatería: 3700 mAh\nOS: Android 13\"",
+      "long_description": "\"Pantalla externa: Panel Super AMOLED 3.4″, 748 x 720 pixels\nPantalla interna: Panel Dynamic AMOLED 6.7″,  2640 x 1080 pixels\nProcesador: Sanpdragon 8 Gen 2 for Galaxy\nRAM: 8GB\nAlmacenamiento: 256GB\nCámara Principal: 12MPX+Gran angular 12MPX\nCámara Frontal: 10MPX\nBatería: 3700 mAh\nOS: Android 13\"",
       "stock": 50,
       "ratings": 4,
       "reviews": 1,
@@ -1022,8 +2197,10 @@
       "id": 309,
       "name": "Samsung ZFLIP5 GRAY ARCOTEL",
       "slug": "samsung-zflip5-gray-arcotel",
-      "price": 1200.00,
-      "sale_price": 1100.00,
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla externa: Panel Super AMOLED 3.4″, 748 x 720 pixels\nPantalla interna: Panel Dynamic AMOLED 6.7″,  2640 x 1080 pixels\nProcesador: Sanpdragon 8 Gen 2 for Galaxy\nRAM: 8GB\nAlmacenamiento: 256GB\nCámara Principal: 12MPX+Gran angular 12MPX\nCámara Frontal: 10MPX\nBatería: 3700 mAh\nOS: Android 13\"",
+      "long_description": "\"Pantalla externa: Panel Super AMOLED 3.4″, 748 x 720 pixels\nPantalla interna: Panel Dynamic AMOLED 6.7″,  2640 x 1080 pixels\nProcesador: Sanpdragon 8 Gen 2 for Galaxy\nRAM: 8GB\nAlmacenamiento: 256GB\nCámara Principal: 12MPX+Gran angular 12MPX\nCámara Frontal: 10MPX\nBatería: 3700 mAh\nOS: Android 13\"",
       "stock": 50,
       "ratings": 4,
       "reviews": 1,
@@ -1071,8 +2248,10 @@
       "id": 310,
       "name": "Samsung ZFLIP5 BEIGE ARCOTEL",
       "slug": "samsung-zflip5-beige-arcotel",
-      "price": 1200.00,
-      "sale_price": 1100.00,
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla externa: Panel Super AMOLED 3.4″, 748 x 720 pixels\nPantalla interna: Panel Dynamic AMOLED 6.7″,  2640 x 1080 pixels\nProcesador: Sanpdragon 8 Gen 2 for Galaxy\nRAM: 8GB\nAlmacenamiento: 256GB\nCámara Principal: 12MPX+Gran angular 12MPX\nCámara Frontal: 10MPX\nBatería: 3700 mAh\nOS: Android 13\"",
+      "long_description": "\"Pantalla externa: Panel Super AMOLED 3.4″, 748 x 720 pixels\nPantalla interna: Panel Dynamic AMOLED 6.7″,  2640 x 1080 pixels\nProcesador: Sanpdragon 8 Gen 2 for Galaxy\nRAM: 8GB\nAlmacenamiento: 256GB\nCámara Principal: 12MPX+Gran angular 12MPX\nCámara Frontal: 10MPX\nBatería: 3700 mAh\nOS: Android 13\"",
       "stock": 50,
       "ratings": 4,
       "reviews": 1,
@@ -1120,8 +2299,10 @@
       "id": 311,
       "name": "Samsung ZFLIP5 BEIGE ARCOTEL",
       "slug": "samsung-zflip5-beige-arcotel",
-      "price": 1200.00,
-      "sale_price": 1100.00,
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla externa: Panel Super AMOLED 3.4″, 748 x 720 pixels\nPantalla interna: Panel Dynamic AMOLED 6.7″,  2640 x 1080 pixels\nProcesador: Sanpdragon 8 Gen 2 for Galaxy\nRAM: 8GB\nAlmacenamiento: 512GB\nCámara Principal: 12MPX+Gran angular 12MPX\nCámara Frontal: 10MPX\nBatería: 3700 mAh\nOS: Android 13\"",
+      "long_description": "\"Pantalla externa: Panel Super AMOLED 3.4″, 748 x 720 pixels\nPantalla interna: Panel Dynamic AMOLED 6.7″,  2640 x 1080 pixels\nProcesador: Sanpdragon 8 Gen 2 for Galaxy\nRAM: 8GB\nAlmacenamiento: 512GB\nCámara Principal: 12MPX+Gran angular 12MPX\nCámara Frontal: 10MPX\nBatería: 3700 mAh\nOS: Android 13\"",
       "stock": 50,
       "ratings": 4,
       "reviews": 1,
@@ -1169,8 +2350,10 @@
       "id": 307,
       "name": "Samsung ZFLIP5 LIGHT PINK",
       "slug": "samsung-zflip5-light-pink",
-      "price": 1200.00,
-      "sale_price": 1100.00,
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla externa: Panel Super AMOLED 3.4″, 748 x 720 pixels\nPantalla interna: Panel Dynamic AMOLED 6.7″,  2640 x 1080 pixels\nProcesador: Sanpdragon 8 Gen 2 for Galaxy\nRAM: 8GB\nAlmacenamiento: 256GB\nCámara Principal: 12MPX+Gran angular 12MPX\nCámara Frontal: 10MPX\nBatería: 3700 mAh\nOS: Android 13\"",
+      "long_description": "\"Pantalla externa: Panel Super AMOLED 3.4″, 748 x 720 pixels\nPantalla interna: Panel Dynamic AMOLED 6.7″,  2640 x 1080 pixels\nProcesador: Sanpdragon 8 Gen 2 for Galaxy\nRAM: 8GB\nAlmacenamiento: 256GB\nCámara Principal: 12MPX+Gran angular 12MPX\nCámara Frontal: 10MPX\nBatería: 3700 mAh\nOS: Android 13\"",
       "stock": 50,
       "ratings": 4,
       "reviews": 1,
@@ -1218,57 +2401,10 @@
       "id": 312,
       "name": "Samsung ZFOLD5 BLACK ARCOTEL",
       "slug": "samsung-zfold5-black-arcotel",
-      "price": 2000.00,
-      "sale_price": 2100.00,
-      "stock": 50,
-      "ratings": 4,
-      "reviews": 1,
-      "sale_count": 98,
-      "sku": "10.02.119",
-      "is_new": null,
-      "is_featured": null,
-      "is_top": null,
-      "until": null,
-      "variants": [],
-      "large_pictures": [
-        {
-          "url": "/uploads/images/hipertronics/products/10.02.119-1.jpg",
-          "width": 800,
-          "height": 900
-        }
-      ],
-      "pictures": [
-        {
-          "url": "/uploads/images/hipertronics/products/10.02.119.jpg",
-          "width": 300,
-          "height": 338
-        }
-      ],
-      "categories": [
-        {
-          "name": "Celulares",
-          "slug": "celulares"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Celulares Samsung",
-          "slug": "celulares-samsung"
-        }
-      ],
-      "brands": [
-        {
-          "name": "Samsung",
-          "slug": "samsung"
-        }
-      ]
-    },
-    {
-      "id": 313,
-      "name": "Samsung ZFOLD5 BLACK ARCOTEL",
-      "slug": "samsung-zfold5-black-arcotel",
-      "price": 2000.00,
-      "sale_price": 2100.00,
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla externa: Dynamic AMOLED 6.2″, 2316 x 904 pixels\nPantalla interna: Dynamic AMOLED 7.6″,  2176 x 1812 pixels\nProcesador: Sanpdragon 8 Gen 2 Adreno 740\nRAM: 12GB\nAlmacenamiento: 1TB\nCámara: Triple, 50MP+12MP+10MP\nCámara Frontal: Exterior 10MP| Interior 4MP\nBatería: 4400 mAh\nOS: Android 13\"",
+      "long_description": "\"Pantalla externa: Dynamic AMOLED 6.2″, 2316 x 904 pixels\nPantalla interna: Dynamic AMOLED 7.6″,  2176 x 1812 pixels\nProcesador: Sanpdragon 8 Gen 2 Adreno 740\nRAM: 12GB\nAlmacenamiento: 1TB\nCámara: Triple, 50MP+12MP+10MP\nCámara Frontal: Exterior 10MP| Interior 4MP\nBatería: 4400 mAh\nOS: Android 13\"",
       "stock": 50,
       "ratings": 4,
       "reviews": 1,
@@ -1313,11 +2449,11 @@
       ]
     },
     {
-      "id": 314,
+      "id": 313,
       "name": "Samsung S23 ULTRA BLACK",
       "slug": "samsung-s23-ultra-black",
-      "price": 1279.00,
-      "sale_price": 1219.00,
+      "price": 2,
+      "sale_price": 1,
       "short_description": "\"Pantalla: 6.1″, 1440 x 3080 pixels\nProcesador: Qualcomm Sanpdragon 8 Gen 2 Adreno 740\nRAM: 12GB\nAlmacenamiento: 512GB\nExpansión: No\nCámara: Cuadruple, 200MP+12MP+10MP+10MP\nCámara Frontal: 12MP\nBatería: 5000 mAh\nOS: Android 13\"",
       "long_description": "\"Pantalla: 6.1″, 1440 x 3080 pixels\nProcesador: Qualcomm Sanpdragon 8 Gen 2 Adreno 740\nRAM: 12GB\nAlmacenamiento: 512GB\nExpansión: No\nCámara: Cuadruple, 200MP+12MP+10MP+10MP\nCámara Frontal: 12MP\nBatería: 5000 mAh\nOS: Android 13\"",
       "stock": 50,
@@ -1372,6 +2508,8 @@
       "slug": "samsung-zfold5-black-arcotel",
       "price": 2,
       "sale_price": 1,
+      "short_description": "\"Pantalla externa: Dynamic AMOLED 6.2″, 2316 x 904 pixels\nPantalla interna: Dynamic AMOLED 7.6″,  2176 x 1812 pixels\nProcesador: Sanpdragon 8 Gen 2 Adreno 740\nRAM: 12GB\nAlmacenamiento: 512GB\nCámara: Triple, 50MP+12MP+10MP\nCámara Frontal: Exterior 10MP| Interior 4MP\nBatería: 4400 mAh\nOS: Android 13\"",
+      "long_description": "\"Pantalla externa: Dynamic AMOLED 6.2″, 2316 x 904 pixels\nPantalla interna: Dynamic AMOLED 7.6″,  2176 x 1812 pixels\nProcesador: Sanpdragon 8 Gen 2 Adreno 740\nRAM: 12GB\nAlmacenamiento: 512GB\nCámara: Triple, 50MP+12MP+10MP\nCámara Frontal: Exterior 10MP| Interior 4MP\nBatería: 4400 mAh\nOS: Android 13\"",
       "stock": 50,
       "ratings": 4,
       "reviews": 1,
@@ -1421,6 +2559,8 @@
       "slug": "samsung-zflip5-light-pink",
       "price": 2,
       "sale_price": 1,
+      "short_description": "\"Pantalla externa: Panel Super AMOLED 3.4″, 748 x 720 pixels\nPantalla interna: Panel Dynamic AMOLED 6.7″,  2640 x 1080 pixels\nProcesador: Sanpdragon 8 Gen 2 for Galaxy\nRAM: 8GB\nAlmacenamiento: 256GB\nCámara Principal: 12MPX+Gran angular 12MPX\nCámara Frontal: 10MPX\nBatería: 3700 mAh\nOS: Android 13\"",
+      "long_description": "\"Pantalla externa: Panel Super AMOLED 3.4″, 748 x 720 pixels\nPantalla interna: Panel Dynamic AMOLED 6.7″,  2640 x 1080 pixels\nProcesador: Sanpdragon 8 Gen 2 for Galaxy\nRAM: 8GB\nAlmacenamiento: 256GB\nCámara Principal: 12MPX+Gran angular 12MPX\nCámara Frontal: 10MPX\nBatería: 3700 mAh\nOS: Android 13\"",
       "stock": 50,
       "ratings": 4,
       "reviews": 1,
@@ -1433,14 +2573,14 @@
       "variants": [],
       "large_pictures": [
         {
-          "url": "/uploads/images/hipertronics/products/10.02.121-1.jpg",
+          "url": "public/uploads/images/hipertronics/products/10.02.121-1.jpg",
           "width": 800,
           "height": 900
         }
       ],
       "pictures": [
         {
-          "url": "/uploads/images/hipertronics/products/10.02.121.jpg",
+          "url": "public/uploads/images/hipertronics/products/10.02.121.jpg",
           "width": 300,
           "height": 338
         }
@@ -1484,7 +2624,7 @@
       "variants": [],
       "large_pictures": [
         {
-          "url": "/uploads/images/hipertronics/products/10.02.97-1.jpg",
+          "url": "/uploads/images/hipertronics/products/10.02.97.-1.jpg",
           "width": 800,
           "height": 900
         }
@@ -1586,14 +2726,14 @@
     "variants": [],
     "large_pictures": [
         {
-            "url": "/uploads/images/demo-market1/products/10.43.52-1.jpg",
+            "url": "/uploads/images/hipertronics/products/10.43.52-1.jpg",
             "width": 800,
             "height": 900
         }
     ],
     "pictures": [
         {
-            "url": "/uploads/images/demo-market1/products/10.43.52.jpg",
+            "url": "/uploads/images/hipertronics/products/10.43.52.jpg",
             "width": 300,
             "height": 338
         }
@@ -1726,8 +2866,8 @@
   "slug": "honor-x8a-cyan",
   "price": 2,
   "sale_price": 1,
-  "short_description": "\"Pantalla: 6.7″, 1080 x 2388 pixels\nProcesador: Mediatek Helio G88 2.3 GHz\nRAM: 6GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara Principal: Cuadruple, 50MP+5MP+2MP+2MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 12\"",
-  "long_description": "\"Pantalla: 6.74″, 720 x 1600 pixels\nProcesador: Mediatek Helio G37 2.3GHz\nRAM: 6GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara Principal: Cuadruple, 50MP+5MP+2MP+2MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 12\"",
+  "short_description": "\"Pantalla: 6.7″, 2.388 x 1.080 pixels\nProcesador: Mediatek Helio G88\nRAM: 6GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara Principal: Triple, 100MP+5MP+2MP\nCámara Frontal: 16MP\nBatería: 4500 mAh\nOS: Android 12\"",
+  "long_description": "\"Pantalla: 6.7″, 2.388 x 1.080p pixels\nProcesador: Mediatek Helio G88\nRAM: 6GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara Principal: Triple, 100MP+5MP+2MP\nCámara Frontal: 16MP\nBatería: 4500 mAh\nOS: Android 12\"",
   "stock": 50,
   "ratings": 4,
   "reviews": 1,
@@ -1773,17 +2913,17 @@
 },
 {
   "id": 109,
-  "name": "HONOR MAGIC CYAN",
-  "slug": "honor-x8a-cyan",
+  "name": "HONOR MAGIC GREEN",
+  "slug": "honor-magic-green",
   "price": 2,
   "sale_price": 1,
-  "short_description": "\"Pantalla: 6.7″, 1080 x 2388 pixels\nProcesador: Mediatek Helio G88 2.3 GHz\nRAM: 6GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara Principal: Cuadruple, 50MP+5MP+2MP+2MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 12\"",
-  "long_description": "\"Pantalla: 6.74″, 720 x 1600 pixels\nProcesador: Mediatek Helio G37 2.3GHz\nRAM: 6GB\nAlmacenamiento: 128GB\nExpansión: microSD\nCámara Principal: Cuadruple, 50MP+5MP+2MP+2MP\nCámara Frontal: 8MP\nBatería: 6000 mAh\nOS: Android 12\"",
+  "short_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Qualcomm Snapdragon 695\nRAM: 6GB\nAlmacenamiento: 128GB\nCámara Principal: Triple, 64MP+5MP+2MP\nCámara Frontal: 16MP\nBatería: 5100 mAh\nOS: Android 12\"",
+  "long_description": "\"Pantalla: 6.67″, 1080 x 2400 pixels\nProcesador: Qualcomm Snapdragon 695\nRAM: 6GB\nAlmacenamiento: 128GB\nCámara Principal: Triple, 64MP+5MP+2MP\nCámara Frontal: 16MP\nBatería: 5100 mAh\nOS: Android 12\"",
   "stock": 50,
   "ratings": 4,
   "reviews": 1,
   "sale_count": 98,
-  "sku": "10.22.06",
+  "sku": "10.22.16",
   "is_new": null,
   "is_featured": null,
   "is_top": null,
@@ -1791,14 +2931,14 @@
   "variants": [],
   "large_pictures": [
       {
-          "url": "/uploads/images/hipertronics/products/10.22.06-1.jpg",
+          "url": "/uploads/images/hipertronics/products/10.22.16-1.jpg",
           "width": 800,
           "height": 900
       }
   ],
   "pictures": [
       {
-          "url": "/uploads/images/hipertronics/products/10.22.06.jpg",
+          "url": "/uploads/images/hipertronics/products/10.22.16.jpg",
           "width": 300,
           "height": 338
       }
