@@ -15,7 +15,7 @@ function MainMenu() {
                 </li>
 
                 <li className={ `submenu  ${ pathname.includes( '/shop' ) ? 'active' : '' }` }>
-                    <ALink href='/shop' style={{ color: 'white' }}>Celulares</ALink>
+                    <ALink href='/shop/?category=celulares' style={{ color: 'white' }}>Celulares</ALink>
 
                                 <ul>
                                     {
@@ -62,8 +62,7 @@ function MainMenu() {
                 </li>
 
                 <li className={ `submenu  ${ pathname.includes( '/product' ) && !pathname.includes( '/elements' ) ? 'active' : '' }` }>
-                    <ALink href="/product/default/man-s-grey-wrist-watch" style={{ color: 'white' }}>Televisores</ALink>
-
+                    <ALink href="/shop/?category=tvs" style={{ color: 'white' }}>Televisores</ALink>
 
                                 <ul>
                                     {
@@ -108,7 +107,7 @@ function MainMenu() {
                 </li>
 
                 <li className={ `submenu  ${ pathname.includes( '/pages' ) ? 'active' : '' }` }>
-                    <ALink href="#" style={{ color: 'white' }}>Tablets</ALink>
+                    <ALink href="/shop/?category=tablets" style={{ color: 'white' }}>Tablets</ALink>
 
                     <ul>
                         {
@@ -125,7 +124,7 @@ function MainMenu() {
                 </li>
 
                 <li className={ `submenu  ${ pathname.includes( '/blog' ) && !pathname.includes( '/elements' ) ? 'active' : '' }` }>
-                    <ALink href={ `/blog/classic` } style={{ color: 'white' }}>Accesorios</ALink>
+                    <ALink href={ `/shop/?category=accesorios` } style={{ color: 'white' }}>Accesorios</ALink>
 
                     <ul>
                         {
@@ -180,7 +179,7 @@ function MainMenu() {
                 {/*</li>*/}
 
                 <li>
-                    <a href="https://d-themes.com/buynow/riodereact" style={{ color: 'white' }}>Sistema</a>
+                    <a href="https://app.hipertronics.us/clientes/" style={{ color: 'white' }}>Sistema</a>
                 </li>
             </ul>
         </nav>
