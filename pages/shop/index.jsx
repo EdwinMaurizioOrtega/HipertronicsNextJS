@@ -17,6 +17,8 @@ function ShopHorizontalFilter () {
     const router = useRouter();
     const query = router.query;
 
+    console.log("query: "+ JSON.stringify(query))
+
     const prices = [
         { min: '0', max: '50' },
         { min: '50', max: '100' },

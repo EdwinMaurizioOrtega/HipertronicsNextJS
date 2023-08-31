@@ -17,10 +17,6 @@ function MainMenu() {
                 <li className={ `submenu  ${ pathname.includes( '/shop' ) ? 'active' : '' }` }>
                     <ALink href='/shop' style={{ color: 'white' }}>Celulares</ALink>
 
-                    <div className="megamenu">
-                        <div className="row">
-                            <div className="col-6 col-sm-4 col-md-3 col-lg-4">
-                                <h4 className="menu-title">Marcas</h4>
                                 <ul>
                                     {
                                         mainMenu.shop.variation1.map( ( item, index ) => (
@@ -33,7 +29,7 @@ function MainMenu() {
                                         ) )
                                     }
                                 </ul>
-                            </div>
+
 
                             {/*<div className="col-6 col-sm-4 col-md-3 col-lg-4">*/}
                             {/*    <h4 className="menu-title">Variations 2</h4>*/}
@@ -62,17 +58,13 @@ function MainMenu() {
                             {/*        <ALink href={ "/shop" } className="btn btn-link btn-underline">shop now<i className="d-icon-arrow-right"></i></ALink>*/}
                             {/*    </div>*/}
                             {/*</div>*/}
-                        </div>
-                    </div>
+
                 </li>
 
                 <li className={ `submenu  ${ pathname.includes( '/product' ) && !pathname.includes( '/elements' ) ? 'active' : '' }` }>
                     <ALink href="/product/default/man-s-grey-wrist-watch" style={{ color: 'white' }}>Televisores</ALink>
 
-                    <div className="megamenu">
-                        <div className="row">
-                            <div className="col-6 col-sm-4 col-md-3 col-lg-4">
-                                <h4 className="menu-title">Marcas</h4>
+
                                 <ul>
                                     {
                                         mainMenu.product.pages.map( ( item, index ) => (
@@ -85,7 +77,7 @@ function MainMenu() {
                                         ) )
                                     }
                                 </ul>
-                            </div>
+
 
                             {/*<div className="col-6 col-sm-4 col-md-3 col-lg-4">*/}
                             {/*    <h4 className="menu-title">Product Layouts</h4>*/}
@@ -112,8 +104,7 @@ function MainMenu() {
                             {/*        <h4 className="banner-subtitle font-weight-bold text-white mb-0">$23.00 - $120.00</h4>*/}
                             {/*    </div>*/}
                             {/*</div>*/}
-                        </div>
-                    </div>
+
                 </li>
 
                 <li className={ `submenu  ${ pathname.includes( '/pages' ) ? 'active' : '' }` }>
