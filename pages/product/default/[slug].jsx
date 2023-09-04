@@ -23,9 +23,10 @@ function ProductRightSidebar () {
     console.log("slug: "+ slug);
 
     const foundInBestSelling = jsonData.bestSelling.find(item => item.slug === slug);
+    const foundInLatest = jsonData.latest.find(item => item.slug === slug);
+
     const foundInFeatured = jsonData.featured.find(item => item.slug === slug);
     const foundInCollection = jsonData.productCollection.find(item => item.slug === slug);
-    const foundInLatest = jsonData.latest.find(item => item.slug === slug);
 
     let product = null;
 

@@ -3,63 +3,32 @@ export const mainMenu = {
         "variation1": [
             {
                 "title": "Samsung",
-                "url": "shop/banner-sidebar"
+                "url": "shop/?category=celulares&brand=samsung"
             },
             {
                 "title": "Infinix",
-                "url": "shop/boxed-banner"
+                "url": "shop/?category=celulares&brand=infinix"
             },
             {
                 "title": "Xiaomi",
-                "url": "shop/infinite-scroll"
+                "url": "shop/?category=celulares&brand=xioami"
             },
             {
                 "title": "Honor",
-                "url": "shop/horizontal-filter"
+                "url": "shop/?category=celulares&brand=honor"
             },
             {
                 "title": "Nokia",
-                "url": "shop/navigation-filter",
+                "url": "shop/?category=celulares&brand=nokia",
                 "hot": true
             },
             {
                 "title": "Blu",
-                "url": "shop/off-canvas-filter"
+                "url": "shop/?category=celulares&brand=blu"
             },
             {
                 "title": "TCL",
-                "url": "shop/right-sidebar"
-            }
-        ],
-        "variation2": [
-            {
-                "title": "3 Columns Mode",
-                "url": "shop/grid/3cols",
-                "new": true
-            },
-            {
-                "title": "4 Columns Mode",
-                "url": "shop/grid/4cols"
-            },
-            {
-                "title": "5 Columns Mode",
-                "url": "shop/grid/5cols"
-            },
-            {
-                "title": "6 Columns Mode",
-                "url": "shop/grid/6cols"
-            },
-            {
-                "title": "7 Columns Mode",
-                "url": "shop/grid/7cols"
-            },
-            {
-                "title": "8 Columns Mode",
-                "url": "shop/grid/8cols"
-            },
-            {
-                "title": "List Mode",
-                "url": "shop/?type=list"
+                "url": "shop/?category=celulares&brand=tcl"
             }
         ]
     },
@@ -67,7 +36,7 @@ export const mainMenu = {
         "pages": [
             {
                 "title": "Samsung",
-                "url": "product/default/fashionable-overnight-bag"
+                "url": "shop/?category=tv&brand=samsung"
             }
         ],
         "layout": [
@@ -109,32 +78,32 @@ export const mainMenu = {
     "other": [
         {
             "title": "Samsung",
-            "url": "pages/about-us"
+            "url": "shop/?category=tablets&brand=samsung"
         },
         {
             "title": "Nokia",
-            "url": "pages/contact-us"
+            "url": "shop/?category=tablets&brand=nokia"
         }
     ],
     "blog": [
         {
             "title": "SmartWatch",
-            "url": "blog/classic"
+            "url": "shop/?category=smart-watch"
         },
         {
             "title": "Buds",
-            "url": "blog/listing"
+            "url": "shop/?category=buds"
         },
 
 
         {
             "title": "Cargadores",
-            "url": "blog/mask/grid",
+            "url": "shop/?category=cargadores",
 
         },
         {
             "title": "Case",
-            "url": "blog/single/pellentesque-fusce-suscipit"
+            "url": "shop/?category=case"
         }
     ],
     "element": [

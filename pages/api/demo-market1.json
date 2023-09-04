@@ -4540,8 +4540,7 @@
       ]
     }
   ],
-  "latest":
-   [
+  "latest": [
     {
       "id": 101,
       "name": "Samsung ZFOLD5 BLACK ARCOTEL",
@@ -5002,5 +5001,7 @@
       }
   ]
 }
-  ]
+  ],
+  "featured": [],
+  "productCollection": []
 }
