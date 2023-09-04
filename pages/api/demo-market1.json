@@ -1615,14 +1615,14 @@
   ],
   "categories": [
       {
-          "name": "Celulares",
-          "slug": "celulares"
+          "name": "Tablets",
+          "slug": "tablets"
       }
   ],
   "tags": [
       {
-          "name": "Celulares Nokia",
-          "slug": "celulares-nokia"
+          "name": "Tablets Nokia",
+          "slug": "Tablets-nokia"
       }
   ],
   "brands": [
@@ -4020,6 +4020,516 @@
         {
           "name": "Watchs Samsung",
           "slug": "watchs-samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+     {
+      "id": 74,
+      "name": "Samsung GALAXY TAB S9 PLUS",
+      "slug": "samsung-galaxy-tab-s8-plus",
+      "price": 1.00,
+      "sale_price": 2.00,
+      "short_description": "\"Pantalla: 12,4 pulgadas, 1752 x 2800 pixels\nProcesador: Snapdragon 8 Gen 2 for Galaxy\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: microSD\nCámara: Dual, 13MP+8MP\nCámara Frontal: 12MP\nBatería: 10090 mAh\nOS: Android 13\"",
+      "long_description": "\"Pantalla: 12,4 pulgadas, 1752 x 2800 pixels\nProcesador: Snapdragon 8 Gen 2 for Galaxy\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: microSD\nCámara: Dual, 13MP+8MP\nCámara Frontal: 12MP\nBatería: 10090 mAh\nOS: Android 13\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "13.02.13",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/13.02.13-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/13.02.13.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Tablets",
+          "slug": "tablets"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Tablets Samsung",
+          "slug": "tablets-samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Samsung GALAXY TAB S9 ULTRA",
+      "slug": "samsung-galaxy-tab-s8-ultra",
+      "price": 1.00,
+      "sale_price": 2.00,
+      "short_description": "\"Pantalla: 14,6 pulgadas\nProcesador: Snapdragon 8 Gen 2 for Galaxy\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: microSD\nCámara: Dual, 13MP+8MP\nCámara Frontal: 12MP\nBatería: 11.200 mAh\nOS: Android 13\"",
+      "long_description": "\"Pantalla: 14,6 pulgadas\nProcesador: Snapdragon 8 Gen 2 for Galaxy\nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: microSD\nCámara: Dual, 13MP+8MP\nCámara Frontal: 12MP\nBatería: 11.200 mAh\nOS: Android 13\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "13.02.14",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/13.02.14-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/13.02.14.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Tablets",
+          "slug": "tablets"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Tablets Samsung",
+          "slug": "tablets-samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "name": "WATCH 6 CLASSIC BLUETOOTH (47mm)BLACK",
+      "slug": "watch-6-classic-bluetooth-(47mm)black",
+      "price": 1.00,
+      "sale_price": 2.00,
+      "short_description": "\"Pantalla 1.5 pulgadas, 480 x 480 pixeles\nProcesador: Exynos W930\nRAM: 2GB\nAlmacenamiento: 16GB\nBatería:Carga rápida inalámbrica\"",
+      "long_description": "\"Pantalla: 1.5 pulgadas, 480 x 480 pixeles\nProcesador: Exynos W930\nRAM: 2GB\nAlmacenamiento: 16GB\nBatería: Carga rápida inalámbrica\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.419",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/samsungecuador/products/12.02.419-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/samsungecuador/products/12.02.419.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Watchs",
+          "slug": "watchs"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Watchs Samsung",
+          "slug": "watchs-samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "name": "WATCH 5 PRO BLACK",
+      "slug": "watch-5-pro-black",
+      "price": 1.00,
+      "sale_price": 2.00,
+      "short_description": "\"Pantalla: 1.4″, 450 x 450 pixels\nProcesador: Exynos W920 Dual-Core\nRAM: 1.5GB\nAlmacenamiento: 16GB\nBatería: 5000 mAh\"",
+      "long_description": "\"Pantalla: 1.4″, 450 x 450 pixels\nProcesador: Exynos W920 Dual-Core\nRAM: 1.5GB\nAlmacenamiento: 16GB\nBatería: 5000 mAh\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.363",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.363-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.363.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Watchs",
+          "slug": "watchs"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Watchs Samsung",
+          "slug": "watchs-samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "name": "WATCH 6 CLASSIC BLUETOOTH (43mm) SILVER",
+      "slug": "watch-6-classic-bluetooth-(43mm)-silver",
+      "price": 1.00,
+      "sale_price": 2.00,
+      "short_description": "\"Pantalla 1.3 pulgadas, 432 x 432 pixeles\nProcesador: Exynos W930\nRAM: 2GB\nAlmacenamiento: 16GB\nBatería:Carga rápida inalámbrica\"",
+      "long_description": "\"Pantalla: 1.3 pulgadas, 432 x 432 pixeles\nProcesador: Exynos W930\nRAM: 2GB\nAlmacenamiento: 16GB\nBatería: Carga rápida inalámbrica\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.416",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.416-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.416.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Watchs",
+          "slug": "watchs"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Watchs Samsung",
+          "slug": "watchs-samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "name": "WATCH 6 BLUETOOTH (44mm) SILVER ",
+      "slug": "watch-6-bluetooth-(44mm)-silver",
+      "price": 1.00,
+      "sale_price": 2.00,
+      "short_description": "\"Pantalla 1.5 pulgadas, 480 x 480 pixeles\nProcesador: Exynos W930\nRAM: 2GB\nAlmacenamiento: 16GB\nBatería:Carga rápida inalámbrica\"",
+      "long_description": "\"Pantalla: 1.5 pulgadas, 480 x 480 pixeles\nProcesador: Exynos W930\nRAM: 2GB\nAlmacenamiento: 16GB\nBatería: Carga rápida inalámbrica\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.415",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.415-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.415.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Watchs",
+          "slug": "watchs"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Watchs Samsung",
+          "slug": "watchs-samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "name": "WATCH 6 BLUETOOTH (40mm) BLACK",
+      "slug": "watch-6-bluetooth-(40mm)-black",
+      "price": 1.00,
+      "sale_price": 2.00,
+      "short_description": "\"Pantalla: 1.3 pulgadas, 432 x 432 pixeles\nProcesador: Exynos W930\nRAM: 2GB\nAlmacenamiento: 16GB\nBatería:Carga rápida inalámbrica\"",
+      "long_description": "\"Pantalla: 1.3 pulgadas, 432 x 432 pixeles\nProcesador: Exynos W930\nRAM: 2GB\nAlmacenamiento: 16GB\nBatería: Carga rápida inalámbrica\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.417",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.417-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.417.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Watchs",
+          "slug": "watchs"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Watchs Samsung",
+          "slug": "watchs-samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "name": "WATCH 6 BLUETOOTH (44mm) BLACK",
+      "slug": "watch-6-bluetooth-(44mm)-black",
+      "price": 1.00,
+      "sale_price": 2.00,
+      "short_description": "\"Pantalla: 1.5 pulgadas, 480 x 480 pixeles\nProcesador: Exynos W930\nRAM: 2GB\nAlmacenamiento: 16GB\nBatería:Carga rápida inalámbrica\"",
+      "long_description": "\"Pantalla: 1.5 pulgadas, 480 x 480 pixeles\nProcesador: Exynos W930\nRAM: 2GB\nAlmacenamiento: 16GB\nBatería: Carga rápida inalámbrica\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.418",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.418-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.418.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Watchs",
+          "slug": "watchs"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Watchs Samsung",
+          "slug": "watchs-samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "name": "SAMSUNG SOUNDBAR COLOR: BLACK (HW-C450/ZP)",
+      "slug": "samsung-soundbar-color-black-(HW-C450/ZP)",
+      "price": 209.00,
+      "sale_price": 200.01,
+      "short_description": "\"Medidas: 955 X 92 X 45 milímetros\nAltavoces: 175 X 35 X 295 milímetros\nPotencia: 280W\"",
+      "long_description": "\"Medidas: 955 X 92 X 45 milímetros\nAltavoces: 175 X 35 X 295 milímetros\nPotencia: 280W\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "15.02.59",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/15.02.59-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/15.02.59.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "TV",
+          "slug": "tv"
+        }
+      ],
+      "tags": [
+        {
+          "name": "TV Samsung",
+          "slug": "tv-samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "name": "SAMSUNG SOUND TOWER 1500W",
+      "slug": "samsung-sound-tower-1500W",
+      "price": 409.00,
+      "sale_price": 399.00,
+      "short_description": "\"Potencia: 1500W\nTweeter Driver Size: 1.0' / 12 ohm\nMid-Woofer Driver Size: 5.25'/6 ohm\"",
+      "long_description": "\"Potencia: 1500W\nTweeter Driver Size: 1.0' / 12 ohm\nMid-Woofer Driver Size: 5.25'/6 ohm\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "15.02.37",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/15.02.37-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/15.02.37.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "TV",
+          "slug": "tv"
+        }
+      ],
+      "tags": [
+        {
+          "name": "TV Samsung",
+          "slug": "tv-samsung"
         }
       ],
       "brands": [
