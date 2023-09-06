@@ -52,8 +52,17 @@ function IntroSectionV2 ( props ) {
                                     Portátil <span className="text-primary">Poderoso</span>
                                 </div>
                                 <p className="text-dark font-weight-normal">Sorprendentemente simple</p>
+                                {/* 
                                 <ALink href="/shop" className="btn btn-dark btn-outline btn-rounded">
                                     Comprar<i className="d-icon-arrow-right"></i></ALink>
+                                */}
+
+                                <ALink target="_blank" href="https://web.whatsapp.com/send?phone=593939991111&text=Hola."
+                               className="text-primary d-inline-block">
+                                <button className={`btn-product btn-cart text-normal ls-normal font-weight-semi-bold `}><i
+                                className='fab fa-whatsapp'></i>Consultar Disponibilidad
+                                </button>
+                                </ALink>
                             </Reveal>
                         </div>
                     </div>
@@ -96,7 +105,7 @@ function IntroSectionV2 ( props ) {
                                 <h3 className="banner-title font-weight-bold text-white ls-m">SMART TV</h3>
                                 <div className="product-count text-uppercase text-white font-weight-semi-bold">HIPERTRONICS</div>
                                 <span className="divider bg-white"></span>
-                                <ALink href={ { pathname: "/shop" } } className="btn btn-white btn-link btn-underline ls-m">
+                                <ALink href="shop/?category=tv&brand=samsung" className="btn btn-white btn-link btn-underline ls-m">
                                     Ver Catálogo<i className="d-icon-arrow-right"></i></ALink>
                             </div>
                         </div>
@@ -115,7 +124,7 @@ function IntroSectionV2 ( props ) {
                                 <h3 className="banner-title font-weight-bold text-white ls-m">TABLETS</h3>
                                 <div className="product-count text-uppercase text-white font-weight-semi-bold">HIPERTRONICS</div>
                                 <span className="divider bg-white"></span>
-                                <ALink href="https://app.hipertronics.us/clientes/" className="btn btn-white btn-link btn-underline ls-m">
+                                <ALink href="shop/?category=tablets" className="btn btn-white btn-link btn-underline ls-m">
                                     Ingresar<i className="d-icon-arrow-right"></i></ALink>
                             </div>
                         </div>

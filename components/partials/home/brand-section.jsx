@@ -26,7 +26,7 @@ function BrandSection () {
                         <h4 className="banner-subtitle text-white font-weight-semi-bold text-uppercase ls-s">DISTRIBUIDORES</h4>
                             <h3 className="banner-title text-white font-weight-normal ls-m"><strong className="text-uppercase">AUTORIZADOS</strong></h3>
                             <span className="divider bg-dark"></span>
-                            <ALink href="/shop" className="btn btn-dark btn-link btn-underline" style={{ color: 'white' }} >Comprar Ahora<i className="d-icon-arrow-right"></i></ALink>
+                            <ALink href="shop/?category=celulares&brand=honor" className="btn btn-dark btn-link btn-underline" style={{ color: 'white' }} >Comprar Ahora<i className="d-icon-arrow-right"></i></ALink>
                         </div>
                     </div>
                     <div className="banner banner-fixed category-banner2 content-middle banner-radius" style={ { backgroundColor: "#373a3e" } }>
@@ -42,7 +42,7 @@ function BrandSection () {
                             <h4 className="banner-subtitle text-black font-weight-semi-bold text-uppercase ls-s">DISTRIBUIDORES</h4>
                             <h3 className="banner-title text-black font-weight-normal ls-m"><strong className="text-uppercase">AUTORIZADOS</strong></h3>
                             <span className="divider bg-white"></span>
-                            <ALink href="/shop" className="btn btn-white btn-link btn-underline" style={{ color: 'white' }}>Comprar ahora<i className="d-icon-arrow-right"></i></ALink>
+                            <ALink href="shop/?category=celulares&brand=tcl" className="btn btn-white btn-link btn-underline" style={{ color: 'white' }}>Comprar ahora<i className="d-icon-arrow-right"></i></ALink>
                         </div>
                     </div>
                     <div className="banner banner-fixed category-banner1 content-middle banner-radius" style={ { backgroundColor: "#d7d6d3" } }>
@@ -58,7 +58,7 @@ function BrandSection () {
                         <h4 className="banner-subtitle text-white font-weight-semi-bold text-uppercase ls-s">DISTRIBUIDORES</h4>
                             <h3 className="banner-title text-white font-weight-normal ls-m"><strong className="text-uppercase">AUTORIZADOS</strong></h3>
                             <span className="divider bg-dark"></span>
-                            <ALink href="/shop" className="btn btn-dark btn-link btn-underline" style={{ color: 'white' }} >Comprar ahora<i className="d-icon-arrow-right"></i></ALink>
+                            <ALink href="shop/?category=celulares&brand=nokia" className="btn btn-dark btn-link btn-underline" style={{ color: 'white' }} >Comprar ahora<i className="d-icon-arrow-right"></i></ALink>
                         </div>
                     </div>
                 </OwlCarousel>
@@ -72,7 +72,7 @@ function BrandSection () {
                 <div className="row cols-lg-3 cols-md-4 cols-sm-3 cols-2 gutter-xs">
                     <div className="image-wrap">
                         <figure>
-                            <ALink href="#">
+                            <ALink href="shop/?category=celulares&brand=samsung">
                                 <LazyLoadImage
                                     src="images/home/brand/1.jpg"
                                     alt="Brand"
@@ -85,7 +85,7 @@ function BrandSection () {
                     </div>
                     <div className="image-wrap">
                         <figure>
-                            <ALink href="#">
+                            <ALink href="shop/?category=celulares&brand=xiaomi">
                                 <LazyLoadImage
                                     src="images/home/brand/2.jpg"
                                     alt="Brand"
@@ -124,7 +124,7 @@ function BrandSection () {
                     {/*</div>*/}
                     <div className="image-wrap">
                         <figure>
-                            <ALink href="#">
+                            <ALink href="shop/?category=celulares&brand=infinix">
                                 <LazyLoadImage
                                     src="images/home/brand/5.jpg"
                                     alt="Brand"
@@ -137,7 +137,7 @@ function BrandSection () {
                     </div>
                     <div className="image-wrap">
                         <figure>
-                            <ALink href="#">
+                            <ALink href="shop/?category=celulares&brand=nokia">
                                 <LazyLoadImage
                                     src="images/home/brand/2.jpg"
                                     alt="Brand"
@@ -150,7 +150,7 @@ function BrandSection () {
                     </div>
                     <div className="image-wrap">
                         <figure>
-                            <ALink href="#">
+                            <ALink href="shop/?category=celulares&brand=honor">
                                 <LazyLoadImage
                                     src="images/home/brand/honor-loogo.png"
                                     alt="Brand"
@@ -163,7 +163,7 @@ function BrandSection () {
                     </div>
                     <div className="image-wrap">
                         <figure>
-                            <ALink href="#">
+                            <ALink href="shop/?category=celulares&brand=tcl">
                                 <LazyLoadImage
                                     src="images/home/brand/8.jpg"
                                     alt="Brand"

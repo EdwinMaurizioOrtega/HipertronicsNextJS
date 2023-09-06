@@ -34,12 +34,18 @@ function CartMenu( props ) {
         <div className="dropdown cart-dropdown type2 cart-offcanvas mr-0 mr-lg-2">
             <a href="#" className="cart-toggle label-block link" onClick={ showCartMenu }>
                 <div className="cart-label d-lg-show">
+                    {/* 
                     <span className="cart-name">Compras:</span>
                     <span className="cart-price">${ toDecimal( getTotalPrice( cartList ) ) }</span>
+                    */}
                 </div>
+                {/*
                 <i className="d-icon-bag"><span className="cart-count">{ getCartCount( cartList ) }</span></i>
+                */}
             </a>
+            {/*
             <div className="cart-overlay" onClick={ hideCartMenu }></div>
+            */}
             <div className="dropdown-box">
                 <div className="cart-header">
                     <h4 className="cart-title">Shopping Cart</h4>

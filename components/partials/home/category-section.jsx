@@ -10,7 +10,7 @@ function CategorySection () {
                 <div className="row cols-xl-4 cols-lg-4 cols-md-3 cols-sm-2 cols-1">
                     <div className="category category-ellipse mb-4">
                         <figure className="category-media mr-2">
-                            <ALink href={ { pathname: "/shop" } }>
+                            <ALink href="shop/?category=cases">
                                 <LazyLoadImage
                                     src="images/home/category/31.jpg"
                                     alt="Category"
@@ -21,13 +21,13 @@ function CategorySection () {
                         </figure>
                         <div className="category-content pt-0 text-left">
                             <h4 className="category-name font-weight-normal ls-s">
-                                <ALink href={ { pathname: "/shop" } }>Estuches</ALink>
+                                <ALink href="shop/?category=cases">Estuches</ALink>
                             </h4>
                         </div>
                     </div>
                     <div className="category category-ellipse mb-4">
                         <figure className="category-media mr-2">
-                            <ALink href={ { pathname: "/shop"} }>
+                            <ALink href="shop/?category=cargadores">
                                 <LazyLoadImage
                                     src="images/home/category/32.jpg"
                                     alt="Category"
@@ -38,13 +38,13 @@ function CategorySection () {
                         </figure>
                         <div className="category-content pt-0 text-left">
                             <h4 className="category-name font-weight-normal ls-s">
-                                <ALink href={ { pathname: "/shop"} }>Cargadores</ALink>
+                                <ALink href="shop/?category=cargadores">Cargadores</ALink>
                             </h4>
                         </div>
                     </div>
                     <div className="category category-ellipse mb-4">
                         <figure className="category-media mr-2">
-                            <ALink href={ { pathname: "/shop" } }>
+                            <ALink href="shop/?category=buds">
                                 <LazyLoadImage
                                     src="images/home/category/33.jpg"
                                     alt="Category"
@@ -55,13 +55,13 @@ function CategorySection () {
                         </figure>
                         <div className="category-content pt-0 text-left">
                             <h4 className="category-name font-weight-normal ls-s">
-                                <ALink href={ { pathname: "/shop" } }>Audífonos</ALink>
+                                <ALink href="shop/?category=buds">Audífonos</ALink>
                             </h4>
                         </div>
                     </div>
                     <div className="category category-ellipse mb-4">
                         <figure className="category-media mr-2">
-                            <ALink href={ { pathname: "/shop" } }>
+                            <ALink href="shop/?category=smart-watch">
                                 <LazyLoadImage
                                     src="images/home/category/34.jpg"
                                     alt="Category"
@@ -72,7 +72,7 @@ function CategorySection () {
                         </figure>
                         <div className="category-content pt-0 text-left">
                             <h4 className="category-name font-weight-normal ls-s">
-                                <ALink href={ { pathname: "/shop" } }>SmartWatch</ALink>
+                                <ALink href="shop/?category=smart-watch">SmartWatch</ALink>
                             </h4>
                         </div>
                     </div>

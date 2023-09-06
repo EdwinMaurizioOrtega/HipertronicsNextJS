@@ -88,7 +88,7 @@ function SidebarFilterThree () {
 
             <div className="sidebar-content toolbox-left">
                 <div className="toolbox-item select-menu">
-                    <a className="select-menu-toggle" href="#" onClick={ selectOptionHandler }>Select Size</a>
+                    <a className="select-menu-toggle" href="#" onClick={ selectOptionHandler }>Tamaño</a>
 
                     <ul className="filter-items">
                         {
@@ -107,7 +107,7 @@ function SidebarFilterThree () {
                 </div>
 
                 <div className="toolbox-item select-menu">
-                    <a className="select-menu-toggle" href="#" onClick={ selectOptionHandler }>Select Color</a>
+                    <a className="select-menu-toggle" href="#" onClick={ selectOptionHandler }>Color</a>
 
                     <ul className="filter-items">
                         {
@@ -126,7 +126,7 @@ function SidebarFilterThree () {
                 </div>
 
                 <div className="toolbox-item select-menu price-with-count">
-                    <a className="select-menu-toggle" href="#" onClick={ selectOptionHandler }>Select Price</a>
+                    <a className="select-menu-toggle" href="#" onClick={ selectOptionHandler }>Precio</a>
 
                     <ul className="filter-items filter-price">
                         {

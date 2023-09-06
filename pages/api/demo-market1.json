@@ -4441,8 +4441,8 @@
       "id": 82,
       "name": "SAMSUNG SOUNDBAR COLOR: BLACK (HW-C450/ZP)",
       "slug": "samsung-soundbar-color-black-(HW-C450/ZP)",
-      "price": 209.00,
-      "sale_price": 200.01,
+      "price": 2.00,
+      "sale_price": 1.00,
       "short_description": "\"Medidas: 955 X 92 X 45 milímetros\nAltavoces: 175 X 35 X 295 milímetros\nPotencia: 280W\"",
       "long_description": "\"Medidas: 955 X 92 X 45 milímetros\nAltavoces: 175 X 35 X 295 milímetros\nPotencia: 280W\"",
       "stock": 50,
@@ -4492,8 +4492,8 @@
       "id": 83,
       "name": "SAMSUNG SOUND TOWER 1500W",
       "slug": "samsung-sound-tower-1500W",
-      "price": 409.00,
-      "sale_price": 399.00,
+      "price": 2.00,
+      "sale_price": 1.00,
       "short_description": "\"Potencia: 1500W\nTweeter Driver Size: 1.0' / 12 ohm\nMid-Woofer Driver Size: 5.25'/6 ohm\"",
       "long_description": "\"Potencia: 1500W\nTweeter Driver Size: 1.0' / 12 ohm\nMid-Woofer Driver Size: 5.25'/6 ohm\"",
       "stock": 50,
@@ -4530,6 +4530,1133 @@
         {
           "name": "TV Samsung",
           "slug": "tv-samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "name": "SAMSUNG GALAXY A13 CARD SLOT COVER ARCTIC BLUE",
+      "slug": "samsung-galaxy-a13-card-slot-cover-arctic-blue",
+      "price": 2.00,
+      "sale_price": 1.00,
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.347",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.347-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.347.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Cases",
+          "slug": "cases"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cases Samsung",
+          "slug": "cases samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "name": "SAMSUNG GALAXY A13 CARD SLOT COVER AWESOME PEACH",
+      "slug": "samsung-galaxy-a13-card-slot-cover-awesome-blue",
+      "price": 2.00,
+      "sale_price": 1.00,
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.344",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.344-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.344.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Cases",
+          "slug": "cases"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cases Samsung",
+          "slug": "cases samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "name": "SAMSUNG GALAXY A23 CARD SLOT COVER ARCTIC BLUE",
+      "slug": "samsung-galaxy-a23-card-slot-cover-arctic-blue",
+      "price": 2.00,
+      "sale_price": 1.00,
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.348",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.348-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.348.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Cases",
+          "slug": "cases"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cases Samsung",
+          "slug": "cases samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "name": "SAMSUNG GALAXY A23 CARD SLOT COVER ARCTIC BLUE",
+      "slug": "samsung-galaxy-a23-card-slot-cover-arctic-blue",
+      "price": 2.00,
+      "sale_price": 1.00,
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.348",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.348-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.348.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Cases",
+          "slug": "cases"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cases Samsung",
+          "slug": "cases samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "name": "SAMSUNG GALAXY A23 CARD SLOT COVER AWESOME PEACH ",
+      "slug": "samsung-galaxy-a23-card-slot-cover-awesome-peach",
+      "price": 2.00, 
+      "sale_price": 1.00,
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.345",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.345-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.345.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Cases",
+          "slug": "cases"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cases Samsung",
+          "slug": "cases samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "name": "SAMSUNG GALAXY A33 5G CARD SLOT COVER AWESOME PEACH ",
+      "slug": "samsung-galaxy-a33-5g-card-slot-cover-awesome-peach",
+      "price": 2.00, 
+      "sale_price": 1.00,
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.346",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.346-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.346.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Cases",
+          "slug": "cases"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cases Samsung",
+          "slug": "cases samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "name": "SAMSUNG GALAXY A33 5G SOFT CLEAR COVER BLACK ",
+      "slug": "samsung-galaxy-a33-5g-soft-clear-awesome-black",
+      "price": 2.00, 
+      "sale_price": 1.00,
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.298",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.298-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.298.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Cases",
+          "slug": "cases"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cases Samsung",
+          "slug": "cases samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "name": "SAMSUNG GALAXY A33 5G SOFT CLEAR COVER CLEAR",
+      "slug": "samsung-galaxy-a33-5g-soft-clear-cover-clear",
+      "price": 2.00, 
+      "sale_price": 1.00,
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.299",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.299-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.299.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Cases",
+          "slug": "cases"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cases Samsung",
+          "slug": "cases samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "name": "SAMSUNG GALAXY A33 5G SLIM STRAP COVER BLACK",
+      "slug": "samsung-galaxy-a33-5g-slim-strap-cover-black",
+      "price": 2.00, 
+      "sale_price": 1.00,
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.305",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.305-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.305.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Cases",
+          "slug": "cases"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cases Samsung",
+          "slug": "cases samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "name": "SAMSUNG GALAXY A33 5G SLIM STRAP COVER TRANSPARENT",
+      "slug": "samsung-galaxy-a33-5g-slim-strap-cover-transparent",
+      "price": 2.00, 
+      "sale_price": 1.00,
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.306",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.306-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.306.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Cases",
+          "slug": "cases"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cases Samsung",
+          "slug": "cases samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "name": "SAMSUNG GALAXY A53 5G SILICONE COVER ARCTIC BLUE",
+      "slug": "samsung-galaxy-a53-5g-silicone-cover-arctic-blue",
+      "price": 2.00, 
+      "sale_price": 1.00,
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.336",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.336-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.336.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Cases",
+          "slug": "cases"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cases Samsung",
+          "slug": "cases samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "name": "SAMSUNG NOTE 20 PROTECTIVE COVER",
+      "slug": "samsung-note-20-protective-cover",
+      "price": 2.00, 
+      "sale_price": 1.00,
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.61",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.61-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.61.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Cases",
+          "slug": "cases"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cases Samsung",
+          "slug": "cases samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "name": "SAMSUNG NOTE 20 PROTECTIVE COVER",
+      "slug": "samsung-note-20-protective-cover",
+      "price": 2.00, 
+      "sale_price": 1.00,
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.349",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.349-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.349.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Cases",
+          "slug": "cases"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cases Samsung",
+          "slug": "cases samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "name": "SAMSUNG GALAXY S22 PLUS SMART CLEAR VIEW COVER BLACK",
+      "slug": "samsung-galaxy-s22-plus-smart-clear-view-cover-black",
+      "price": 2.00, 
+      "sale_price": 1.00,
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.293",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.293-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.293.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Cases",
+          "slug": "cases"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cases Samsung",
+          "slug": "cases samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "name": "SAMSUNG GALAXY S22 PLUS SMART CLEAR VIEW COVER BURGUNDY",
+      "slug": "samsung-galaxy-s22-plus-smart-clear-view-cover-burgundy",
+      "price": 2.00, 
+      "sale_price": 1.00,
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.294",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.294-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.294.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Cases",
+          "slug": "cases"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cases Samsung",
+          "slug": "cases samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "name": "SAMSUNG GALAXY S22 PLUS SMART CLEAR VIEW COVER BURGUNDY",
+      "slug": "samsung-galaxy-s22-plus-smart-clear-view-cover-burgundy",
+      "price": 2.00, 
+      "sale_price": 1.00,
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.295",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.295-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.295.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Cases",
+          "slug": "cases"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cases Samsung",
+          "slug": "cases samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "name": "SAMSUNG GALAXY S22 PLUS SMART CLEAR VIEW COVER WHITE",
+      "slug": "samsung-galaxy-s22-plus-smart-clear-view-cover-white",
+      "price": 2.00, 
+      "sale_price": 1.00,
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.296",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.296-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.296.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Cases",
+          "slug": "cases"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cases Samsung",
+          "slug": "cases samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "name": "SAMSUNG GALAXY Z FOLD 5 STANDING CASE WITH STRAP GRAPHITE",
+      "slug": "samsung-galaxy-z-fold-5-standing-case-with-strap-graphite",
+      "price": 2.00, 
+      "sale_price": 1.00,
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.420",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.420-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.420.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Cases",
+          "slug": "cases"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cases Samsung",
+          "slug": "cases samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "name": "SAMSUNG GALAXY Z FOLD 5 SLIM S PEN CASE GRAPHITE",
+      "slug": "samsung-galaxy-z-fold-5-slim-s-pen-case-graphite",
+      "price": 2.00, 
+      "sale_price": 1.00,
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.413",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.413-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.413.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Cases",
+          "slug": "cases"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cases Samsung",
+          "slug": "cases samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "name": "SAMSUNG GALAXY Z FLIP5 SILICONE CASE WITH RING MINT",
+      "slug": "samsung-galaxy-z-flip5-silicone-case-with-ring-mint",
+      "price": 2.00, 
+      "sale_price": 1.00,
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.409",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.409-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.409.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Cases",
+          "slug": "cases"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cases Samsung",
+          "slug": "cases samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "name": "SAMSUNG GALAXY Z FLIP5 SILICONE CASE WITH RING CREAM",
+      "slug": "samsung-galaxy-z-flip5-silicone-case-with-ring-cream",
+      "price": 2.00, 
+      "sale_price": 1.00,
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.407",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.407-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.407.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Cases",
+          "slug": "cases"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cases Samsung",
+          "slug": "cases samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "name": "SAMSUNG GALAXY Z FLIP5 SILICONE CASE WITH RING LAVENDER",
+      "slug": "samsung-galaxy-z-flip5-silicone-case-with-ring-lavender",
+      "price": 2.00, 
+      "sale_price": 1.00,
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.408",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.408-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.408.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Cases",
+          "slug": "cases"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cases Samsung",
+          "slug": "cases samsung"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "name": "SAMSUNG GALAXY Z FLIP5 FRONT PROTECTION FILM TRANSPARENT",
+      "slug": "samsung-galaxy-z-flip5-front-protection-film-transparent",
+      "price": 2.00, 
+      "sale_price": 1.00,
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "12.02.421",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.421-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/12.02.421.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Cases",
+          "slug": "cases"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cases Samsung",
+          "slug": "cases samsung"
         }
       ],
       "brands": [

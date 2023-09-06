@@ -24,7 +24,7 @@ function BannerOneSection () {
                         <h4 className="banner-subtitle text-black font-weight-semi-bold text-uppercase ls-s">DISTRIBUIDORES</h4>
                             <h3 className="banner-title text-black font-weight-normal ls-m"><strong className="text-uppercase">AUTORIZADOS</strong></h3>
                             <span className="divider bg-dark"></span>
-                            <ALink href="/shop" className="btn btn-dark btn-link btn-underline" style={{ color: 'white' }}>Comprar Ahora<i className="d-icon-arrow-right"></i></ALink>
+                            <ALink href="shop/?category=celulares&brand=samsung" className="btn btn-dark btn-link btn-underline" style={{ color: 'white' }}>Comprar Ahora<i className="d-icon-arrow-right"></i></ALink>
                         </div>
                     </div>
                     <div className="banner banner-fixed category-banner2 content-middle banner-radius" style={ { backgroundColor: "#373a3e" } }>
@@ -40,7 +40,7 @@ function BannerOneSection () {
                         <h4 className="banner-subtitle text-white font-weight-semi-bold text-uppercase ls-s">DISTRIBUIDORES</h4>
                             <h3 className="banner-title text-white font-weight-normal ls-m"><strong className="text-uppercase">AUTORIZADOS</strong></h3>
                             <span className="divider bg-white"></span>
-                            <ALink href="/shop" className="btn btn-white btn-link btn-underline" style={{ color: 'white' }}>Comprar ahora<i className="d-icon-arrow-right"></i></ALink>
+                            <ALink href="shop/?category=celulares&brand=infinix" className="btn btn-white btn-link btn-underline" style={{ color: 'white' }}>Comprar ahora<i className="d-icon-arrow-right"></i></ALink>
                         </div>
                     </div>
                     <div className="banner banner-fixed category-banner1 content-middle banner-radius" style={ { backgroundColor: "#d7d6d3" } }>
@@ -56,7 +56,7 @@ function BannerOneSection () {
                         <h4 className="banner-subtitle text-black font-weight-semi-bold text-uppercase ls-s">DISTRIBUIDORES</h4>
                             <h3 className="banner-title text-black font-weight-normal ls-m"><strong className="text-uppercase">AUTORIZADOS</strong></h3>
                             <span className="divider bg-dark"></span>
-                            <ALink href="/shop" className="btn btn-dark btn-link btn-underline" style={{ color: 'white' }}>Comprar ahora<i className="d-icon-arrow-right"></i></ALink>
+                            <ALink href="shop/?category=celulares&brand=xiaomi" className="btn btn-dark btn-link btn-underline" style={{ color: 'white' }}>Comprar ahora<i className="d-icon-arrow-right"></i></ALink>
                         </div>
                     </div>
                 </OwlCarousel>

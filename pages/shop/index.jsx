@@ -68,7 +68,7 @@ function ShopHorizontalFilter () {
             <div className="page-content mb-10 pb-2">
                 <div className="container">
                     <ShopBanner />
-
+{/* 
                     <div className="brand-wrapper mb-8">
                         <OwlCarousel adClass="owl-theme" options={ brandSlider2 }>
                             <figure>
@@ -129,7 +129,7 @@ function ShopHorizontalFilter () {
                             </figure>
                         </OwlCarousel>
                     </div>
-
+*/}
                     {/*<div className="row cols-xl-8 cols-lg-6 cols-md-4 cols-sm-3 cols-2">*/}
                     {/*    <div className="category-wrap mb-4">*/}
                     {/*        <div className={ `category category-icon ${ query.category === "fashion" ? "active" : "" }` }>*/}

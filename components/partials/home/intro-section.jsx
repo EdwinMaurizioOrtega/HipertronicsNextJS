@@ -30,7 +30,7 @@ function IntroSection ( props ) {
                                 <div className="banner-price-info font-weight-semi-bold text-body text-uppercase ls-m">
                                     de confianza.
                                 </div>
-                                <ALink href="../product/default/samsung-a24-black/" className="btn btn-dark btn-outline btn-rounded">
+                                <ALink href="/shop/" className="btn btn-dark btn-outline btn-rounded" style={{color:'white'}}>
                                     Ver Catálogo<i className="d-icon-arrow-right"></i></ALink>
                             </Reveal>
                         </div>
@@ -96,7 +96,7 @@ function IntroSection ( props ) {
                                 <h3 className="banner-title font-weight-bold text-white ls-m">ACCESORIOS</h3>
                                 <div className="product-count text-uppercase text-white font-weight-semi-bold">HIPERTRONICS</div>
                                 <span className="divider bg-white"></span>
-                                <ALink href={ { pathname: "/shop" } } className="btn btn-white btn-link btn-underline ls-m">
+                                <ALink href="shop/?category=buds" className="btn btn-white btn-link btn-underline ls-m">
                                     Ver Catálogo<i className="d-icon-arrow-right"></i></ALink>
                             </div>
                         </div>

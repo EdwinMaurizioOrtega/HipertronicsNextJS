@@ -30,7 +30,7 @@ export default function Footer () {
 
                 <div className="footer-middle">
                     <div className="row">
-                        <div className="col-lg-3 col-md-6">
+                        <div className="col-lg-4 col-md-6">
                             <div className="widget widget-info">
                                 <h4 className="widget-title">Datos de contacto</h4>
                                 <ul className="widget-body">
@@ -56,6 +56,7 @@ export default function Footer () {
                             </div>
 
                         </div>
+                        {/* 
                         <div className="col-lg-2 col-md-6">
                             <div className="widget">
                                 <h4 className="widget-title">Mi cuenta</h4>
@@ -79,6 +80,7 @@ export default function Footer () {
                             </div>
 
                         </div>
+                        */}
                         <div className="col-lg-2 col-md-6">
                             <div className="widget">
                                 <h4 className="widget-title">Nosotros</h4>
@@ -86,15 +88,19 @@ export default function Footer () {
                                     <li>
                                         <ALink href="/pages/about-us">Sobre nosotros</ALink>
                                     </li>
+                                    {/* 
                                     <li>
                                         <ALink href="#">Historial de pedidos</ALink>
                                     </li>
+                                    */}
                                     <li>
                                         <ALink href="#">Devoluciones</ALink>
                                     </li>
+                                    {/* 
                                     <li>
                                         <ALink href="#">Servicio personalizado</ALink>
                                     </li>
+                                    */}
                                     <li>
                                         <ALink href="#">Términos &amp; Condiciones</ALink>
                                     </li>
@@ -109,6 +115,7 @@ export default function Footer () {
                                     <li>
                                         <ALink href="#">Métodos de pago</ALink>
                                     </li>
+                                    {/* 
                                     <li>
                                         <ALink href="#">¡Garantía de devolución del dinero!</ALink>
                                     </li>
@@ -121,6 +128,7 @@ export default function Footer () {
                                     <li>
                                         <ALink href="#">Envío</ALink>
                                     </li>
+                                    */}
                                 </ul>
                             </div>
 
