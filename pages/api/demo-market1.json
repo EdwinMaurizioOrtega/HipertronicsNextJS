@@ -5665,6 +5665,108 @@
           "slug": "samsung"
         }
       ]
+    },
+    {
+      "id": 106,
+      "name": "Celular TCL 40 SE",
+      "slug": "celular tcl 40 se",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla externa: 6,75 pulgadas Resolución HD+ de 1.600 x 720 pixels\nProcesador: Mediatek Helio G37\nRAM: 4GB/6GB\nAlmacenamiento: 128GB/256GB\nCámara: Triple, 50MP+2MP+2MP\nBatería: 5100 mAh\nOS: Android 13\"",
+      "long_description": "\"Pantalla externa: 6,75 pulgadas Resolución HD+ de 1.600 x 720 pixels\nProcesador: Mediatek Helio G37\nRAM: 4GB/6GB\nAlmacenamiento: 128GB/256GB\nCámara: Triple, 50MP+2MP+2MP\nBatería: 5100 mAh\nOS: Android 13\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "10.64.02",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/10.64.02-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/10.64.02.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Tcl",
+          "slug": "celulares-tcl"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Tcl",
+          "slug": "tcl"
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "name": "Celular G51 PLUS",
+      "slug": "celular g51 plus",
+      "price": 2,
+      "sale_price": 1,
+      "short_description": "\"Pantalla externa: 6.5″, 720 x 1600 pixels\nProcesador: Octa-core 1.6 GHz Cortex-A55\nRAM: 4GB\nAlmacenamiento: 64GB\nCámara: Triple, 13+0.3+0.3 MP\nBatería: 4000 mAh\nOS: Android 11\"",
+      "long_description": "\"Pantalla externa: 6.5″, 720 x 1600 pixels\nProcesador: Octa-core 1.6 GHz Cortex-A55\nRAM: 4GB\nAlmacenamiento: 64GB\nCámara: Triple, 13+0.3+0.3 MP\nBatería: 4000 mAh\nOS: Android 11\"",
+      "stock": 50,
+      "ratings": 4,
+      "reviews": 1,
+      "sale_count": 98,
+      "sku": "10.03.55",
+      "is_new": null,
+      "is_featured": null,
+      "is_top": null,
+      "until": null,
+      "variants": [],
+      "large_pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/10.03.55-1.jpg",
+          "width": 800,
+          "height": 900
+        }
+      ],
+      "pictures": [
+        {
+          "url": "/uploads/images/hipertronics/products/10.03.55.jpg",
+          "width": 300,
+          "height": 338
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celulares",
+          "slug": "celulares"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Celulares Blu",
+          "slug": "celulares-blu"
+        }
+      ],
+      "brands": [
+        {
+          "name": "Blu",
+          "slug": "blu"
+        }
+      ]
     }
   ],
   "latest": [
