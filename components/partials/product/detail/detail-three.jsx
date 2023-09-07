@@ -304,18 +304,24 @@ function DetailOne(props) {
 
             <div className="product-footer">
                 <div className="social-links mr-4">
-                    <ALink href="#" className="social-link social-facebook fab fa-facebook-f"></ALink>
+                    <ALink href="https://es-la.facebook.com/hipertronics/" className="social-link social-facebook fab fa-facebook-f"></ALink>
+                    <ALink href="https://www.instagram.com/hipertronics/?hl=es" className="social-link social-instagram fab fa-instagram"></ALink>
+                    <ALink href="https://www.linkedin.com/company/hipertronics/?originalSubdomain=ec" className="social-link social-linkedin fab fa-linkedin"></ALink>
+                    {/* 
                     <ALink href="#" className="social-link social-twitter fab fa-twitter"></ALink>
                     <ALink href="#" className="social-link social-pinterest fab fa-pinterest-p"></ALink>
+                    */}
                 </div>
+                {/* 
                 <div className="product-action">
                     <a href="#" className={`btn-product btn-wishlist`}
                        title={isWishlisted ? 'Browse wishlist' : 'Add to wishlist'} onClick={wishlistHandler}>
                         <i className={isWishlisted ? "d-icon-heart-full" : "d-icon-heart"}></i> {
-                        isWishlisted ? 'Browse wishlist' : 'Add to Wishlist'
+                        isWishlisted ? 'Browse wishlist' : 'Add to Wishlist '
                     }
                     </a>
                 </div>
+                */}
             </div>
 
             {
