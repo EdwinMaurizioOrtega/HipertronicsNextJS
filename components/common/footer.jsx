@@ -50,7 +50,10 @@ export default function Footer () {
                                         <label>DIAS LABORABLES / HORAS: </label>
                                     </li>
                                     <li>
-                                        <ALink href="#">Lun - Sab / 9:00 AM - 8:00 PM</ALink>
+                                        <ALink href="#">Lunes - Viernes / 10:00 AM - 7:00 PM</ALink>
+                                    </li>
+                                    <li>
+                                        <ALink href="#">Sábados / 10:00 AM - 6:00 PM</ALink>
                                     </li>
                                 </ul>
                             </div>
@@ -88,21 +91,13 @@ export default function Footer () {
                                     <li>
                                         <ALink href="/pages/about-us">Sobre nosotros</ALink>
                                     </li>
-                                    {/* 
+                                    
                                     <li>
-                                        <ALink href="#">Historial de pedidos</ALink>
+                                        <ALink href="/pages/devoluciones">Devoluciones</ALink>
                                     </li>
-                                    */}
+                                    
                                     <li>
-                                        <ALink href="#">Devoluciones</ALink>
-                                    </li>
-                                    {/* 
-                                    <li>
-                                        <ALink href="#">Servicio personalizado</ALink>
-                                    </li>
-                                    */}
-                                    <li>
-                                        <ALink href="#">Términos &amp; Condiciones</ALink>
+                                        <ALink href="/pages/terminos">Términos &amp; Condiciones</ALink>
                                     </li>
                                 </ul>
                             </div>
@@ -113,22 +108,9 @@ export default function Footer () {
                                 <h4 className="widget-title">Customer Service</h4>
                                 <ul className="widget-body">
                                     <li>
-                                        <ALink href="#">Métodos de pago</ALink>
+                                        <ALink href="/pages/metodos_pago">Métodos de pago</ALink>
                                     </li>
-                                    {/* 
-                                    <li>
-                                        <ALink href="#">¡Garantía de devolución del dinero!</ALink>
-                                    </li>
-                                    <li>
-                                        <ALink href="#">Devoluciones de productos</ALink>
-                                    </li>
-                                    <li>
-                                        <ALink href="#">Centro de Apoyo</ALink>
-                                    </li>
-                                    <li>
-                                        <ALink href="#">Envío</ALink>
-                                    </li>
-                                    */}
+                                    
                                 </ul>
                             </div>
 
@@ -174,88 +156,7 @@ export default function Footer () {
                     </div>
                 </div>
 
-                {/*<div className="footer-main">*/}
-                {/*    <div className="widget widget-category">*/}
-                {/*        <div className="category-box">*/}
-                {/*            <h6 className="category-name">Clothing & Apparel:</h6>*/}
 
-                {/*            <ALink href="#">Boots</ALink>*/}
-                {/*            <ALink href="#">Dresses</ALink>*/}
-                {/*            <ALink href="#">Jeans</ALink>*/}
-                {/*            <ALink href="#">Leather Backpack</ALink>*/}
-                {/*            <ALink href="#">Men's Sneaker</ALink>*/}
-                {/*            <ALink href="#">Men's T-shirt</ALink>*/}
-                {/*            <ALink href="#">Peter England Shirts</ALink>*/}
-                {/*            <ALink href="#">Rayban</ALink>*/}
-                {/*            <ALink href="#">Sunglasses</ALink>*/}
-
-                {/*        </div>*/}
-                {/*        <div className="category-box">*/}
-                {/*            <h6 className="category-name">Computer & Technologies:</h6>*/}
-
-                {/*            <ALink href="#">Apple</ALink>*/}
-                {/*            <ALink href="#">Drone</ALink>*/}
-                {/*            <ALink href="#">Game Controller</ALink>*/}
-                {/*            <ALink href="#">iMac</ALink>*/}
-                {/*            <ALink href="#">Laptop</ALink>*/}
-                {/*            <ALink href="#">Smartphone</ALink>*/}
-                {/*            <ALink href="#">Tablet</ALink>*/}
-                {/*            <ALink href="#">Wireless Speaker</ALink>*/}
-
-                {/*        </div>*/}
-                {/*        <div className="category-box">*/}
-                {/*            <h6 className="category-name">Consumer Electric:</h6>*/}
-                {/*            <ALink href="#">Air Condition</ALink>*/}
-                {/*            <ALink href="#">Audio Speaker</ALink>*/}
-                {/*            <ALink href="#">Refrigerator</ALink>*/}
-                {/*            <ALink href="#">Security Camera</ALink>*/}
-                {/*            <ALink href="#">TV Television</ALink>*/}
-                {/*            <ALink href="#">Washing Machine</ALink>*/}
-                {/*        </div>*/}
-                {/*        <div className="category-box">*/}
-                {/*            <h6 className="category-name">Jewellery & Watches:</h6>*/}
-                {/*            <ALink href="#">Ammolite</ALink>*/}
-                {/*            <ALink href="#">Australian Opal</ALink>*/}
-                {/*            <ALink href="#">Diamond Ring</ALink>*/}
-                {/*            <ALink href="#">Faceted Carnelian</ALink>*/}
-                {/*            <ALink href="#">Gucci</ALink>*/}
-                {/*            <ALink href="#">Leather Watcher</ALink>*/}
-                {/*            <ALink href="#">Necklace</ALink>*/}
-                {/*            <ALink href="#">Pendant</ALink>*/}
-                {/*            <ALink href="#">Rolex</ALink>*/}
-                {/*            <ALink href="#">Silver Earing</ALink>*/}
-                {/*            <ALink href="#">Sun Pyrite</ALink>*/}
-                {/*            <ALink href="#">Watches</ALink>*/}
-                {/*        </div>*/}
-                {/*        <div className="category-box">*/}
-                {/*            <h6 className="category-name">Healthy & Beauty:</h6>*/}
-                {/*            <ALink href="#">Body Shower</ALink>*/}
-                {/*            <ALink href="#">Hair Care</ALink>*/}
-                {/*            <ALink href="#">LipStick</ALink>*/}
-                {/*            <ALink href="#">Makeup</ALink>*/}
-                {/*            <ALink href="#">Perfume</ALink>*/}
-                {/*            <ALink href="#">Skin Care</ALink>*/}
-                {/*        </div>*/}
-                {/*        <div className="category-box">*/}
-                {/*            <h6 className="category-name">Home, Garden & Kitchen:</h6>*/}
-                {/*            <ALink href="#">Bed Room</ALink>*/}
-                {/*            <ALink href="#">Blender</ALink>*/}
-                {/*            <ALink href="#">Chair</ALink>*/}
-                {/*            <ALink href="#">Cookware</ALink>*/}
-                {/*            <ALink href="#">Decor</ALink>*/}
-                {/*            <ALink href="#">Garden Equipments</ALink>*/}
-                {/*            <ALink href="#">Library</ALink>*/}
-                {/*            <ALink href="#">Living Room</ALink>*/}
-                {/*            <ALink href="#">Shield-Oval</ALink>*/}
-                {/*            <ALink href="#">Sofa</ALink>*/}
-                {/*            <ALink href="#">Utensil</ALink>*/}
-                {/*            <ALink href="#">Wayfarer</ALink>*/}
-                {/*        </div>*/}
-
-
-
-                {/*    </div>*/}
-                {/*</div>*/}
                 <div className="footer-bottom">
                     <div className="footer-left">
                         <figure className="payment">

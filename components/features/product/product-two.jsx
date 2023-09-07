@@ -79,7 +79,7 @@ function ProductTwo( props ) {
                             : ''
                     }
                 </div>
-
+{/* 
                 <div className="product-action-vertical">
                     {
                         product.variants.length > 0 ?
@@ -94,9 +94,9 @@ function ProductTwo( props ) {
                         <i className={ isWishlisted ? "d-icon-heart-full" : "d-icon-heart" }></i>
                     </a>
                 </div>
-
+*/}
                 <div className="product-action">
-                    <ALink href="#" className="btn-product btn-quickview" title="Quick View" onClick={ showQuickviewHandler }>Quick View</ALink>
+                    <ALink href="#" className="btn-product btn-quickview" title="Quick View" onClick={ showQuickviewHandler }>Ver Detalles</ALink>
                 </div>
             </figure>
 

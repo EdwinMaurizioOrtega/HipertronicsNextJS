@@ -11,7 +11,7 @@ export const mainMenu = {
             },
             {
                 "title": "Xiaomi",
-                "url": "shop/?category=celulares&brand=xioami"
+                "url": "shop/?category=celulares&brand=xiaomi"
             },
             {
                 "title": "Honor",
@@ -24,7 +24,7 @@ export const mainMenu = {
             },
             {
                 "title": "Blu",
-                "url": "shop/?category=celulares&brand=blu"
+                "url": "shop/?category=celulares&brand=Blu"
             },
             {
                 "title": "TCL",
@@ -88,7 +88,7 @@ export const mainMenu = {
     "blog": [
         {
             "title": "SmartWatch",
-            "url": "shop/?category=smart-watch"
+            "url": "shop/?category=watchs"
         },
         {
             "title": "Buds",

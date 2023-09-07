@@ -83,7 +83,15 @@ function IntroSectionV2 ( props ) {
                                     Brillante y colorido, <span className="text-primary">QLED 4k</span>
                                 </div>
                                 <p className="text-dark font-weight-normal">Explora cual de nuestras TVs, se adapta más a ti</p>
-                                <ALink href="/shop" className="btn btn-dark btn-outline btn-rounded">Comprar<i className="d-icon-arrow-right"></i></ALink>
+                                {/* 
+                                <ALink href="/shop" className="btn btn-dark btn-outline btn-rounded" style={{color:'white'}}>Comprar<i className="d-icon-arrow-right"></i></ALink>
+                                */}
+                                <ALink target="_blank" href="https://web.whatsapp.com/send?phone=593939991111&text=Hola."
+                               className="text-primary d-inline-block">
+                                <button className={`btn-product btn-cart text-normal ls-normal font-weight-semi-bold `}><i
+                                className='fab fa-whatsapp'></i>Consultar Disponibilidad
+                                </button>
+                                </ALink>
                             </Reveal>
                         </div>
                     </div>

@@ -52,8 +52,16 @@ function IntroSection ( props ) {
                                     Portátil <span className="text-primary">Poderoso</span>
                                 </div>
                                 <p className="text-dark font-weight-normal">Sorprendentemente simple</p>
+                                {/* 
                                 <ALink href="/shop" className="btn btn-dark btn-outline btn-rounded">
                                     Comprar<i className="d-icon-arrow-right"></i></ALink>
+                                */}
+                                <ALink target="_blank" href="https://web.whatsapp.com/send?phone=593939991111&text=Hola."
+                               className="text-primary d-inline-block">
+                                <button className={`btn-product btn-cart text-normal ls-normal font-weight-semi-bold `}><i
+                                className='fab fa-whatsapp'></i>Consultar Disponibilidad
+                                </button>
+                                </ALink>
                             </Reveal>
                         </div>
                     </div>

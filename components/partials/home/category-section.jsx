@@ -61,7 +61,7 @@ function CategorySection () {
                     </div>
                     <div className="category category-ellipse mb-4">
                         <figure className="category-media mr-2">
-                            <ALink href="shop/?category=smart-watch">
+                            <ALink href="shop/?category=watchs">
                                 <LazyLoadImage
                                     src="images/home/category/34.jpg"
                                     alt="Category"
@@ -72,7 +72,7 @@ function CategorySection () {
                         </figure>
                         <div className="category-content pt-0 text-left">
                             <h4 className="category-name font-weight-normal ls-s">
-                                <ALink href="shop/?category=smart-watch">SmartWatch</ALink>
+                                <ALink href="shop/?category=watchs">SmartWatch</ALink>
                             </h4>
                         </div>
                     </div>

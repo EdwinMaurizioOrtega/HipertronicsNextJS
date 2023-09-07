@@ -22,6 +22,8 @@ function VendorList () {
                             <li>Store List</li>
                         </ul>
                     </nav>
+
+{/* 
                     <div className="toolbox">
                         <div className="toolbox-left mb-4 mb-md-0">
                             <ALink href="#" className="toolbox-item btn btn-outline btn-dark btn-rounded btn-icon-left form-toggle-btn" onClick={ () => toggleSearch( !search ) }>
@@ -43,6 +45,7 @@ function VendorList () {
                             </div>
                         </div>
                     </div>
+*/}
                     <Collapse in={ search }>
                         <div className="card-wrapper">
                             <div className="form-wrapper mt-4">
@@ -67,6 +70,8 @@ function VendorList () {
                                         />
                                     </figure>
                                 </div>
+
+
                                 <div className="store-content">
                                     <h2 className="store-title">
                                         <ALink href="/vendor/single">Oficina</ALink>
@@ -98,7 +103,7 @@ function VendorList () {
                                         />
                                     </figure>
                                     <ALink href="https://goo.gl/maps/bfpJEdy8FPnu6n9k8" className=
-                                        "btn btn-dark btn-link btn-underline">Encuentranos en:<i className="d-icon-arrow-right"></i></ALink>
+                                        "btn btn-dark btn-link btn-underline" style={{color:'white'}}>Encuentranos en:<i className="d-icon-arrow-right"></i></ALink>
                                 </div>
                             </div>
                         </div>
@@ -143,7 +148,7 @@ function VendorList () {
                                             effect="opacity"
                                         />
                                     </figure>
-                                    <ALink href="https://goo.gl/maps/86e7RVJBEC5HyrcT8" className="btn btn-dark btn-link btn-underline">Encuentranos en:<i className="d-icon-arrow-right"></i></ALink>
+                                    <ALink href="https://goo.gl/maps/86e7RVJBEC5HyrcT8" className="btn btn-dark btn-link btn-underline" style={{color:'white'}}>Encuentranos en:<i className="d-icon-arrow-right"></i></ALink>
                                 </div>
                             </div>
                         </div>
@@ -188,7 +193,7 @@ function VendorList () {
                                             effect="opacity"
                                         />
                                     </figure>
-                                    <ALink href="https://goo.gl/maps/fiZQo4ZtfCbiTzsk6" className="btn btn-dark btn-link btn-underline">Encuentranos en:<i className="d-icon-arrow-right"></i></ALink>
+                                    <ALink href="https://goo.gl/maps/fiZQo4ZtfCbiTzsk6" className="btn btn-dark btn-link btn-underline" style={{color:'white'}}>Encuentranos en:<i className="d-icon-arrow-right"></i></ALink>
                                 </div>
                             </div>
                         </div>
