@@ -100,7 +100,7 @@ export default function ToolBox ( props ) {
                             }
                         </ALink> : ''
                 }
-
+{/* 
                 <div className={ `toolbox-item toolbox-sort ${ type === "boxed" || type === "banner" ? "select-box text-dark" : "select-menu" }` }>
                     {
                         type === "boxed" || type === "banner" ? <label>Sort By :</label> : ''
@@ -115,7 +115,9 @@ export default function ToolBox ( props ) {
                         <option value="">Clear custom sort</option>
                     </select>
                 </div>
+*/}
             </div>
+            {/* 
             <div className="toolbox-right">
                 <div className="toolbox-item toolbox-show select-box text-dark">
                     <label>Show :</label>
@@ -136,6 +138,7 @@ export default function ToolBox ( props ) {
                         <ALink href="#" className="toolbox-item right-sidebar-toggle btn btn-sm btn-outline btn-primary btn-rounded btn-icon-right d-lg-none" onClick={ showSidebar }>Filter<i className="d-icon-arrow-left"></i></ALink> : ''
                 }
             </div>
+            */} 
         </nav>
     )
 }

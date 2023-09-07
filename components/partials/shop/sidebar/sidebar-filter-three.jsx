@@ -85,7 +85,7 @@ function SidebarFilterThree () {
         <aside className="sidebar shop-sidebar sidebar-fixed">
             <div className="sidebar-overlay" onClick={ hideSidebar }></div>
             <ALink className="sidebar-close" href="#" onClick={ hideSidebar }><i className="d-icon-times"></i></ALink>
-
+            {/* 
             <div className="sidebar-content toolbox-left">
                 <div className="toolbox-item select-menu">
                     <a className="select-menu-toggle" href="#" onClick={ selectOptionHandler }>Tamaño</a>
@@ -152,6 +152,7 @@ function SidebarFilterThree () {
                     </ul>
                 </div>
             </div>
+            */}
         </aside >
     )
 }

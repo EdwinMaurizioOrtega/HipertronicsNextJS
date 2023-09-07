@@ -1,13 +1,10 @@
 import React from 'react';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import { connect } from 'react-redux';
-
 import ALink from '~/components/features/custom-link';
-
 import { cartActions } from '~/store/cart';
 import { modalActions } from '~/store/modal';
 import { wishlistActions } from '~/store/wishlist';
-
 import { toDecimal } from '~/utils';
 
 function ProductTwo( props ) {
