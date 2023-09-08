@@ -30,7 +30,7 @@ function IntroSection ( props ) {
                                 <div className="banner-price-info font-weight-semi-bold text-body text-uppercase ls-m">
                                     de confianza.
                                 </div>
-                                <ALink href="/shop/" className="btn btn-dark btn-outline btn-rounded" style={{color:'white'}}>
+                                <ALink href="/shop/?category=celulares" className="btn btn-dark btn-outline btn-rounded" style={{color:'white'}}>
                                     Ver Catálogos<i className="d-icon-arrow-right"></i></ALink>
                             </Reveal>
                         </div>
