@@ -88,22 +88,22 @@ export const mainMenu = {
     "blog": [
         {
             "title": "SmartWatch",
-            "url": "shop/?category=watchs"
+            "url": "shop/?category=accesorios&brand=watchs"
         },
         {
             "title": "Buds",
-            "url": "shop/?category=buds"
+            "url": "shop/?category=accesorios&brand=buds"
         },
 
 
         {
             "title": "Cargadores",
-            "url": "shop/?category=cargadores",
+            "url": "shop/?category=accesorios&brand=cargadores",
 
         },
         {
             "title": "Case",
-            "url": "shop/?category=case"
+            "url": "shop/?category=accesorios&brand=cases"
         }
     ],
     "element": [

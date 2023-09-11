@@ -1890,7 +1890,7 @@
 {
   "id": 33,
   "name": "SAMSUNG A54 BLACK",
-  "slug": "samsung a54 black",
+  "slug": "samsung-a54-black",
   "price": 1279.00,
   "sale_price": 1219.00,
   "short_description": "\"Pantalla: 6.5″, 1080 x 2340 pixels\nProcesador: Exynos 1380 2,4GHz \nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: microSD\nCámara: Triple, 50MP+12MP+5MP\nCámara Frontal: 32MP\nBatería: 5000 mAh\nOS: Android 13\"",
@@ -1941,7 +1941,7 @@
      {
       "id": 34,
       "name": "SAMSUNG S23 GREEN",
-      "slug": "samsung s23 green",
+      "slug": "samsung-s23-green",
       "price": 1,
       "sale_price": 2,
       "short_description": "\"Pantalla: 6.1″, 1080 x 2340 pixels\nProcesador: Sanpdragon 8 Gen 2  \nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: sin microSD\nCámara: Triple, 50+12MP+10MP\nCámara Frontal: 12MP\nBatería: 5000 mAh\nOS: Android 13\"",
@@ -1992,7 +1992,7 @@
     {
       "id": 35,
       "name": "SAMSUNG S23 BLACK",
-      "slug": "samsung s23 black",
+      "slug": "samsung-s23-black",
       "price": 1,
       "sale_price": 2,
       "short_description": "\"Pantalla: 6.1″, 1080 x 2340 pixels\nProcesador: Sanpdragon 8 Gen 2  \nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: sin microSD\nCámara: Triple, 50+12MP+10MP\nCámara Frontal: 12MP\nBatería: 5000 mAh\nOS: Android 13\"",
@@ -2043,7 +2043,7 @@
     {
       "id": 36,
       "name": "SAMSUNG S23 PLUS BLACK",
-      "slug": "samsung s23 plus black",
+      "slug": "samsung-s23-plus-black",
       "price": 1,
       "sale_price": 2,
       "short_description": "\"Pantalla: 6.1″, 1080 x 2340 pixels\nProcesador: Snapdragon 8 Gen 2 for Galaxy 3.36GHz \nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: sin microSD\nCámara: Triple, 50+12MP+10MP\nCámara Frontal: 12MP\nBatería: 4700 mAh\nOS: Android 13\"",
@@ -2094,7 +2094,7 @@
     {
       "id": 37,
       "name": "SAMSUNG S23 PLUS GREEN",
-      "slug": "samsung s23 plus green",
+      "slug": "samsung-s23-plus-green",
       "price": 1,
       "sale_price": 2,
       "short_description": "\"Pantalla: 6.1″, 1080 x 2340 pixels\nProcesador: Snapdragon 8 Gen 2 for Galaxy 3.36GHz \nRAM: 8GB\nAlmacenamiento: 256GB\nExpansión: sin microSD\nCámara: Triple, 50+12MP+10MP\nCámara Frontal: 12MP\nBatería: 4700 mAh\nOS: Android 13\"",
@@ -2145,7 +2145,7 @@
 {
       "id": 38,
       "name": "SAMSUNG GALAXY S23 ULTRA BLACK",
-      "slug": "samsung galaxy s23 ultra black",
+      "slug": "samsung-galaxy-s23-ultra-black",
       "price": 1,
       "sale_price": 2,
       "short_description": "\"Pantalla: 6.8 pulgadas a 1440 x 3088 pixels\nProcesador: Snapdragon 8 Gen 2 for Galaxy 3.36GHz \nRAM: 12GB\nAlmacenamiento: 512GB\nExpansión: sin microSD\nCámara: Cuadruple, 200MP+12MP+10MP+10MP\nCámara Frontal: 12MP\nBatería: 5000 mAh\nOS: Android 13\"",
@@ -2196,7 +2196,7 @@
     {
       "id": 39,
       "name": "SAMSUNG GALAXY S23 ULTRA BEIGE",
-      "slug": "samsung galaxy s23 ultra beige",
+      "slug": "samsung-galaxy-s23-ultra-beige",
       "price": 1,
       "sale_price": 2,
       "short_description": "\"Pantalla: 6.8 pulgadas a 1440 x 3088 pixels\nProcesador: Snapdragon 8 Gen 2 for Galaxy 3.36GHz \nRAM: 12GB\nAlmacenamiento: 512GB\nExpansión: sin microSD\nCámara: Cuadruple, 200MP+12MP+10MP+10MP\nCámara Frontal: 12MP\nBatería: 5000 mAh\nOS: Android 13\"",
@@ -2247,7 +2247,7 @@
     {
       "id": 40,
       "name": "SAMSUNG GALAXY S23 ULTRA LIGHT PINK",
-      "slug": "samsung galaxy s23 ultra light pink",
+      "slug": "samsung-galaxy-s23-ultra-light-pink",
       "price": 1,
       "sale_price": 2,
       "short_description": "\"Pantalla: 6.8 pulgadas a 1440 x 3088 pixels\nProcesador: Snapdragon 8 Gen 2 for Galaxy 3.36GHz \nRAM: 12GB\nAlmacenamiento: 512GB\nExpansión: sin microSD\nCámara: Cuadruple, 200MP+12MP+10MP+10MP\nCámara Frontal: 12MP\nBatería: 5000 mAh\nOS: Android 13\"",
@@ -2298,7 +2298,7 @@
     {
       "id": 41,
       "name": "SAMSUNG GALAXY S23 ULTRA BLACK",
-      "slug": "samsung galaxy s23 ultra black",
+      "slug": "samsung-galaxy-s23-ultra-black",
       "price": 1,
       "sale_price": 2,
       "short_description": "\"Pantalla: 6.8 pulgadas a 1440 x 3088 pixels\nProcesador: Snapdragon 8 Gen 2 for Galaxy 3.36GHz \nRAM: 12GB\nAlmacenamiento: 1TB\nExpansión: sin microSD\nCámara: Cuadruple, 200MP+12MP+10MP+10MP\nCámara Frontal: 12MP\nBatería: 5000 mAh\nOS: Android 13\"",
@@ -3298,8 +3298,8 @@
       ],
       "categories": [
         {
-          "name": "BUDS",
-          "slug": "buds"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -3310,8 +3310,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Buds",
+          "slug": "buds"
         }
       ]
     },
@@ -3349,8 +3349,8 @@
       ],
       "categories": [
         {
-          "name": "BUDS",
-          "slug": "buds"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -3361,8 +3361,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Buds",
+          "slug": "buds"
         }
       ]
     },
@@ -3400,8 +3400,8 @@
       ],
       "categories": [
         {
-          "name": "BUDS",
-          "slug": "buds"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -3412,8 +3412,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "BUDS",
+          "slug": "buds"
         }
       ]
     },
@@ -3451,8 +3451,8 @@
       ],
       "categories": [
         {
-          "name": "BUDS",
-          "slug": "buds"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -3463,8 +3463,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Buds",
+          "slug": "buds"
         }
       ]
     },
@@ -3502,8 +3502,8 @@
       ],
       "categories": [
         {
-          "name": "BUDS",
-          "slug": "buds"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -3514,8 +3514,8 @@
       ],
       "brands": [
         {
-          "name": "Blu",
-          "slug": "Blu"
+          "name": "Buds",
+          "slug": "buds"
         }
       ]
     },
@@ -3553,8 +3553,8 @@
       ],
       "categories": [
         {
-          "name": "BUDS",
-          "slug": "buds"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -3565,8 +3565,8 @@
       ],
       "brands": [
         {
-          "name": "Blu",
-          "slug": "Blu"
+          "name": "Buds",
+          "slug": "buds"
         }
       ]
     },
@@ -3604,8 +3604,8 @@
       ],
       "categories": [
         {
-          "name": "Cargadores",
-          "slug": "cargadores"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -3616,8 +3616,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Cagadores",
+          "slug": "cargadores"
         }
       ]
     },
@@ -3655,8 +3655,8 @@
       ],
       "categories": [
         {
-          "name": "Cargadores",
-          "slug": "cargadores"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -3667,8 +3667,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Cargadores",
+          "slug": "cargadores"
         }
       ]
     },
@@ -3706,8 +3706,8 @@
       ],
       "categories": [
         {
-          "name": "Watchs",
-          "slug": "watchs"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -3718,8 +3718,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Watchs",
+          "slug": "watchs"
         }
       ]
     },
@@ -3757,8 +3757,8 @@
       ],
       "categories": [
         {
-          "name": "Watchs",
-          "slug": "watchs"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -3769,8 +3769,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Watchs",
+          "slug": "watchs"
         }
       ]
     },
@@ -3808,8 +3808,8 @@
       ],
       "categories": [
         {
-          "name": "Watchs",
-          "slug": "watchs"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -3820,8 +3820,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Watchs",
+          "slug": "watchs"
         }
       ]
     },
@@ -3859,8 +3859,8 @@
       ],
       "categories": [
         {
-          "name": "Watchs",
-          "slug": "watchs"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -3871,8 +3871,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Watchs",
+          "slug": "watchs"
         }
       ]
     },
@@ -3910,8 +3910,8 @@
       ],
       "categories": [
         {
-          "name": "Watchs",
-          "slug": "watchs"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -3922,8 +3922,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Watchs",
+          "slug": "watchs"
         }
       ]
     },
@@ -3961,8 +3961,8 @@
       ],
       "categories": [
         {
-          "name": "Watchs",
-          "slug": "watchs"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -3973,8 +3973,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Watchs",
+          "slug": "watchs"
         }
       ]
     },
@@ -4114,8 +4114,8 @@
       ],
       "categories": [
         {
-          "name": "Watchs",
-          "slug": "watchs"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -4126,8 +4126,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Watchs",
+          "slug": "watchs"
         }
       ]
     },
@@ -4165,8 +4165,8 @@
       ],
       "categories": [
         {
-          "name": "Watchs",
-          "slug": "watchs"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -4177,8 +4177,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Watchs",
+          "slug": "watchs"
         }
       ]
     },
@@ -4216,8 +4216,8 @@
       ],
       "categories": [
         {
-          "name": "Watchs",
-          "slug": "watchs"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -4228,8 +4228,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Watchs",
+          "slug": "watchs"
         }
       ]
     },
@@ -4267,8 +4267,8 @@
       ],
       "categories": [
         {
-          "name": "Watchs",
-          "slug": "watchs"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -4279,8 +4279,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Watchs",
+          "slug": "watchs"
         }
       ]
     },
@@ -4318,8 +4318,8 @@
       ],
       "categories": [
         {
-          "name": "Watchs",
-          "slug": "watchs"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -4330,8 +4330,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Watchs",
+          "slug": "watchs"
         }
       ]
     },
@@ -4369,8 +4369,8 @@
       ],
       "categories": [
         {
-          "name": "Watchs",
-          "slug": "watchs"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -4381,8 +4381,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Watchs",
+          "slug": "watchs"
         }
       ]
     },
@@ -4520,8 +4520,8 @@
       ],
       "categories": [
         {
-          "name": "Cases",
-          "slug": "cases"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -4532,8 +4532,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Cases",
+          "slug": "cases"
         }
       ]
     },
@@ -4569,8 +4569,8 @@
       ],
       "categories": [
         {
-          "name": "Cases",
-          "slug": "cases"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -4581,8 +4581,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Cases",
+          "slug": "cases"
         }
       ]
     },
@@ -4618,8 +4618,8 @@
       ],
       "categories": [
         {
-          "name": "Cases",
-          "slug": "cases"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -4630,8 +4630,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Cases",
+          "slug": "cases"
         }
       ]
     },
@@ -4667,8 +4667,8 @@
       ],
       "categories": [
         {
-          "name": "Cases",
-          "slug": "cases"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -4679,8 +4679,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Cases",
+          "slug": "cases"
         }
       ]
     },
@@ -4716,8 +4716,8 @@
       ],
       "categories": [
         {
-          "name": "Cases",
-          "slug": "cases"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -4728,8 +4728,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Cases",
+          "slug": "cases"
         }
       ]
     },
@@ -4777,8 +4777,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Cases",
+          "slug": "cases"
         }
       ]
     },
@@ -4826,8 +4826,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Cases",
+          "slug": "cases"
         }
       ]
     },
@@ -4875,8 +4875,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Cases",
+          "slug": "cases"
         }
       ]
     },
@@ -4924,8 +4924,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Cases",
+          "slug": "cases"
         }
       ]
     },
@@ -4973,8 +4973,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Cases",
+          "slug": "cases"
         }
       ]
     },
@@ -5022,8 +5022,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Cases",
+          "slug": "cases"
         }
       ]
     },
@@ -5071,8 +5071,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Cases",
+          "slug": "cases"
         }
       ]
     },
@@ -5120,8 +5120,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "cases",
+          "slug": "cases"
         }
       ]
     },
@@ -5169,8 +5169,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Cases",
+          "slug": "cases"
         }
       ]
     },
@@ -5218,8 +5218,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Cases",
+          "slug": "cases"
         }
       ]
     },
@@ -5255,8 +5255,8 @@
       ],
       "categories": [
         {
-          "name": "Cases",
-          "slug": "cases"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -5267,8 +5267,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Cases",
+          "slug": "cases"
         }
       ]
     },
@@ -5304,8 +5304,8 @@
       ],
       "categories": [
         {
-          "name": "Cases",
-          "slug": "cases"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -5316,8 +5316,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Cases",
+          "slug": "cases"
         }
       ]
     },
@@ -5353,8 +5353,8 @@
       ],
       "categories": [
         {
-          "name": "Cases",
-          "slug": "cases"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -5365,8 +5365,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Cases",
+          "slug": "cases"
         }
       ]
     },
@@ -5402,8 +5402,8 @@
       ],
       "categories": [
         {
-          "name": "Cases",
-          "slug": "cases"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -5414,8 +5414,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Cases",
+          "slug": "cases"
         }
       ]
     },
@@ -5451,8 +5451,8 @@
       ],
       "categories": [
         {
-          "name": "Cases",
-          "slug": "cases"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -5463,8 +5463,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Cases",
+          "slug": "cases"
         }
       ]
     },
@@ -5500,8 +5500,8 @@
       ],
       "categories": [
         {
-          "name": "Cases",
-          "slug": "cases"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -5512,8 +5512,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Cases",
+          "slug": "cases"
         }
       ]
     },
@@ -5549,8 +5549,8 @@
       ],
       "categories": [
         {
-          "name": "Cases",
-          "slug": "cases"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -5561,8 +5561,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Cases",
+          "slug": "cases"
         }
       ]
     },
@@ -5598,8 +5598,8 @@
       ],
       "categories": [
         {
-          "name": "Cases",
-          "slug": "cases"
+          "name": "Accesorios",
+          "slug": "accesorios"
         }
       ],
       "tags": [
@@ -5610,8 +5610,8 @@
       ],
       "brands": [
         {
-          "name": "Samsung",
-          "slug": "samsung"
+          "name": "Cases",
+          "slug": "cases"
         }
       ]
     },
