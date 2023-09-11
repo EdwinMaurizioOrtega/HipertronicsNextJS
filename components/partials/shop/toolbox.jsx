@@ -87,9 +87,12 @@ export default function ToolBox ( props ) {
             {
                 type === "horizontal" ? <SidebarFilterThree /> : ''
             }
+            {/* */}
             <div className="toolbox-left">
+                {/* 
                 {
                     type === "left" || type === "off-canvas" || type === "navigation" || type === "horizontal" ?
+                    
                         <ALink href="#" className={ `toolbox-item left-sidebar-toggle btn btn-outline btn-primary btn-rounded ${ type === "navigation" ? "btn-icon-left btn-sm" : "btn-sm btn-icon-right" } ${ type === "off-canvas" || type === "navigation" ? '' : "d-lg-none" }` } onClick={ showSidebar }>
                             {
                                 type === "navigation" ? <i className="d-icon-filter-2"></i> : ''
@@ -100,6 +103,7 @@ export default function ToolBox ( props ) {
                             }
                         </ALink> : ''
                 }
+                */}
 {/* 
                 <div className={ `toolbox-item toolbox-sort ${ type === "boxed" || type === "banner" ? "select-box text-dark" : "select-menu" }` }>
                     {
