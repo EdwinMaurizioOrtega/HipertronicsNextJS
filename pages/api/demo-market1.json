@@ -2347,57 +2347,6 @@
       ]
     },
     {
-      "id": 42,
-      "name": "SAMSUNG GALAXY S23 ULTRA GREEN",
-      "slug": "samsung galaxy s23 ultra green",
-      "price": 1,
-      "sale_price": 2,
-      "short_description": "\"Pantalla: 6.8 pulgadas a 1440 x 3088 pixels\nProcesador: Snapdragon 8 Gen 2 for Galaxy 3.36GHz \nRAM: 12GB\nAlmacenamiento: 1TB\nExpansión: sin microSD\nCámara: Cuadruple, 200MP+12MP+10MP+10MP\nCámara Frontal: 12MP\nBatería: 5000 mAh\nOS: Android 13\"",
-      "long_description": "\"Pantalla: 6.8 pulgadas a 1440 x 3088 pixels\nProcesador: Snapdragon 8 Gen 2 for Galaxy 3.36GHz \nRAM: 12GB\nAlmacenamiento: 1TB\nExpansión: sin microSD\nCámara: Cuadruple, 200MP+12MP+10MP+10MP\nCámara Frontal: 12MP\nBatería: 5000 mAh\nOS: Android 13\"",
-      "stock": 50,
-      "ratings": 4,
-      "reviews": 1,
-      "sale_count": 98,
-      "sku": "10.02.100",
-      "is_new": null,
-      "is_featured": null,
-      "is_top": null,
-      "until": null,
-      "variants": [],
-      "large_pictures": [
-        {
-          "url": "/uploads/images/hipertronics/products/10.02.100-1.jpg",
-          "width": 800,
-          "height": 900
-        }
-      ],
-      "pictures": [
-        {
-          "url": "/uploads/images/hipertronics/products/10.02.100.jpg",
-          "width": 300,
-          "height": 338
-        }
-      ],
-      "categories": [
-        {
-          "name": "Celulares",
-          "slug": "celulares"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Celulares Samsung",
-          "slug": "celulares-samsung"
-        }
-      ],
-      "brands": [
-        {
-          "name": "Samsung",
-          "slug": "samsung"
-        }
-      ]
-    },
-    {
       "id": 43,
       "name": "GALAXY ZFLIP 4 BLACK",
       "slug": "galaxy-z-flip-4-black",
@@ -5821,57 +5770,7 @@
         }
       ]
     },
-    {
-      "id": 102,
-      "name": "Samsung ZFLIP5 LIGHT PINK",
-      "slug": "samsung-zflip5-light-pink",
-      "price": 2,
-      "sale_price": 1,
-      "short_description": "\"Pantalla externa: Panel Super AMOLED 3.4″, 748 x 720 pixels\nPantalla interna: Panel Dynamic AMOLED 6.7″,  2640 x 1080 pixels\nProcesador: Sanpdragon 8 Gen 2 for Galaxy\nRAM: 8GB\nAlmacenamiento: 256GB\nCámara Principal: 12MPX+Gran angular 12MPX\nCámara Frontal: 10MPX\nBatería: 3700 mAh\nOS: Android 13\"",
-      "long_description": "\"Pantalla externa: Panel Super AMOLED 3.4″, 748 x 720 pixels\nPantalla interna: Panel Dynamic AMOLED 6.7″,  2640 x 1080 pixels\nProcesador: Sanpdragon 8 Gen 2 for Galaxy\nRAM: 8GB\nAlmacenamiento: 256GB\nCámara Principal: 12MPX+Gran angular 12MPX\nCámara Frontal: 10MPX\nBatería: 3700 mAh\nOS: Android 13\"",
-      "stock": 50,
-      "ratings": 4,
-      "reviews": 1,
-      "sale_count": 98,
-      "sku": "10.02.121",
-      "is_new": null,
-      "is_featured": null,
-      "is_top": null,
-      "until": null,
-      "variants": [],
-      "large_pictures": [
-        {
-          "url": "public/uploads/images/hipertronics/products/10.02.121-1.jpg",
-          "width": 800,
-          "height": 900
-        }
-      ],
-      "pictures": [
-        {
-          "url": "public/uploads/images/hipertronics/products/10.02.121.jpg",
-          "width": 300,
-          "height": 338
-        }
-      ],
-      "categories": [
-        {
-          "name": "Celulares",
-          "slug": "celulares"
-        }
-      ],
-      "tags": [
-        {
-          "name": "Celulares Samsung",
-          "slug": "celulares-samsung"
-        }
-      ],
-      "brands": [
-        {
-          "name": "Samsung",
-          "slug": "samsung"
-        }
-      ]
-    },
+    
     {
       "id": 103,
       "name": "Samsung S23 ULTRA GREEN",
@@ -5892,7 +5791,7 @@
       "variants": [],
       "large_pictures": [
         {
-          "url": "/uploads/images/hipertronics/products/10.02.97.-1.jpg",
+          "url": "/uploads/images/hipertronics/products/10.02.97-1.jpg",
           "width": 800,
           "height": 900
         }
