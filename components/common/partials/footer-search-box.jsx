@@ -99,11 +99,11 @@ function SearchForm() {
         <div className="header-search hs-toggle dir-up">
             <a href="#" className="search-toggle sticky-link" role="button" onClick={ onSearchClick }>
                 <i className="d-icon-search"></i>
-                <span>Search</span>
+                <span>Buscar</span>
             </a>
             <form action="#" method="get" onSubmit={ onSubmitSearchForm } className="input-wrapper">
                 <input type="text" className="form-control" name="search" autoComplete="off" value={ search } onChange={ onSearchChange }
-                    placeholder="Search..." required />
+                    placeholder="Buscar..." required />
 
                 <button className="btn btn-search" type="submit">
                     <i className="d-icon-search"></i>
