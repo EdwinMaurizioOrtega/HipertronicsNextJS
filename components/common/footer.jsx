@@ -113,7 +113,7 @@ export default function Footer () {
                                         <ALink href="/pages/metodos_pago">Servicio técnico</ALink>
                                     </li>
                                     <li>
-                                        <ALink href="/pages/terminos">Términos &amp; Condiciones</ALink>
+                                        <ALink href="https://mecompras.ec/wp-content/uploads/2023/09/LEY-DE-PROTECCION-DE-DATOS-LIDENAR-S.A.pdf">Términos &amp; Condiciones</ALink>
                                     </li>
                                 </ul>
                             </div>
