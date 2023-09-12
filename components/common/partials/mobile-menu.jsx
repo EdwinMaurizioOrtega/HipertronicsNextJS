@@ -10,7 +10,7 @@ function MobileMenu ( props ) {
     const [ search, setSearch ] = useState( "" );
     const [ timer, setTimer ] = useState( null );
     const router = useRouter();
-
+//MODO CELULAR
     useEffect( () => {
         window.addEventListener( 'resize', hideMobileMenuHandler );
         document.querySelector( "body" ).addEventListener( "click", onBodyClick );
@@ -64,6 +64,7 @@ function MobileMenu ( props ) {
             <ALink className="mobile-menu-close" href="#" onClick={ hideMobileMenu }><i className="d-icon-times"></i></ALink>
 
             <div className="mobile-menu-container scrollable">
+                {/* 
                 <form action="#" className="input-wrapper" onSubmit={ onSubmitSearchForm }>
                     <input type="text" className="form-control" name="search" autoComplete="off" value={ search } onChange={ onSearchChange }
                         placeholder="Search your keyword..." required />
@@ -71,40 +72,26 @@ function MobileMenu ( props ) {
                         <i className="d-icon-search"></i>
                     </button>
                 </form>
+                */}
 
                 <ul className="mobile-menu mmenu-anim">
                     <li>
-                        <ALink href={ { pathname: "/shop", query: { category: "office-computers" } } } scroll={ false }><i className="d-icon-desktop"></i> Office Computers</ALink>
+                        <ALink href="/" scroll={ false }><i className="d-icon-home"></i> HOME</ALink>
                     </li>
                     <li>
-                        <ALink href={ { pathname: "/shop", query: { category: "women-s-bag" } } } scroll={ false }><i className="d-icon-handbag"></i> Women's Bag</ALink>
+                        <ALink href="/shop/?category=celulares" scroll={ false }><i className="d-icon-mobile"></i> Celulares</ALink>
                     </li>
                     <li>
-                        <ALink href={ { pathname: "/shop", query: { category: "electronics" } } } scroll={ false }><i className="d-icon-camera2"></i> Electronics</ALink>
+                        <ALink href="/shop/?category=tv" scroll={ false }><i className="d-icon-table-tv"></i> Televisores</ALink>
                     </li>
                     <li>
-                        <ALink href={ { pathname: "/shop", query: { category: "game-consoles" } } } scroll={ false }><i className="d-icon-gamepad2"></i> Game Consoles</ALink>
+                        <ALink href= "/shop/?category=tablets"  scroll={ false }><i className="fas fa-tablet"></i> Tablets</ALink>
                     </li>
                     <li>
-                        <ALink href={ { pathname: "/shop", query: { category: "office-solution" } } } scroll={ false }><i className="d-icon-officebag"></i> Office Solution</ALink>
+                        <ALink href= "/shop/?category=accesorios"  scroll={ false }><i className="d-icon-headphone"></i> Accesorios</ALink>
                     </li>
                     <li>
-                        <ALink href={ { pathname: "/shop", query: { category: "smartphone" } } } scroll={ false }><i className="d-icon-mobile"></i> SmartPhone</ALink>
-                    </li>
-                    <li>
-                        <ALink href={ { pathname: "/shop", query: { category: "industrial" } } } scroll={ false }><i className="d-icon-bridge-lamp"></i> Industrial</ALink>
-                    </li>
-                    <li>
-                        <ALink href={ { pathname: "/shop", query: { category: "headphone" } } } scroll={ false }><i className="d-icon-headphone"></i> Headphones</ALink>
-                    </li>
-                    <li>
-                        <ALink href={ { pathname: "/shop", query: { category: "accessories" } } } scroll={ false }><i className="d-icon-memory"></i> Accessories</ALink>
-                    </li>
-                    <li>
-                        <ALink href={ { pathname: "/shop", query: { category: "rice-cooker" } } } scroll={ false }><i className="d-icon-cook"></i> Rice Cooker</ALink>
-                    </li>
-                    <li>
-                        <ALink href="/shop"><i className="d-icon-category"></i> All Categories</ALink>
+                        <ALink href="http://app.hipertronics.us:3030/clientes/" scroll={ false }><i className="d-icon-mobile"></i> Sistema</ALink>
                     </li>
                 </ul>
             </div>

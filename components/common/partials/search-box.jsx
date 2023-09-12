@@ -102,6 +102,7 @@ function SearchForm () {
         <div className="header-search hs-expanded">
             <a href="#" className="search-toggle" role="button" onClick={ onSearchClick }><i className="icon-search-3"></i></a>
             <form action="#" method="get" onSubmit={ onSubmitSearchForm } className="input-wrapper">
+                {/* 
                 <div className="select-box">
                     <select name="cat" className="cat" value={ cat } onChange={ e => setCat( e.target.value ) }>
                         <option value="">Categorias</option>
@@ -111,6 +112,7 @@ function SearchForm () {
                         <option value="lifestyle">Lifestyle</option>
                     </select>
                 </div>
+                */}
                 <input type="text" className="form-control" name="search" autoComplete="off" value={ search } onChange={ onSearchChange }
                     placeholder="Buscar..." required />
 
