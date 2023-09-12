@@ -46,12 +46,12 @@ function IntroSection ( props ) {
                         </figure>
                         <div className="banner-content text-right">
                             <Reveal keyframes={ fadeInRightShorter } duration={ 1000 }>
-                                <h5 className="banner-subtitle text-capitalize font-weight-normal">¡Llévalo donde quieras!</h5>
-                                <h3 className="banner-title text-uppercase font-weight-bold ls-m">The Freestyle</h3>
-                                <div className="banner-price-info font-weight-semi-bold text-dark text-uppercase ls-m">
-                                    Portátil <span className="text-primary">Poderoso</span>
+                                <h3 className="banner-title text-uppercase font-weight-bold ls-m" style={{color:'white'}}>SMART TV</h3>
+                                <h5 className="banner-subtitle text-capitalize font-weight-normal" style={{color:'white'}}>COLORES REALISTAS</h5>
+                                <div className="banner-price-info font-weight-semi-bold text-white text-uppercase ls-m">
+                                    Descubre la TV que se <span className="text-primary"></span>
                                 </div>
-                                <p className="text-dark font-weight-normal">Sorprendentemente simple</p>
+                                <h5 className="text-white font-weight-normal">ADAPTE MÁS A TI</h5>
                                 {/* 
                                 <ALink href="/shop" className="btn btn-dark btn-outline btn-rounded">
                                     Comprar<i className="d-icon-arrow-right"></i></ALink>

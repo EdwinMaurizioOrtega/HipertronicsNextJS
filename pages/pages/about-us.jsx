@@ -54,7 +54,7 @@ function AboutUs() {
                 style={ { backgroundImage: `url( ./images/page-header/about-us.jpg )`, backgroundColor: "#3C63A4" } }>
                 <h3 className="page-subtitle text-black font-weight-bold">¡Bienvenido a Hipertronics!</h3>
                 <h1 className="page-title font-weight-bold lh-1 text-black text-capitalize" style={{color: 'coral !important'}}>¿Quiénes somos?</h1>
-                <p className="page-desc text-black mb-0">Desde el 2007 trabajando por  liderar el mercado innovador y <br /> tecnológico en el Ecuador.</p>
+                <p className="page-desc text-black mb-0">Somos una empresa dedicada a liderar el mercado <br /> innovador y tecnológico en el Ecuador.</p>
             </div>
         
             <div className="page-content mt-10 pt-10">
@@ -63,16 +63,16 @@ function AboutUs() {
                         <div className="container">
                             <div className="row align-items-center">
                                 <div className="col-lg-4 mb-10 mb-lg-4">
-                                    <h5 className="section-subtitle lh-2 ls-md font-weight-normal">¿Qué hacemos?</h5>
+                                    <h5 className="section-subtitle lh-2 ls-md font-weight-normal"></h5>
                                     <h3 className="section-title lh-1 font-weight-bold" style={{color: 'coral'}}>Distribuidores autorizados
                                     </h3>
-                                    <p className="section-desc">Nos dedicamos a la distribución autorizada de celulares y accesorios tecnológicos en Ecuador.</p>
+                                    <p className="section-desc">Nuestra empresa se dedica a la distribución de celulares, accesorios y dispositivos tecnológicos en Ecuador.</p>
                                 </div>
                                 <div className="col-lg-8 ">
                                     <div className="row">
                                         <div className="col-md-4 mb-4">
                                             <div className="counter text-center" style={{color: 'coral'}}>
-                                                <CountUp start={ 0 } end={ 15 } duration={ 2 }>
+                                                <CountUp start={ 0 } end={ 16 } duration={ 4 }>
                                                     { ( { countUpRef, start } ) => (
                                                         <div className="count-to">
                                                             <span ref={ countUpRef } />
@@ -80,8 +80,8 @@ function AboutUs() {
                                                         </div>
                                                     ) }
                                                 </CountUp>
-                                                <h5 className="count-title font-weight-bold text-body ls-md">Años en el mercado</h5>
-                                                <p className="text-grey mb-0">Más de 15 años en el <br />mercado ecuatoriano.</p>
+                                                <h5 className="count-title font-weight-bold text-body ls-md">AÑOS LIDERANDO</h5>
+                                                <p className="text-grey mb-0">en el mercado ecuatoriano <br /></p>
                                             </div>
                                         </div>
                                         <div className="col-md-4 mb-4">
@@ -94,8 +94,8 @@ function AboutUs() {
                                                         </div>
                                                     ) }
                                                 </CountUp>
-                                                <h5 className="count-title font-weight-bold text-body ls-md">Lugar</h5>
-                                                <p className="text-grey mb-0">Top 3 de mejores importadores de <br />equipos celulares del Ecuador.</p>
+                                                <h5 className="count-title font-weight-bold text-body ls-md">TOP 3</h5>
+                                                <p className="text-grey mb-0">Siendo los mejores importadores de <br />equipos celulares del Ecuador.</p>
                                             </div>
                                         </div>
                                         <div className="col-md-4 mb-4">
@@ -108,8 +108,8 @@ function AboutUs() {
                                                         </div>
                                                     ) }
                                                 </CountUp>
-                                                <h5 className="count-title font-weight-bold text-body ls-md">Miembros</h5>
-                                                <p className="text-grey mb-0">Equipo <br /> Laboral.</p>
+                                                <h5 className="count-title font-weight-bold text-body ls-md">MIEMBROS</h5>
+                                                <p className="text-grey mb-0">Equipo laboral <br /></p>
                                             </div>
                                         </div>
                                     </div>
@@ -127,14 +127,14 @@ function AboutUs() {
         
                                     <h3 className="section-title lh-1 font-weight-bold">Misión</h3>
                                     <p className="section-desc text-grey">
-                                        Aportar en la innovación y desarrollo tecnológico, haciendo llegar equipos electrónicos de punta al mercado ecuatoriano.
+                                    Proporcionar y comercializar dispositivos electrónicos con la más alta e innovadora tecnología a medida de las necesidades empresariales, generando confianza a nuestros clientes, empleados, proveedores y accionistas con el objetivo de incrementar su competitividad y productividad.
                                     </p>
                                 </div>
                                 <div className="col-md-6 mb-4 text-center">
         
                                     <h3 className="section-title lh-1 font-weight-bold">Visión</h3>
                                     <p className="section-desc text-grey">
-                                        Liderar el mercado tecnológico brindando la mejor calidad y experiencia al público, construyendo una marca en donde las personas puedan depositar su confianza.
+                                    Liderar el mercado electrónico impactando la vida de nuestros clientes a través de la tecnología y servicio. Mejorar la experiencia de nuestros proveedores a través de las diferentes plataformas ONLINE construyendo una marca en donde las personas puedan depositar su confianza.
                                     </p>
                                 </div>
                             </div>
