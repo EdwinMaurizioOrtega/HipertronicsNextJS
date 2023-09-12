@@ -20,10 +20,12 @@ export default function Footer () {
                             <p>Obtenga toda la información más reciente sobre eventos, ventas y ofertas.</p>
                         </div>
                         <div className="col-lg-5 widget-newsletter">
+                            {/* 
                             <form action="#" className="input-wrapper-inline mx-auto mx-lg-0">
                                 <input type="email" className="form-control" name="email" id="email" placeholder="dirección de correo electrónico aquí..." required />
                                 <button className="btn btn-primary btn-rounded ml-2" type="submit">suscribirme<i className="d-icon-arrow-right"></i></button>
                             </form>
+                            */}
                         </div>
                     </div>
                 </div>

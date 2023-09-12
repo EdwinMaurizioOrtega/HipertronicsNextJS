@@ -55,6 +55,7 @@ export default function NewsletterModal() {
             overlayClassName="newsletter-modal-overlay"
             className="newsletter-popup bg-img"
         >
+            {/* 
             <div className="newsletter-popup" id="newsletter-popup" style={ { backgroundImage: "url(images/newsletter-popup.jpg)" } }>
                 <div className="newsletter-content">
                     <h4 className="text-uppercase text-dark">Suscribete <span className="text-primary">ahora</span></h4>
@@ -70,6 +71,7 @@ export default function NewsletterModal() {
                     </div>
                 </div>
                 <button title="Close (Esc)" type="button" className="mfp-close" onClick={ closeModal }><span>×</span></button></div>
-        </Modal>
+        */}
+                </Modal>
     );
 }

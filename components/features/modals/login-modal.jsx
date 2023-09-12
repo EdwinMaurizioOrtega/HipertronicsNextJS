@@ -17,7 +17,7 @@ Modal.setAppElement( "#__next" );
 
 function LoginModal () {
     const [ open, setOpen ] = useState( false );
-
+    
     function closeModal () {
         document.querySelector( ".ReactModal__Overlay" ).classList.add( 'removed' );
         document.querySelector( ".login-popup.ReactModal__Content" ).classList.remove( "ReactModal__Content--after-open" );
