@@ -16,8 +16,8 @@ export default function Footer () {
 
                         </div>
                         <div className="col-lg-4 widget-newsletter mb-4 mb-lg-0">
-                            <h4 className="widget-title ls-m">Obtenga ofertas especiales y ahorros</h4>
-                            <p>Obtenga toda la información más reciente sobre eventos, ventas y ofertas.</p>
+                            <h4 className="widget-title ls-m">Ofertas especiales y ahorros</h4>
+                            <p>Obtenga toda la información sobre descuentos, ventas y ofertas.</p>
                         </div>
                         <div className="col-lg-5 widget-newsletter">
                             <form action="#" className="input-wrapper-inline mx-auto mx-lg-0">
@@ -32,7 +32,7 @@ export default function Footer () {
                     <div className="row">
                         <div className="col-lg-4 col-md-6">
                             <div className="widget widget-info">
-                                <h4 className="widget-title">Datos de contacto</h4>
+                                <h4 className="widget-title">DATOS DE CONTACTO</h4>
                                 <ul className="widget-body">
                                     <li>
                                         <label>Teléfono: </label>
@@ -47,13 +47,13 @@ export default function Footer () {
                                         <ALink href="#">Padre Aguirre 9-68, Cuenca, Ecuador</ALink>
                                     </li>
                                     <li>
-                                        <label>DIAS LABORABLES / HORAS: </label>
+                                        <label>HORARIOS DE ATENCIÓN</label>
                                     </li>
                                     <li>
-                                        <ALink href="#">Lunes - Viernes / 10:00 AM - 7:00 PM</ALink>
+                                        <ALink href="#">Lunes a Viernes / 10:00 AM - 19:00 PM</ALink>
                                     </li>
                                     <li>
-                                        <ALink href="#">Sábados / 10:00 AM - 6:00 PM</ALink>
+                                        <ALink href="#">Sábados / 10:00 AM - 18:00 PM</ALink>
                                     </li>
                                 </ul>
                             </div>
@@ -86,7 +86,7 @@ export default function Footer () {
                         */}
                         <div className="col-lg-2 col-md-6">
                             <div className="widget">
-                                <h4 className="widget-title">Nosotros</h4>
+                                <h4 className="widget-title">NOSOTROS</h4>
                                 <ul className="widget-body">
                                     <li>
                                         <ALink href="/pages/about-us">Sobre nosotros</ALink>
@@ -95,9 +95,9 @@ export default function Footer () {
                                     <li>
                                         <ALink href="/pages/devoluciones">Devoluciones</ALink>
                                     </li>
-                                    
-                                    <li>
-                                        <ALink href="/pages/terminos">Términos &amp; Condiciones</ALink>
+
+                                     <li>
+                                        <ALink href="/pages/devoluciones">Formas de pago</ALink>
                                     </li>
                                 </ul>
                             </div>
@@ -105,19 +105,21 @@ export default function Footer () {
                         </div>
                         <div className="col-lg-2 col-md-6">
                             <div className="widget">
-                                <h4 className="widget-title">Customer Service</h4>
+                                <h4 className="widget-title">CUSTOMER SERVICE</h4>
                                 <ul className="widget-body">
                                     <li>
-                                        <ALink href="/pages/metodos_pago">Métodos de pago</ALink>
+                                        <ALink href="/pages/metodos_pago">Servicio técnico</ALink>
                                     </li>
-                                    
+                                    <li>
+                                        <ALink href="/pages/terminos">Términos &amp; Condiciones</ALink>
+                                    </li>
                                 </ul>
                             </div>
 
                         </div>
                         <div className="col-lg-3 col-md-6">
                             <div className="widget widget-instagram pl-lg-10 mb-0 mb-md-6">
-                                <h4 className="widget-title">Redes Sociales</h4>
+                                <h4 className="widget-title">REDES SOCIALES</h4>
                                 <figure className="widget-body row">
                                     <div className="col-3">
                                         <ALink href="https://es-la.facebook.com/hipertronics/">
