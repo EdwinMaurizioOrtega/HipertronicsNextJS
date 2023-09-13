@@ -30,10 +30,7 @@ function IntroSectionV2 ( props ) {
                                 <div className="banner-price-info font-weight-semi-bold text-body text-uppercase ls-m" >
                                     SCVS-INMV-DNAR-2022-00003181
                                 </div>
-                                {/* 
                                 <ALink href="https://apollo.hipertronics.us/uploads/files/RESOLUCION_3189_I_EOLP_LIDENAR_SA.pdf" className="btn btn-dark btn-outline btn-rounded" style={{ color: 'white' }}>
-                                */}
-                                <ALink href="https://mecompras.ec/wp-content/uploads/2023/09/LEY-DE-PROTECCION-DE-DATOS-LIDENAR-S.A.pdf" className="btn btn-dark btn-outline btn-rounded" style={{ color: 'white' }}>
                                     Descargar Aquí<i className="d-icon-arrow-right"></i></ALink>
                             </Reveal>
                         </div>
@@ -137,6 +134,7 @@ function IntroSectionV2 ( props ) {
                                 <span className="divider bg-white"></span>
                                 <ALink href="shop/?category=tablets" className="btn btn-white btn-link btn-underline ls-m">
                                     Ingresar<i className="d-icon-arrow-right"></i></ALink>
+                                    
                             </div>
                         </div>
                     </div>

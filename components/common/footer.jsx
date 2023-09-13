@@ -20,10 +20,12 @@ export default function Footer () {
                             <p>Obtenga toda la información sobre descuentos, ventas y ofertas.</p>
                         </div>
                         <div className="col-lg-5 widget-newsletter">
+                            {/* 
                             <form action="#" className="input-wrapper-inline mx-auto mx-lg-0">
                                 <input type="email" className="form-control" name="email" id="email" placeholder="dirección de correo electrónico aquí..." required />
                                 <button className="btn btn-primary btn-rounded ml-2" type="submit">suscribirme<i className="d-icon-arrow-right"></i></button>
                             </form>
+                            */}
                         </div>
                     </div>
                 </div>
@@ -111,7 +113,7 @@ export default function Footer () {
                                         <ALink href="/pages/metodos_pago">Servicio técnico</ALink>
                                     </li>
                                     <li>
-                                        <ALink href="/pages/terminos">Términos &amp; Condiciones</ALink>
+                                        <ALink href="https://mecompras.ec/wp-content/uploads/2023/09/LEY-DE-PROTECCION-DE-DATOS-LIDENAR-S.A.pdf">Términos &amp; Condiciones</ALink>
                                     </li>
                                 </ul>
                             </div>

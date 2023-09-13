@@ -114,7 +114,7 @@ function SearchForm() {
                         <ALink href={ `/product/default/${ product.slug }` } className="autocomplete-suggestion" key={ `search-result-${ index }` }>
                             <LazyLoadImage effect="opacity" src={ process.env.NEXT_PUBLIC_ASSET_URI + product.pictures[ 0 ].url } width={ 40 } height={ 40 } alt="product" />
                             <div className="search-name" dangerouslySetInnerHTML={ removeXSSAttacks( matchEmphasize( product.name ) ) }></div>
-
+                            {/* 
                             <span className="search-price">
                                 {
                                     product.price[ 0 ] !== product.price[ 1 ] ?
@@ -128,6 +128,7 @@ function SearchForm() {
                                         : <span className="new-price">${ toDecimal( product.price[ 0 ] ) }</span>
                                 }
                             </span>
+                            */}
                         </ALink>
                     ) )
                     }
