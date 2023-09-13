@@ -95,11 +95,7 @@ export default function Footer () {
                                     </li>
                                     
                                     <li>
-                                        <ALink href="/pages/devoluciones">Devoluciones</ALink>
-                                    </li>
-
-                                     <li>
-                                        <ALink href="/pages/devoluciones"></ALink>
+                                        <ALink href="https://mecompras.ec/wp-content/uploads/2023/09/DEVOLUCIO%CC%81N.pdf">Devoluciones</ALink>
                                     </li>
                                 </ul>
                             </div>
@@ -110,7 +106,7 @@ export default function Footer () {
                                 <h4 className="widget-title">CUSTOMER SERVICE</h4>
                                 <ul className="widget-body">
                                     <li>
-                                        <ALink href="/pages/metodos_pago">Servicio técnico</ALink>
+                                        <ALink href="https://bitecu.com/">Servicio técnico</ALink>
                                     </li>
                                     <li>
                                         <ALink href="https://mecompras.ec/wp-content/uploads/2023/09/LEY-DE-PROTECCION-DE-DATOS-LIDENAR-S.A.pdf">Términos &amp; Condiciones</ALink>

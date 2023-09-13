@@ -34,6 +34,7 @@ function LoginModal () {
     }
 
     return (
+    
         <>
             <a className="login-link" href="#" onClick={ openModal }>
                 {/*<i className="d-icon-user"></i>*/}Iniciar sesión</a>

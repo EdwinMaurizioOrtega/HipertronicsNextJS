@@ -140,7 +140,7 @@
 // Footer
 .footer {
     @include print_css( footer );
-    p {
+    background: #000000;    p {
         font-size: inherit;
     }
     a:not(.social-link) {   
