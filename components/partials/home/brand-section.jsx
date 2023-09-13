@@ -139,7 +139,7 @@ function BrandSection () {
                         <figure>
                             <ALink href="shop/?category=celulares&brand=nokia">
                                 <LazyLoadImage
-                                    src="images/home/brand/2.jpg"
+                                    src="images/home/brand/4.jpg"
                                     alt="Brand"
                                     width="228"
                                     height="100"

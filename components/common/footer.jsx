@@ -97,7 +97,7 @@ export default function Footer () {
                                     </li>
 
                                      <li>
-                                        <ALink href="/pages/devoluciones">Formas de pago</ALink>
+                                        <ALink href="/pages/devoluciones"></ALink>
                                     </li>
                                 </ul>
                             </div>
