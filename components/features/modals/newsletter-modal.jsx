@@ -45,15 +45,15 @@ export default function NewsletterModal() {
     function handleChange( event ) {
         setNoMore( event.target.checked );
     }
-
+//VENTANA QUE APARECE AL INICIO
     return (
         <Modal
-            isOpen={ modalState }
-            style={ modalStyles }
-            onRequestClose={ closeModal }
-            shouldReturnFocusAfterClose={ false }
-            overlayClassName="newsletter-modal-overlay"
-            className="newsletter-popup bg-img"
+            //isOpen={ modalState }
+            //style={ modalStyles }
+            //onRequestClose={ closeModal }
+            //shouldReturnFocusAfterClose={ false }
+            //overlayClassName="newsletter-modal-overlay"
+            //className="newsletter-popup bg-img"
         >
             {/* 
             <div className="newsletter-popup" id="newsletter-popup" style={ { backgroundImage: "url(images/newsletter-popup.jpg)" } }>

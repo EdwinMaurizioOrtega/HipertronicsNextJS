@@ -90,7 +90,7 @@ function SearchForm () {
     function onSubmitSearchForm ( e ) {
         e.preventDefault();
         router.push( {
-            pathname: '/shop',
+            pathname: '/api',
             query: {
                 search: search,
                 category: cat
@@ -102,17 +102,7 @@ function SearchForm () {
         <div className="header-search hs-expanded">
             <a href="#" className="search-toggle" role="button" onClick={ onSearchClick }><i className="icon-search-3"></i></a>
             <form action="#" method="get" onSubmit={ onSubmitSearchForm } className="input-wrapper">
-                {/* 
-                <div className="select-box">
-                    <select name="cat" className="cat" value={ cat } onChange={ e => setCat( e.target.value ) }>
-                        <option value="">Categorias</option>
-                        <option value="travel">Travel</option>
-                        <option value="shopping">Shopping</option>
-                        <option value="fashion">Fashion</option>
-                        <option value="lifestyle">Lifestyle</option>
-                    </select>
-                </div>
-                */}
+                
                 <input type="text" className="form-control" name="search" autoComplete="off" value={ search } onChange={ onSearchChange }
                     placeholder="Buscar..." required />
 
@@ -125,21 +115,6 @@ function SearchForm () {
                         <ALink href={ `/product/default/${ product.slug }` } className="autocomplete-suggestion" key={ `search-result-${ index }` }>
                             <LazyLoadImage effect="opacity" src={ process.env.NEXT_PUBLIC_ASSET_URI + product.pictures[ 0 ].url } width={ 40 } height={ 40 } alt="product" />
                             <div className="search-name ml-4" dangerouslySetInnerHTML={ removeXSSAttacks( matchEmphasize( product.name ) ) }></div>
-                            {/* 
-                            <span className="search-price">
-                                {
-                                    product.price[ 0 ] !== product.price[ 1 ] ?
-                                        product.variants.length === 0 ?
-                                            <>
-                                                <span className="new-price mr-1">${ toDecimal( product.price[ 0 ] ) }</span>
-                                                <span className="old-price">${ toDecimal( product.price[ 1 ] ) }</span>
-                                            </>
-                                            :
-                                            < span className="new-price">${ toDecimal( product.price[ 0 ] ) } – ${ toDecimal( product.price[ 1 ] ) }</span>
-                                        : <span className="new-price">${ toDecimal( product.price[ 0 ] ) }</span>
-                                }
-                            </span>
-                            */}
                         </ALink>
                     ) )
                     }
