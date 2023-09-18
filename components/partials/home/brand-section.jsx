@@ -74,7 +74,7 @@ function BrandSection () {
                         <figure>
                             <ALink href="shop/?category=celulares&brand=samsung">
                                 <LazyLoadImage
-                                    src="images/home/brand/1.jpg"
+                                    src="images/home/brand/1.png"
                                     alt="Brand"
                                     width="228"
                                     height="100"
@@ -87,7 +87,7 @@ function BrandSection () {
                         <figure>
                             <ALink href="shop/?category=celulares&brand=xiaomi">
                                 <LazyLoadImage
-                                    src="images/home/brand/2.jpg"
+                                    src="images/home/brand/logo_Mesa de trabajo 1 copia 3.png"
                                     alt="Brand"
                                     width="228"
                                     height="100"
@@ -126,7 +126,7 @@ function BrandSection () {
                         <figure>
                             <ALink href="shop/?category=celulares&brand=infinix">
                                 <LazyLoadImage
-                                    src="images/home/brand/5.jpg"
+                                    src="images/home/brand/logo_Mesa de trabajo 1 copia 4.png"
                                     alt="Brand"
                                     width="228"
                                     height="100"
@@ -139,7 +139,7 @@ function BrandSection () {
                         <figure>
                             <ALink href="shop/?category=celulares&brand=nokia">
                                 <LazyLoadImage
-                                    src="images/home/brand/4.jpg"
+                                    src="images/home/brand/logo_Mesa de trabajo 1 copia.png"
                                     alt="Brand"
                                     width="228"
                                     height="100"
@@ -152,7 +152,7 @@ function BrandSection () {
                         <figure>
                             <ALink href="shop/?category=celulares&brand=honor">
                                 <LazyLoadImage
-                                    src="images/home/brand/honor-loogo.png"
+                                    src="images/home/brand/logo_Mesa de trabajo 1 copia 2.png"
                                     alt="Brand"
                                     width="228"
                                     height="100"
@@ -165,7 +165,7 @@ function BrandSection () {
                         <figure>
                             <ALink href="shop/?category=celulares&brand=tcl">
                                 <LazyLoadImage
-                                    src="images/home/brand/8.jpg"
+                                    src="images/home/brand/logo_Mesa de trabajo 1 copia 5.png"
                                     alt="Brand"
                                     width="228"
                                     height="100"
