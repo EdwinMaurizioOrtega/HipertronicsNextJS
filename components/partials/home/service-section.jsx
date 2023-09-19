@@ -6,6 +6,7 @@ import { serviceSlider } from '~/utils/data/carousel';
 
 function ServiceBox ( props ) {
     return (
+        
         <div className="service-wrapper mt-2 mb-10">
             <div className="service-list">
                 <OwlCarousel adClass="owl-theme" options={ serviceSlider }>
