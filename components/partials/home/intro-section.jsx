@@ -123,7 +123,8 @@ function IntroSection ( props ) {
                                 <h3 className="banner-title font-weight-bold text-white ls-m">MI CUENTA</h3>
                                 <div className="product-count text-uppercase text-white font-weight-semi-bold">HIPERTRONICS</div>
                                 <span className="divider bg-white"></span>
-                                <ALink href="https://app.hipertronics.us/clientes/" className="btn btn-white btn-link btn-underline ls-m">
+                                {/* <ALink href="https://app.hipertronics.us/clientes/" className="btn btn-white btn-link btn-underline ls-m"> */}
+                                <ALink href="http://app.hipertronics.us:3030/clientes/" className="btn btn-white btn-link btn-underline ls-m">
                                     Regístrate<i className="d-icon-arrow-right"></i></ALink>
                             </div>
                         </div>
