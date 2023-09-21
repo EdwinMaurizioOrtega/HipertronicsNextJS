@@ -10,8 +10,8 @@ export default function Footer () {
                     <div className="row align-items-center">
                         <div className="col-lg-3">
                             <ALink href="market1.html" className="logo-footer">
-                                <img src="images/home/footer-logo.png" alt="logo-footer" width="153"
-                                    height="44" />
+                                <img src="images/home/footer-logo.png" alt="logo-footer" width="250"
+                                    height="100" />
                             </ALink>
 
                         </div>
