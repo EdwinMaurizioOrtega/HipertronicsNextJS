@@ -23,7 +23,7 @@ function IntroSectionV2 ( props ) {
                                 height="450"
                             />
                         </figure>
-                        <div className="banner-content">
+                        <div className="banner-content" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', textAlign: 'center', marginLeft: '150px' }}>
                             <Reveal keyframes={ fadeInLeftShorter } duration={ 1000 }>
                                 <h5 className="banner-subtitle text-capitalize font-weight-normal">Conoce más sobre la emisión de obligaciones</h5>
                                 <h3 className="banner-title text-uppercase font-weight-bold ls-m">Resolución No.</h3>
