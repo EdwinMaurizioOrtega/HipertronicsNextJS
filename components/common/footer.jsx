@@ -8,7 +8,7 @@ export default function Footer () {
             <div className="container">
                 <div className="footer-top">
                     <div className="row align-items-center">
-                        <div className="col-lg-3">
+                        <div className="col-lg-4">
                             <ALink href="market1.html" className="logo-footer">
                                 <img src="images/home/footer-logo.png" alt="logo-footer" width="153"
                                     height="44" />
@@ -19,20 +19,46 @@ export default function Footer () {
                             <h4 className="widget-title ls-m">Ofertas especiales y ahorros</h4>
                             <p>Obtenga toda la información sobre descuentos, ventas y ofertas.</p>
                         </div>
-                        <div className="col-lg-5 widget-newsletter">
-                            {/* 
-                            <form action="#" className="input-wrapper-inline mx-auto mx-lg-0">
-                                <input type="email" className="form-control" name="email" id="email" placeholder="dirección de correo electrónico aquí..." required />
-                                <button className="btn btn-primary btn-rounded ml-2" type="submit">suscribirme<i className="d-icon-arrow-right"></i></button>
-                            </form>
-                            */}
-                        </div>
                     </div>
                 </div>
 
-                <div className="footer-middle">
+                <div className="footer-middle" >
                     <div className="row">
-                        <div className="col-lg-4 col-md-6">
+                    <div className="col-lg-3 col-md-6">
+                            <div className="widget">
+                                <h4 className="widget-title">NOSOTROS</h4>
+                                <ul className="widget-body">
+                                    <li>
+                                        <ALink href="/pages/about-us">Sobre nosotros</ALink>
+                                    </li>
+                                    
+                                    {/* <li>
+                                        <ALink href="https://mecompras.ec/wp-content/uploads/2023/09/DEVOLUCIO%CC%81N.pdf">Devoluciones</ALink>
+                                    </li> */}
+                                    <li>
+                                        <ALink href="https://mecompras.ec/wp-content/uploads/2023/09/LEY-DE-PROTECCION-DE-DATOS-LIDENAR-S.A.pdf">Términos &amp; Condiciones</ALink>
+                                    </li>
+                                </ul>
+                            </div>
+
+                        </div>
+                        
+                        <div className="col-lg-3 col-md-6">
+                            <div className="widget">
+                                <h4 className="widget-title">CUSTOMER SERVICE</h4>
+                                <ul className="widget-body">
+                                    <li>
+                                        <ALink href="https://bitecu.com/">Servicio técnico</ALink>
+                                    </li>
+                                    <li>
+                                        <ALink href="#">Política de Garantia</ALink>
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+
+                        </div>
+                        <div className="col-lg-3 col-md-6">
                             <div className="widget widget-info">
                                 <h4 className="widget-title">DATOS DE CONTACTO</h4>
                                 <ul className="widget-body">
@@ -48,69 +74,7 @@ export default function Footer () {
                                         <label>Dirección: </label>
                                         <ALink href="#">Padre Aguirre 9-68, Cuenca, Ecuador</ALink>
                                     </li>
-                                    <li>
-                                        <label>HORARIOS DE ATENCIÓN</label>
-                                    </li>
-                                    <li>
-                                        <ALink href="#">Lunes a Viernes / 10:00 AM - 19:00 PM</ALink>
-                                    </li>
-                                    <li>
-                                        <ALink href="#">Sábados / 10:00 AM - 18:00 PM</ALink>
-                                    </li>
-                                </ul>
-                            </div>
-
-                        </div>
-                        {/* 
-                        <div className="col-lg-2 col-md-6">
-                            <div className="widget">
-                                <h4 className="widget-title">Mi cuenta</h4>
-                                <ul className="widget-body">
-                                    <li>
-                                        <ALink href="/pages/about-us">Seguimiento de mi pedido</ALink>
-                                    </li>
-                                    <li>
-                                        <ALink href="/pages/cart">Ver carrito</ALink>
-                                    </li>
-                                    <li>
-                                        <ALink href="/pages/account">Iniciar sesión</ALink>
-                                    </li>
-                                    <li>
-                                        <ALink href="/pages/wishlist">Lista de deseos</ALink>
-                                    </li>
-                                    <li>
-                                        <ALink href="#">Política de privacidad</ALink>
-                                    </li>
-                                </ul>
-                            </div>
-
-                        </div>
-                        */}
-                        <div className="col-lg-2 col-md-6">
-                            <div className="widget">
-                                <h4 className="widget-title">NOSOTROS</h4>
-                                <ul className="widget-body">
-                                    <li>
-                                        <ALink href="/pages/about-us">Sobre nosotros</ALink>
-                                    </li>
                                     
-                                    <li>
-                                        <ALink href="https://mecompras.ec/wp-content/uploads/2023/09/DEVOLUCIO%CC%81N.pdf">Devoluciones</ALink>
-                                    </li>
-                                </ul>
-                            </div>
-
-                        </div>
-                        <div className="col-lg-2 col-md-6">
-                            <div className="widget">
-                                <h4 className="widget-title">CUSTOMER SERVICE</h4>
-                                <ul className="widget-body">
-                                    <li>
-                                        <ALink href="https://bitecu.com/">Servicio técnico</ALink>
-                                    </li>
-                                    <li>
-                                        <ALink href="https://mecompras.ec/wp-content/uploads/2023/09/LEY-DE-PROTECCION-DE-DATOS-LIDENAR-S.A.pdf">Términos &amp; Condiciones</ALink>
-                                    </li>
                                 </ul>
                             </div>
 
@@ -147,8 +111,22 @@ export default function Footer () {
                                             width="64"
                                             height="64"
                                         />
+                                        
                                         </ALink>
                                     </div>
+                                    
+                                  
+                                    <li>
+                                    
+                                        <label>HORARIOS DE ATENCIÓN</label>
+                                        
+                                    </li>
+                                    <li>
+                                        <ALink href="#">Lunes a Viernes / 10:00 AM - 19:00 PM</ALink>
+                                    </li>
+                                    <li>
+                                        <ALink href="#">Sábados / 10:00 AM - 18:00 PM</ALink>
+                                    </li>
                                 </figure>
                             </div>
 

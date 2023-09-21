@@ -43,9 +43,9 @@ function SearchForm() {
         e.currentTarget.parentNode.classList.toggle('show');
     }
 
-    function onBodyClick(e) {
-        // Puedes implementar lógica aquí si es necesario
-    }
+    //function onBodyClick(e) {
+        
+    //}
 
     function onSearchChange(e) {
         setSearch(e.target.value);
