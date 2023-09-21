@@ -81,7 +81,7 @@ function HomePage () {
                     <div className="container">
                         <IntroSectionV2 />
 
-                        <ServiceBox />
+                        
                     </div>
                 </div>
 
